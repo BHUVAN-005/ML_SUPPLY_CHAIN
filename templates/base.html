@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>ASCIP - Apple Supply Chain Intelligence</title>
+
+  <link href="https://fonts.cdnfonts.com/css/sf-pro-display" rel="stylesheet">
+  <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}"/>
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+  <link rel="icon" href="https://www.apple.com/favicon.ico"/>
+</head>
+<body>
+
+  <!-- SIDEBAR -->
+  <nav class="sidebar">
+    <h2>ASCIP</h2>
+    <ul>
+      <li><a href="/" class="{% if active_page == 'overview' %}active{% endif %}"><span>📊</span><span>Overview</span></a></li>
+      <li><a href="/demand" class="{% if active_page == 'demand' %}active{% endif %}"><span>📈</span><span>Demand Forecasting</span></a></li>
+      <li><a href="/suppliers" class="{% if active_page == 'suppliers' %}active{% endif %}"><span>🏭</span><span>Supplier Intelligence</span></a></li>
+      <li><a href="/logistics" class="{% if active_page == 'logistics' %}active{% endif %}"><span>🚚</span><span>Logistics Optimization</span></a></li>
+    </ul>
+  </nav>
+
+  <main class="content">
+    {% block content %}{% endblock %}
+  </main>
+
+  <script src="{{ url_for('static', filename='js/main.js') }}"></script>
+</body>
+</html>

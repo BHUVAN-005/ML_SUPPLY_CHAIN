@@ -1,0 +1,1001 @@
+﻿Company Name,SCM Practices,Supplier Count,Inventory Turnover Ratio,Lead Time (days),Order Fulfillment Rate (%),Customer Satisfaction (%),Technology Utilized,Environmental Impact Score,Supply Chain Agility,Supplier Lead Time Variability (days),Inventory Accuracy (%),Transportation Cost Efficiency (%),Supply Chain Integration Level,Sustainability Practices,Supply Chain Complexity Index,Cost of Goods Sold (COGS),Operational Efficiency Score,Revenue Growth Rate out of (15),Supply Chain Risk (%),Supplier Collaboration Level,Supply Chain Resilience Score,Supplier Relationship Score
+Apple,Agile SCM,300,7,8,94,91,"ERP, AI, Blockchain",70,High,2,98,90,High,Advanced,Medium,$700B,85,12,7,High,90,85
+Microsoft,Lean Manufacturing,200,5.2,15,91,89,"ERP, AI, Robotics",75,High,5,97,85,Medium,Advanced,Medium,$800B,80,10,12,Medium,85,85
+Google,Cross-Docking,"20,000",7.5,4,95,90,"AI, ERP, Blockchain",70,High,1,98,88,High,Advanced,High,$300B,80,12,5,High,90,85
+Amazon,Agile SCM,500,10.5,15,95,90,"ERP, AI, Blockchain",70,High,10,95,80,High,Advanced,Medium,$1000B,78,8,12,Medium,88,85
+Facebook,Lean Manufacturing,100,5.8,12,89,88,"ERP, AI, Robotics",75,High,4,97,85,High,Advanced,Medium,$400B,80,10,10,Medium,85,80
+IBM,Agile SCM,200,7,8,94,91,"ERP, AI, Blockchain",70,High,2,98,90,High,Advanced,Medium,$600B,85,12,7,High,90,85
+Intel,Sustainable SCM,"20,000",5.2,11,90,88,"ERP, AI, Blockchain",85,High,4,97,88,High,Advanced,Medium,$400B,85,9,10,High,87,80
+Oracle,Agile SCM,400,6,9,93,91,"ERP, AI, Blockchain",70,High,2,97,88,High,Advanced,Medium,$700B,85,10,7,High,90,85
+Cisco,Lean Manufacturing,"1,500",7.2,5,93,89,"ERP, AI, Blockchain",80,High,2,98,90,High,Advanced,High,$500B,85,11,5,High,90,85
+Samsung,Agile SCM,200,6,10,92,90,"ERP, AI, Blockchain",75,High,2,98,90,High,Advanced,High,$800B,85,10,8,High,90,85
+Sony,Demand-Driven SCM,500,5.5,10,92,90,"ERP, AI, Blockchain",80,High,4,98,85,High,Advanced,Medium,$500B,80,12,8,High,89,85
+Dell,Agile SCM,300,7,8,94,91,"ERP, AI, Blockchain",70,High,2,98,90,High,Advanced,Medium,$700B,85,12,7,High,90,85
+HP,Lean Manufacturing,500,4.5,20,89,87,"ERP, AI, Blockchain",75,Medium,5,96,85,Medium,Advanced,Medium,$900B,80,9,12,Medium,85,80
+Adobe,Agile SCM,250,10,7,98,93,"ERP, AI, Blockchain",75,High,1,98,90,High,Advanced,High,$1200B,88,12,3,High,95,90
+Nvidia,Lean Manufacturing,300,5,18,87,85,"ERP, AI, Robotics",75,Medium,6,95,85,Medium,Advanced,Medium,$500B,80,9,15,Medium,85,80
+Tencent,Agile SCM,250,6,9,93,92,"ERP, AI, Blockchain",75,High,2,98,90,High,Advanced,High,$900B,85,11,8,High,91,85
+Baidu,Lean Manufacturing,"10,000",5,15,91,89,"ERP, AI, Blockchain",65,Medium,5,95,85,Medium,Advanced,Medium,$300B,80,10,10,Medium,85,80
+SAP,Vendor Managed Inventory,100,4.2,12,91,89,"ERP, AI, Blockchain",80,High,3,99,88,High,Advanced,Low,$700B,85,11,10,High,88,85
+Salesforce,Efficient Consumer Response,"75,000",6.5,10,90,85,"ERP, AI, Blockchain",85,High,5,96,85,High,Advanced,Medium,$350B,82,11,8,High,87,85
+Alibaba,Sustainable SCM,"70,000",7.5,12,88,85,"AI, ERP, Blockchain",90,Medium,4,97,80,Medium,Advanced,Medium,$400B,75,8,15,Medium,80,78
+Xiaomi,Lean Manufacturing,100,5.8,12,89,88,"ERP, AI, Robotics",75,High,4,97,85,High,Advanced,Medium,$400B,80,10,10,Medium,85,80
+Huawei,Agile SCM,200,5,12,90,89,"ERP, AI, Blockchain",70,High,4,97,85,High,Advanced,Medium,$700B,80,9,8,High,88,85
+LG,Lean Manufacturing,500,5.5,14,90,88,"ERP, AI, Blockchain",70,Medium,4,97,85,Medium,Advanced,Medium,$800B,85,9,12,Medium,85,85
+Panasonic,Agile SCM,300,6.5,10,92,90,"ERP, AI, Blockchain",70,High,2,97,85,High,Advanced,Medium,$800B,85,11,8,High,88,85
+Broadcom,Demand-Driven SCM,300,6,10,94,91,"ERP, AI, Blockchain",70,High,2,98,88,High,Advanced,High,$500B,85,12,7,High,90,85
+Qualcomm,Lean Manufacturing,500,5,14,88,87,"ERP, AI, Robotics",70,High,5,97,85,Medium,Advanced,Medium,$500B,80,10,10,Medium,85,80
+AMD,Agile SCM,400,5.8,8,94,89,"ERP, AI, Blockchain",75,High,2,98,85,High,Advanced,Medium,$800B,85,10,5,High,90,85
+Uber,Vendor Managed Inventory,150,4,11,91,90,"ERP, AI, Blockchain",80,High,3,99,88,High,Advanced,Low,$600B,85,11,10,High,88,85
+Lyft,Vendor Managed Inventory,100,4.5,10,90,88,"ERP, AI, Blockchain",80,High,3,98,88,High,Advanced,Low,$700B,85,11,8,High,88,85
+Airbnb,Agile SCM,200,5.5,11,90,89,"ERP, AI, Blockchain",75,High,4,97,88,High,Advanced,Medium,$600B,85,10,8,High,88,85
+Spotify,Agile SCM,150,5.8,10,93,92,"ERP, AI, Blockchain",75,High,2,98,88,High,Advanced,Medium,$800B,85,10,8,High,90,85
+Twitter,Sustainable SCM,"20,000",5.2,11,90,88,"ERP, AI, Blockchain",85,High,4,97,88,High,Advanced,Medium,$400B,85,9,10,High,87,80
+LinkedIn,Vendor Managed Inventory,100,4.2,12,91,89,"ERP, AI, Blockchain",80,High,3,99,88,High,Advanced,Low,$700B,85,11,10,High,88,85
+Pinterest,Just-In-Time,"1,300,000",8.2,2,98,92,"AI, Robotics, Blockchain",80,High,1,99,88,High,Advanced,High,"$1,500B",85,20,5,High,90,85
+Snap Inc.,Vendor Managed Inventory,200,4.2,12,91,89,"ERP, AI, Blockchain",80,High,3,99,88,High,Advanced,Low,$700B,85,11,10,High,88,85
+Dropbox,Lean Manufacturing,300,5,18,87,85,"ERP, AI, Robotics",75,Medium,6,95,85,Medium,Advanced,Medium,$500B,80,9,15,Medium,85,80
+Slack,Lean Manufacturing,100,5.8,12,89,88,"ERP, AI, Robotics",75,High,4,97,85,High,Advanced,Medium,$400B,80,10,10,Medium,85,80
+Zoom,Lean Manufacturing,400,4,18,88,85,"ERP, JIT, Robotics",70,High,5,95,85,High,Advanced,Medium,$700B,80,10,12,Medium,85,80
+Square,Vendor Managed Inventory,150,4,11,91,90,"ERP, AI, Blockchain",80,High,3,99,88,High,Advanced,Low,$600B,85,11,10,High,88,85
+PayPal,Agile SCM,150,6,10,92,90,"ERP, AI, Blockchain",75,High,2,98,90,High,Advanced,High,$900B,85,11,8,High,91,85
+Shopify,Vendor Managed Inventory,100,4.5,10,90,88,"ERP, AI, Blockchain",80,High,3,98,88,High,Advanced,Low,$700B,85,11,8,High,88,85
+Stripe,Agile SCM,300,6.5,10,92,90,"ERP, AI, Blockchain",70,High,2,97,85,High,Advanced,Medium,$800B,85,11,8,High,88,85
+ByteDance,Agile SCM,150,6,10,92,90,"ERP, AI, Blockchain",75,High,2,98,90,High,Advanced,High,$800B,85,10,8,High,90,85
+TikTok,Lean Manufacturing,500,4.2,20,88,85,"ERP, AI, Robotics",70,Medium,5,96,85,Medium,Advanced,Medium,$800B,80,10,12,Medium,85,80
+Netflix,Lean Manufacturing,400,4.5,18,90,88,"ERP, AI, Robotics",75,High,5,97,85,High,Advanced,Medium,$900B,85,11,10,Medium,85,85
+Hulu,Agile SCM,300,10,7,98,94,"AI, ERP, Blockchain",75,High,1,98,92,High,Advanced,High,$1500B,90,12,3,High,95,90
+Disney+,Lean Manufacturing,300,6.2,10,93,91,"ERP, AI, Blockchain",80,High,2,98,88,High,Advanced,Medium,$800B,85,10,8,High,90,85
+Roku,Vendor Managed Inventory,100,4.2,12,91,89,"ERP, AI, Blockchain",80,High,3,99,88,High,Advanced,Low,$700B,85,11,10,High,88,85
+Hulu,Lean Manufacturing,300,5,22,89,87,"ERP, AI, Blockchain",75,Medium,5,96,85,Medium,Advanced,Medium,$900B,85,9,15,Medium,85,80
+Asana,Demand-Driven SCM,300,6,10,94,91,"ERP, AI, Blockchain",70,High,2,98,88,High,Advanced,High,$500B,85,12,7,High,90,85
+Trello,Lean Manufacturing,"10,000",5,15,91,89,"ERP, AI, Blockchain",65,Medium,5,95,85,Medium,Advanced,Medium,$300B,80,10,10,Medium,85,80
+Atlassian,Sustainable SCM,"20,000",5.2,11,90,88,"ERP, AI, Blockchain",85,High,4,97,88,High,Advanced,Medium,$400B,85,9,10,High,87,80
+GitHub,Lean Manufacturing,500,4.2,20,88,85,"ERP, AI, Robotics",70,Medium,5,96,85,Medium,Advanced,Medium,$800B,80,10,12,Medium,85,80
+Bitbucket,Vendor Managed Inventory,200,4.2,12,91,89,"ERP, AI, Blockchain",80,High,3,99,88,High,Advanced,Low,$700B,85,11,10,High,88,85
+Red Hat,Lean Manufacturing,100,5.8,12,89,88,"ERP, AI, Robotics",75,High,4,97,85,High,Advanced,Medium,$400B,80,10,10,Medium,85,80
+VMware,Vendor Managed Inventory,150,4,11,91,90,"ERP, AI, Blockchain",80,High,3,99,88,High,Advanced,Low,$600B,85,11,10,High,88,85
+Citrix,Agile SCM,250,10,7,98,93,"ERP, AI, Blockchain",75,High,1,98,90,High,Advanced,High,$1200B,88,12,3,High,95,90
+Splunk,Lean Manufacturing,400,4,18,88,85,"ERP, JIT, Robotics",70,High,5,95,85,High,Advanced,Medium,$700B,80,10,12,Medium,85,80
+ServiceNow,Agile SCM,200,6,12,91,90,"ERP, AI, Blockchain",75,High,3,97,85,High,Advanced,Medium,$800B,85,11,10,High,88,85
+Workday,Sustainable SCM,"20,000",5.2,11,90,88,"ERP, AI, Blockchain",85,High,4,97,88,High,Advanced,Medium,$400B,85,9,10,High,87,80
+Snowflake,Lean Manufacturing,500,6,14,90,85,"ERP, JIT, Robotics",75,High,5,98,85,High,Advanced,Medium,$700B,80,10,10,Medium,85,80
+Databricks,Agile SCM,200,50,7,99,94,"AI, ERP, Blockchain",65,High,2,98,92,High,Advanced,Low,$1200B,88,15,3,High,95,90
+Palantir,Lean Manufacturing,300,6.2,10,93,91,"ERP, AI, Blockchain",80,High,2,98,88,High,Advanced,Medium,$800B,85,10,8,High,90,85
+MongoDB,Vendor Managed Inventory,100,4.2,12,91,89,"ERP, AI, Blockchain",80,High,3,99,88,High,Advanced,Low,$700B,85,11,10,High,88,85
+Elastic,Agile SCM,250,10,7,98,93,"ERP, AI, Blockchain",75,High,1,98,90,High,Advanced,High,$1200B,88,12,3,High,95,90
+Cloudera,Sustainable SCM,"20,000",5.2,11,90,88,"ERP, AI, Blockchain",85,High,4,97,88,High,Advanced,Medium,$400B,85,9,10,High,87,80
+Confluent,Vendor Managed Inventory,150,3.5,9,92,93,"ERP, AI, Blockchain",80,High,3,99,88,High,Advanced,Low,$800B,85,12,8,High,88,85
+Informatica,Just-In-Time,"1,300,000",8.2,2,98,92,"AI, Robotics, Blockchain",80,High,1,99,88,High,Advanced,High,"$1,500B",85,20,5,High,90,85
+Alteryx,Lean Manufacturing,200,5.2,15,91,89,"ERP, AI, Robotics",75,High,5,97,85,Medium,Advanced,Medium,$800B,80,10,12,Medium,85,85
+Tableau,Agile SCM,200,7,8,94,91,"ERP, AI, Blockchain",70,High,2,98,90,High,Advanced,Medium,$600B,85,12,7,High,90,85
+SAS,Demand-Driven SCM,500,5.5,10,92,90,"ERP, AI, Blockchain",80,High,4,98,85,High,Advanced,Medium,$500B,80,12,8,High,89,85
+Teradata,Agile SCM,150,6,10,92,90,"ERP, AI, Blockchain",75,High,2,98,90,High,Advanced,High,$900B,85,11,8,High,91,85
+Qlik,Agile SCM,250,6,9,93,92,"ERP, AI, Blockchain",75,High,2,98,90,High,Advanced,High,$900B,85,11,8,High,91,85
+Looker,Agile SCM,300,10,7,98,94,"AI, ERP, Blockchain",75,High,1,98,92,High,Advanced,High,$1500B,90,12,3,High,95,90
+Domo,Cross-Docking,"100,000",8.3,2,98,90,"AI, ERP, Blockchain",75,High,1,98,90,High,Advanced,High,$500B,80,12,5,High,90,85
+MicroStrategy,Agile SCM,200,6,10,92,90,"ERP, AI, Blockchain",75,High,2,98,90,High,Advanced,High,$800B,85,10,8,High,90,85
+ThoughtSpot,Lean Manufacturing,"10,000",5,15,91,89,"ERP, AI, Blockchain",65,Medium,5,95,85,Medium,Advanced,Medium,$300B,80,10,10,Medium,85,80
+Sisense,Just-In-Time,"1,000,000",7.5,3,97,91,"AI, Robotics, Blockchain",75,High,1,98,90,High,Advanced,High,"$1,200B",85,18,5,High,90,88
+Talend,Agile SCM,200,6,12,91,90,"ERP, AI, Blockchain",75,High,3,97,85,High,Advanced,Medium,$800B,85,11,10,High,88,85
+Collibra,Demand-Driven SCM,300,6,10,94,91,"ERP, AI, Blockchain",70,High,2,98,88,High,Advanced,High,$500B,85,12,7,High,90,85
+Alation,Vendor Managed Inventory,150,4,11,91,90,"ERP, AI, Blockchain",80,High,3,99,88,High,Advanced,Low,$600B,85,11,10,High,88,85
+Trifacta,Vendor Managed Inventory,100,4.2,12,91,89,"ERP, AI, Blockchain",80,High,3,99,88,High,Advanced,Low,$700B,85,11,10,High,88,85
+Reltio,Vendor Managed Inventory,100,4.5,10,90,88,"ERP, AI, Blockchain",80,High,3,98,88,High,Advanced,Low,$700B,85,11,8,High,88,85
+DataRobot,Lean Manufacturing,300,5,22,89,87,"ERP, AI, Blockchain",75,Medium,5,96,85,Medium,Advanced,Medium,$900B,85,9,15,Medium,85,80
+Dataiku,Lean Manufacturing,400,4.5,18,90,88,"ERP, AI, Robotics",75,High,5,97,85,High,Advanced,Medium,$900B,85,11,10,Medium,85,85
+Domino Data Lab,Lean Manufacturing,400,4,18,88,85,"ERP, JIT, Robotics",70,High,5,95,85,High,Advanced,Medium,$700B,80,10,12,Medium,85,80
+Anaconda,Lean Manufacturing,300,5,18,87,85,"ERP, AI, Robotics",75,Medium,6,95,85,Medium,Advanced,Medium,$500B,80,9,15,Medium,85,80
+Kaggle,Agile SCM,150,5.8,10,93,92,"ERP, AI, Blockchain",75,High,2,98,88,High,Advanced,Medium,$800B,85,10,8,High,90,85
+MathWorks,Lean Manufacturing,500,5.5,14,90,88,"ERP, AI, Blockchain",70,Medium,4,97,85,Medium,Advanced,Medium,$800B,85,9,12,Medium,85,85
+RapidMiner,Agile SCM,300,10.5,8,94,89,"ERP, AI, Blockchain",,High,2,98,90,High,Advanced,Medium,$700B,85,12,7,High,90,85
+KNIME,Lean Manufacturing,200,5.8,15,91,90,"ERP, AI, Robotics",,High,5,97,85,Medium,Advanced,Medium,$800B,80,10,12,Medium,85,85
+H2O.ai,Cross-Docking,"20,000",7,4,95,90,"AI, ERP, Blockchain",,High,1,98,88,High,Advanced,High,$300B,80,12,5,High,90,85
+Altair,Agile SCM,500,5.2,15,95,88,"ERP, AI, Blockchain",,High,10,95,80,High,Advanced,Medium,$1000B,78,8,12,Medium,88,85
+OpenAI,Lean Manufacturing,100,6,12,89,91,"ERP, AI, Robotics",,High,4,97,85,High,Advanced,Medium,$400B,80,10,10,Medium,85,80
+DeepMind,Agile SCM,200,7.2,8,94,88,"ERP, AI, Blockchain",,High,2,98,90,High,Advanced,Medium,$600B,85,12,7,High,90,85
+Element AI,Sustainable SCM,"20,000",6,11,90,91,"ERP, AI, Blockchain",,High,4,97,88,High,Advanced,Medium,$400B,85,9,10,High,87,80
+Nuro,Agile SCM,400,5.5,9,93,89,"ERP, AI, Blockchain",,High,2,97,88,High,Advanced,Medium,$700B,85,10,7,High,90,85
+Zoox,Lean Manufacturing,"1,500",7,5,93,90,"ERP, AI, Blockchain",,High,2,98,90,High,Advanced,High,$500B,85,11,5,High,90,85
+Aurora,Agile SCM,200,4.5,10,92,90,"ERP, AI, Blockchain",,High,2,98,90,High,Advanced,High,$800B,85,10,8,High,90,85
+Waymo,Demand-Driven SCM,500,10,10,92,91,"ERP, AI, Blockchain",,High,4,98,85,High,Advanced,Medium,$500B,80,12,8,High,89,85
+Johnson & Johnson,Agile SCM,300,5,8,94,87,"ERP, AI, Blockchain",,High,2,98,90,High,Advanced,Medium,$700B,85,12,7,High,90,85
+Pfizer,Lean Manufacturing,500,6,20,89,93,"ERP, AI, Blockchain",,Medium,5,96,85,Medium,Advanced,Medium,$900B,80,9,12,Medium,85,80
+Merck,Agile SCM,250,5,7,98,85,"ERP, AI, Blockchain",,High,1,98,90,High,Advanced,High,$1200B,88,12,3,High,95,90
+Novartis,Lean Manufacturing,300,4.2,18,87,92,"ERP, AI, Robotics",,Medium,6,95,85,Medium,Advanced,Medium,$500B,80,9,15,Medium,85,80
+Roche,Agile SCM,250,6.5,9,93,89,"ERP, AI, Blockchain",,High,2,98,90,High,Advanced,High,$900B,85,11,8,High,91,85
+Sanofi,Lean Manufacturing,"10,000",7.5,15,91,89,"ERP, AI, Blockchain",,Medium,5,95,85,Medium,Advanced,Medium,$300B,80,10,10,Medium,85,80
+GSK,Vendor Managed Inventory,100,5.8,12,91,85,"ERP, AI, Blockchain",,High,3,99,88,High,Advanced,Low,$700B,85,11,10,High,88,85
+AstraZeneca,Efficient Consumer Response,"75,000",5,10,90,85,"ERP, AI, Blockchain",,High,5,96,85,High,Advanced,Medium,$350B,82,11,8,High,87,85
+AbbVie,Sustainable SCM,"70,000",5.5,12,88,88,"AI, ERP, Blockchain",,Medium,4,97,80,Medium,Advanced,Medium,$400B,75,8,15,Medium,80,78
+Amgen,Lean Manufacturing,100,6.5,12,89,89,"ERP, AI, Robotics",,High,4,97,85,High,Advanced,Medium,$400B,80,10,10,Medium,85,80
+Bristol-Myers Squibb,Agile SCM,200,6,12,90,88,"ERP, AI, Blockchain",,High,4,97,85,High,Advanced,Medium,$700B,80,9,8,High,88,85
+Eli Lilly,Lean Manufacturing,500,5,14,90,90,"ERP, AI, Blockchain",,Medium,4,97,85,Medium,Advanced,Medium,$800B,85,9,12,Medium,85,85
+Bayer,Agile SCM,300,5.8,10,92,91,"ERP, AI, Blockchain",,High,2,97,85,High,Advanced,Medium,$800B,85,11,8,High,88,85
+Takeda,Demand-Driven SCM,300,4,10,94,87,"ERP, AI, Blockchain",,High,2,98,88,High,Advanced,High,$500B,85,12,7,High,90,85
+Biogen,Lean Manufacturing,500,4.5,14,88,89,"ERP, AI, Robotics",,High,5,97,85,Medium,Advanced,Medium,$500B,80,10,10,Medium,85,80
+Regeneron,Agile SCM,400,5.5,8,94,90,"ERP, AI, Blockchain",,High,2,98,85,High,Advanced,Medium,$800B,85,10,5,High,90,85
+Vertex,Vendor Managed Inventory,150,5.8,11,91,88,"ERP, AI, Blockchain",,High,3,99,88,High,Advanced,Low,$600B,85,11,10,High,88,85
+Moderna,Vendor Managed Inventory,100,5.2,10,90,89,"ERP, AI, Blockchain",,High,3,98,88,High,Advanced,Low,$700B,85,11,8,High,88,85
+Gilead Sciences,Agile SCM,200,4.2,11,90,92,"ERP, AI, Blockchain",,High,4,97,88,High,Advanced,Medium,$600B,85,10,8,High,88,85
+CSL Behring,Agile SCM,150,8.2,10,93,88,"ERP, AI, Blockchain",,High,2,98,88,High,Advanced,Medium,$800B,85,10,8,High,90,85
+Alcon,Sustainable SCM,"20,000",4.2,11,90,89,"ERP, AI, Blockchain",,High,4,97,88,High,Advanced,Medium,$400B,85,9,10,High,87,80
+Bausch Health,Vendor Managed Inventory,100,5,12,91,92,"ERP, AI, Blockchain",,High,3,99,88,High,Advanced,Low,$700B,85,11,10,High,88,85
+Illumina,Just-In-Time,"1,300,000",5.8,2,98,89,"AI, Robotics, Blockchain",,High,1,99,88,High,Advanced,High,"$1,500B",85,20,5,High,90,85
+Thermo Fisher Scientific,Vendor Managed Inventory,200,4,12,91,85,"ERP, AI, Blockchain",,High,3,99,88,High,Advanced,Low,$700B,85,11,10,High,88,85
+Bio-Rad Laboratories,Lean Manufacturing,300,4,18,87,88,"ERP, AI, Robotics",,Medium,6,95,85,Medium,Advanced,Medium,$500B,80,9,15,Medium,85,80
+PerkinElmer,Lean Manufacturing,100,6,12,89,85,"ERP, AI, Robotics",,High,4,97,85,High,Advanced,Medium,$400B,80,10,10,Medium,85,80
+Agilent Technologies,Lean Manufacturing,400,4.5,18,88,90,"ERP, JIT, Robotics",,High,5,95,85,High,Advanced,Medium,$700B,80,10,12,Medium,85,80
+Danaher,Vendor Managed Inventory,150,6.5,11,91,90,"ERP, AI, Blockchain",,High,3,99,88,High,Advanced,Low,$600B,85,11,10,High,88,85
+Quest Diagnostics,Agile SCM,150,6,10,92,88,"ERP, AI, Blockchain",,High,2,98,90,High,Advanced,High,$900B,85,11,8,High,91,85
+LabCorp,Vendor Managed Inventory,100,4.2,10,90,90,"ERP, AI, Blockchain",,High,3,98,88,High,Advanced,Low,$700B,85,11,8,High,88,85
+Siemens Healthineers,Agile SCM,300,4.5,10,92,90,"ERP, AI, Blockchain",,High,2,97,85,High,Advanced,Medium,$800B,85,11,8,High,88,85
+GE Healthcare,Agile SCM,150,10,10,92,85,"ERP, AI, Blockchain",,High,2,98,90,High,Advanced,High,$800B,85,10,8,High,90,85
+Philips Healthcare,Lean Manufacturing,500,6.2,20,88,88,"ERP, AI, Robotics",,Medium,5,96,85,Medium,Advanced,Medium,$800B,80,10,12,Medium,85,80
+Medtronic,Lean Manufacturing,400,4.2,18,90,94,"ERP, AI, Robotics",,High,5,97,85,High,Advanced,Medium,$900B,85,11,10,Medium,85,85
+Abbott Laboratories,Agile SCM,300,5,7,98,91,"AI, ERP, Blockchain",,High,1,98,92,High,Advanced,High,$1500B,90,12,3,High,95,90
+Boston Scientific,Lean Manufacturing,300,6,10,93,89,"ERP, AI, Blockchain",,High,2,98,88,High,Advanced,Medium,$800B,85,10,8,High,90,85
+Stryker,Vendor Managed Inventory,100,5,12,91,87,"ERP, AI, Blockchain",,High,3,99,88,High,Advanced,Low,$700B,85,11,10,High,88,85
+Zimmer Biomet,Lean Manufacturing,300,5.2,22,89,91,"ERP, AI, Blockchain",,Medium,5,96,85,Medium,Advanced,Medium,$900B,85,9,15,Medium,85,80
+Intuitive Surgical,Demand-Driven SCM,300,4.2,10,94,89,"ERP, AI, Blockchain",,High,2,98,88,High,Advanced,High,$500B,85,12,7,High,90,85
+Edwards Lifesciences,Lean Manufacturing,"10,000",4.2,15,91,88,"ERP, AI, Blockchain",,Medium,5,95,85,Medium,Advanced,Medium,$300B,80,10,10,Medium,85,80
+Becton Dickinson,Sustainable SCM,"20,000",5.8,11,90,85,"ERP, AI, Blockchain",,High,4,97,88,High,Advanced,Medium,$400B,85,9,10,High,87,80
+Hologic,Lean Manufacturing,500,4,20,88,89,"ERP, AI, Robotics",,Medium,5,96,85,Medium,Advanced,Medium,$800B,80,10,12,Medium,85,80
+ResMed,Vendor Managed Inventory,200,10,12,91,88,"ERP, AI, Blockchain",,High,3,99,88,High,Advanced,Low,$700B,85,11,10,High,88,85
+Dexcom,Lean Manufacturing,100,4,12,89,90,"ERP, AI, Robotics",,High,4,97,85,High,Advanced,Medium,$400B,80,10,10,Medium,85,80
+Masimo,Vendor Managed Inventory,150,6,11,91,93,"ERP, AI, Blockchain",,High,3,99,88,High,Advanced,Low,$600B,85,11,10,High,88,85
+Align Technology,Agile SCM,250,5.2,7,98,85,"ERP, AI, Blockchain",,High,1,98,90,High,Advanced,High,$1200B,88,12,3,High,95,90
+Cooper Companies,Lean Manufacturing,400,6,18,88,90,"ERP, JIT, Robotics",,High,5,95,85,High,Advanced,Medium,$700B,80,10,12,Medium,85,80
+Hill-Rom,Agile SCM,200,50,12,91,88,"ERP, AI, Blockchain",,High,3,97,85,High,Advanced,Medium,$800B,85,11,10,High,88,85
+Teleflex,Sustainable SCM,"20,000",6.2,11,90,85,"ERP, AI, Blockchain",,High,4,97,88,High,Advanced,Medium,$400B,85,9,10,High,87,80
+Envista Holdings,Lean Manufacturing,500,4.2,14,90,94,"ERP, JIT, Robotics",,High,5,98,85,High,Advanced,Medium,$700B,80,10,10,Medium,85,80
+Cardinal Health,Agile SCM,200,10,7,99,91,"AI, ERP, Blockchain",,High,2,98,92,High,Advanced,Low,$1200B,88,15,3,High,95,90
+McKesson,Lean Manufacturing,300,5.2,10,93,89,"ERP, AI, Blockchain",,High,2,98,88,High,Advanced,Medium,$800B,85,10,8,High,90,85
+AmerisourceBergen,Vendor Managed Inventory,100,3.5,12,91,93,"ERP, AI, Blockchain",,High,3,99,88,High,Advanced,Low,$700B,85,11,10,High,88,85
+Henry Schein,Agile SCM,250,8.2,7,98,88,"ERP, AI, Blockchain",,High,1,98,90,High,Advanced,High,$1200B,88,12,3,High,95,90
+Owens & Minor,Sustainable SCM,"20,000",5.2,11,90,93,"ERP, AI, Blockchain",,High,4,97,88,High,Advanced,Medium,$400B,85,9,10,High,87,80
+Patterson Companies,Vendor Managed Inventory,150,7,9,92,92,"ERP, AI, Blockchain",,High,3,99,88,High,Advanced,Low,$800B,85,12,8,High,88,85
+Cerner,Just-In-Time,"1,300,000",5.5,2,98,89,"AI, Robotics, Blockchain",,High,1,99,88,High,Advanced,High,"$1,500B",85,20,5,High,90,85
+Allscripts,Lean Manufacturing,200,6,15,91,91,"ERP, AI, Robotics",,High,5,97,85,Medium,Advanced,Medium,$800B,80,10,12,Medium,85,85
+Epic Systems,Agile SCM,200,6,8,94,90,"ERP, AI, Blockchain",,High,2,98,90,High,Advanced,Medium,$600B,85,12,7,High,90,85
+McKesson Technology Solutions,Demand-Driven SCM,500,10,10,92,90,"ERP, AI, Blockchain",,High,4,98,85,High,Advanced,Medium,$500B,80,12,8,High,89,85
+Optum,Agile SCM,150,8.3,10,92,92,"ERP, AI, Blockchain",,High,2,98,90,High,Advanced,High,$900B,85,11,8,High,91,85
+Athenahealth,Agile SCM,250,6,9,93,94,"ERP, AI, Blockchain",,High,2,98,90,High,Advanced,High,$900B,85,11,8,High,91,85
+Meditech,Agile SCM,300,5,7,98,90,"AI, ERP, Blockchain",,High,1,98,92,High,Advanced,High,$1500B,90,12,3,High,95,90
+NextGen Healthcare,Cross-Docking,"100,000",7.5,2,98,90,"AI, ERP, Blockchain",,High,1,98,90,High,Advanced,High,$500B,80,12,5,High,90,85
+eClinicalWorks,Agile SCM,200,6,10,92,89,"ERP, AI, Blockchain",,High,2,98,90,High,Advanced,High,$800B,85,10,8,High,90,85
+Greenway Health,Lean Manufacturing,"10,000",6,15,91,91,"ERP, AI, Blockchain",,Medium,5,95,85,Medium,Advanced,Medium,$300B,80,10,10,Medium,85,80
+CPSI,Just-In-Time,"1,000,000",4,3,97,90,"AI, Robotics, Blockchain",,High,1,98,90,High,Advanced,High,"$1,200B",85,18,5,High,90,88
+GE Centricity,Agile SCM,200,4.2,12,91,91,"ERP, AI, Blockchain",,High,3,97,85,High,Advanced,Medium,$800B,85,11,10,High,88,85
+Siemens Soarian,Demand-Driven SCM,300,4.5,10,94,90,"ERP, AI, Blockchain",,High,2,98,88,High,Advanced,High,$500B,85,12,7,High,90,85
+IBM Watson Health,Vendor Managed Inventory,150,5,11,91,89,"ERP, AI, Blockchain",,High,3,99,88,High,Advanced,Low,$600B,85,11,10,High,88,85
+Philips Wellcentive,Vendor Managed Inventory,100,4.5,12,91,88,"ERP, AI, Blockchain",,High,3,99,88,High,Advanced,Low,$700B,85,11,10,High,88,85
+Change Healthcare,Vendor Managed Inventory,100,4,10,90,87,"ERP, AI, Blockchain",,High,3,98,88,High,Advanced,Low,$700B,85,11,8,High,88,85
+Inovalon,Lean Manufacturing,300,5,22,89,88,"ERP, AI, Blockchain",,Medium,5,96,85,Medium,Advanced,Medium,$900B,85,9,15,Medium,85,80
+Cognizant TriZetto,Lean Manufacturing,400,5.8,18,90,85,"ERP, AI, Robotics",,High,5,97,85,High,Advanced,Medium,$900B,85,11,10,Medium,85,85
+Orion Health,Lean Manufacturing,400,5.5,18,88,85,"ERP, JIT, Robotics",,High,5,95,85,High,Advanced,Medium,$700B,80,10,12,Medium,85,80
+Practice Fusion,Lean Manufacturing,300,4,18,87,92,"ERP, AI, Robotics",,Medium,6,95,85,Medium,Advanced,Medium,$500B,80,9,15,Medium,85,80
+Zocdoc,Agile SCM,150,7.7,10,93,88,"ERP, AI, Blockchain",,High,2,98,88,High,Advanced,Medium,$800B,85,10,8,High,90,85
+Doximity,Lean Manufacturing,500,9,14,90,89,"ERP, AI, Blockchain",,Medium,4,97,85,Medium,Advanced,Medium,$800B,85,9,12,Medium,85,85
+Teladoc Health,Lean Manufacturing,1200,2,8,94,90,"ERP, AI, Blockchain",,High,2,98,90,High,Advanced,Medium,$700B,85,12,7,High,90,85
+American Well,Agile SCM,359,1,15,91,90,"ERP, AI, Robotics",,High,5,97,85,Medium,Advanced,Medium,$800B,80,10,12,Medium,85,85
+MDLive,Sustainable SCM,459,7,4,95,88,"AI, ERP, Blockchain",,High,1,98,88,High,Advanced,High,$300B,80,12,5,High,90,85
+Doctor on Demand,Agile SCM,876,8,15,95,91,"ERP, AI, Blockchain",,High,10,95,80,High,Advanced,Medium,$1000B,78,8,12,Medium,88,85
+Livongo Health,Lean Manufacturing,655,5,12,89,88,"ERP, AI, Robotics",,High,4,97,85,High,Advanced,Medium,$400B,80,10,10,Medium,85,80
+Omada Health,Agile SCM,4444,5.8,8,94,91,"ERP, AI, Blockchain",,High,2,98,90,High,Advanced,Medium,$600B,85,12,7,High,90,85
+Proteus Digital Health,Demand-Driven SCM,433,4,11,90,89,"ERP, AI, Blockchain",,High,4,97,88,High,Advanced,Medium,$400B,85,9,10,High,87,80
+Pear Therapeutics,Agile SCM,12000,4,9,93,90,"ERP, AI, Blockchain",,High,2,97,88,High,Advanced,Medium,$700B,85,10,7,High,90,85
+Akili Interactive,Lean Manufacturing,300,6,5,93,90,"ERP, AI, Blockchain",,High,2,98,90,High,Advanced,High,$500B,85,11,5,High,90,85
+Happify Health,Agile SCM,200,4.5,10,92,91,"ERP, AI, Blockchain",,High,2,98,90,High,Advanced,High,$800B,85,10,8,High,90,85
+WellDoc,Lean Manufacturing,"20,000",6.5,10,92,87,"ERP, AI, Blockchain",,High,4,98,85,High,Advanced,Medium,$500B,80,12,8,High,89,85
+BioTelemetry,Agile SCM,500,6,8,94,93,"ERP, AI, Blockchain",,High,2,98,90,High,Advanced,Medium,$700B,85,12,7,High,90,85
+iRhythm Technologies,Lean Manufacturing,100,4.2,20,89,85,"ERP, AI, Blockchain",,Medium,5,96,85,Medium,Advanced,Medium,$900B,80,9,12,Medium,85,80
+Insulet,Vendor Managed Inventory,200,4.5,7,98,92,"ERP, AI, Blockchain",,High,1,98,90,High,Advanced,High,$1200B,88,12,3,High,95,90
+Tandem Diabetes Care,Efficient Consumer Response,"20,000",10,18,87,89,"ERP, AI, Robotics",,Medium,6,95,85,Medium,Advanced,Medium,$500B,80,9,15,Medium,85,80
+Senseonics,Sustainable SCM,400,6.2,9,93,89,"ERP, AI, Blockchain",,High,2,98,90,High,Advanced,High,$900B,85,11,8,High,91,85
+Dexcom,Lean Manufacturing,"1,500",4.2,15,91,85,"ERP, AI, Blockchain",,Medium,5,95,85,Medium,Advanced,Medium,$300B,80,10,10,Medium,85,80
+Invitae,Agile SCM,200,5,12,91,85,"ERP, AI, Blockchain",,High,3,99,88,High,Advanced,Low,$700B,85,11,10,High,88,85
+23andMe,Lean Manufacturing,500,6,10,90,88,"ERP, AI, Blockchain",,High,5,96,85,High,Advanced,Medium,$350B,82,11,8,High,87,85
+Myriad Genetics,Agile SCM,300,5,12,88,89,"AI, ERP, Blockchain",,Medium,4,97,80,Medium,Advanced,Medium,$400B,75,8,15,Medium,80,78
+Illumina,Demand-Driven SCM,500,5.2,12,89,88,"ERP, AI, Robotics",,High,4,97,85,High,Advanced,Medium,$400B,80,10,10,Medium,85,80
+Guardant Health,Lean Manufacturing,250,4.2,12,90,90,"ERP, AI, Blockchain",,High,4,97,85,High,Advanced,Medium,$700B,80,9,8,High,88,85
+Tesla,Agile SCM,300,4.2,14,90,91,"ERP, AI, Blockchain",,Medium,4,97,85,Medium,Advanced,Medium,$800B,85,9,12,Medium,85,85
+Toyota,Vendor Managed Inventory,250,5.8,10,92,87,"ERP, AI, Blockchain",,High,2,97,85,High,Advanced,Medium,$800B,85,11,8,High,88,85
+General Motors,Vendor Managed Inventory,"10,000",4,10,94,89,"ERP, AI, Blockchain",,High,2,98,88,High,Advanced,High,$500B,85,12,7,High,90,85
+Ford,Agile SCM,100,10,14,88,90,"ERP, AI, Robotics",,High,5,97,85,Medium,Advanced,Medium,$500B,80,10,10,Medium,85,80
+Honda,Agile SCM,"75,000",4,8,94,88,"ERP, AI, Blockchain",,High,2,98,85,High,Advanced,Medium,$800B,85,10,5,High,90,85
+BMW,Sustainable SCM,"70,000",6,11,91,89,"ERP, AI, Blockchain",,High,3,99,88,High,Advanced,Low,$600B,85,11,10,High,88,85
+Mercedes-Benz,Vendor Managed Inventory,100,5.2,10,90,92,"ERP, AI, Blockchain",,High,3,98,88,High,Advanced,Low,$700B,85,11,8,High,88,85
+Audi,Just-In-Time,200,6,11,90,88,"ERP, AI, Blockchain",,High,4,97,88,High,Advanced,Medium,$600B,85,10,8,High,88,85
+Volkswagen,Vendor Managed Inventory,500,50,10,93,89,"ERP, AI, Blockchain",,High,2,98,88,High,Advanced,Medium,$800B,85,10,8,High,90,85
+Nissan,Lean Manufacturing,300,6.2,11,90,92,"ERP, AI, Blockchain",,High,4,97,88,High,Advanced,Medium,$400B,85,9,10,High,87,80
+Hyundai,Lean Manufacturing,300,4.2,12,91,89,"ERP, AI, Blockchain",,High,3,99,88,High,Advanced,Low,$700B,85,11,10,High,88,85
+Kia,Lean Manufacturing,500,10,2,98,85,"AI, Robotics, Blockchain",,High,1,99,88,High,Advanced,High,"$1,500B",85,20,5,High,90,85
+Subaru,Vendor Managed Inventory,400,5.2,12,91,88,"ERP, AI, Blockchain",,High,3,99,88,High,Advanced,Low,$700B,85,11,10,High,88,85
+Volvo,Agile SCM,150,3.5,18,87,85,"ERP, AI, Robotics",,Medium,6,95,85,Medium,Advanced,Medium,$500B,80,9,15,Medium,85,80
+Land Rover,Vendor Managed Inventory,100,8.2,12,89,90,"ERP, AI, Robotics",,High,4,97,85,High,Advanced,Medium,$400B,80,10,10,Medium,85,80
+Jaguar,Agile SCM,200,5.2,18,88,90,"ERP, JIT, Robotics",,High,5,95,85,High,Advanced,Medium,$700B,80,10,12,Medium,85,80
+Mazda,Agile SCM,150,7,11,91,88,"ERP, AI, Blockchain",,High,3,99,88,High,Advanced,Low,$600B,85,11,10,High,88,85
+Mitsubishi,Lean Manufacturing,"20,000",5.5,10,92,90,"ERP, AI, Blockchain",,High,2,98,90,High,Advanced,High,$900B,85,11,8,High,91,85
+Porsche,Lean Manufacturing,100,6,10,90,90,"ERP, AI, Blockchain",,High,3,98,88,High,Advanced,Low,$700B,85,11,8,High,88,85
+Ferrari,Agile SCM,"1,300,000",6,10,92,85,"ERP, AI, Blockchain",,High,2,97,85,High,Advanced,Medium,$800B,85,11,8,High,88,85
+Lamborghini,Lean Manufacturing,200,10,10,92,88,"ERP, AI, Blockchain",,High,2,98,90,High,Advanced,High,$800B,85,10,8,High,90,85
+Bugatti,Vendor Managed Inventory,300,8.3,20,88,94,"ERP, AI, Robotics",,Medium,5,96,85,Medium,Advanced,Medium,$800B,80,10,12,Medium,85,80
+Rolls-Royce,Lean Manufacturing,100,6,18,90,91,"ERP, AI, Robotics",,High,5,97,85,High,Advanced,Medium,$900B,85,11,10,Medium,85,85
+Bentley,Demand-Driven SCM,400,5,7,98,89,"AI, ERP, Blockchain",,High,1,98,92,High,Advanced,High,$1500B,90,12,3,High,95,90
+Aston Martin,Lean Manufacturing,150,7.5,10,93,87,"ERP, AI, Blockchain",,High,2,98,88,High,Advanced,Medium,$800B,85,10,8,High,90,85
+Maserati,Sustainable SCM,150,6,12,91,91,"ERP, AI, Blockchain",,High,3,99,88,High,Advanced,Low,$700B,85,11,10,High,88,85
+McLaren,Lean Manufacturing,100,6,22,89,89,"ERP, AI, Blockchain",,Medium,5,96,85,Medium,Advanced,Medium,$900B,85,9,15,Medium,85,80
+Koenigsegg,Vendor Managed Inventory,300,4,10,94,88,"ERP, AI, Blockchain",,High,2,98,88,High,Advanced,High,$500B,85,12,7,High,90,85
+Rimac,Lean Manufacturing,150,4.2,15,91,85,"ERP, AI, Blockchain",,Medium,5,95,85,Medium,Advanced,Medium,$300B,80,10,10,Medium,85,80
+Lucid Motors,Vendor Managed Inventory,500,4.5,11,90,89,"ERP, AI, Blockchain",,High,4,97,88,High,Advanced,Medium,$400B,85,9,10,High,87,80
+Rivian,Agile SCM,400,5,20,88,88,"ERP, AI, Robotics",,Medium,5,96,85,Medium,Advanced,Medium,$800B,80,10,12,Medium,85,80
+Fisker,Lean Manufacturing,300,4.5,12,91,90,"ERP, AI, Blockchain",,High,3,99,88,High,Advanced,Low,$700B,85,11,10,High,88,85
+NIO,Agile SCM,300,4,12,89,93,"ERP, AI, Robotics",,High,4,97,85,High,Advanced,Medium,$400B,80,10,10,Medium,85,80
+Xpeng Motors,Sustainable SCM,100,5,11,91,85,"ERP, AI, Blockchain",,High,3,99,88,High,Advanced,Low,$600B,85,11,10,High,88,85
+Li Auto,Lean Manufacturing,300,5.8,7,98,90,"ERP, AI, Blockchain",,High,1,98,90,High,Advanced,High,$1200B,88,12,3,High,95,90
+Faraday Future,Agile SCM,300,5.5,18,88,88,"ERP, JIT, Robotics",,High,5,95,85,High,Advanced,Medium,$700B,80,10,12,Medium,85,80
+Canoo,Lean Manufacturing,"10,000",4,12,91,85,"ERP, AI, Blockchain",,High,3,97,85,High,Advanced,Medium,$800B,85,11,10,High,88,85
+Lordstown Motors,Vendor Managed Inventory,"20,000",7.7,11,90,94,"ERP, AI, Blockchain",,High,4,97,88,High,Advanced,Medium,$400B,85,9,10,High,87,80
+Nikola,Agile SCM,500,5,14,90,91,"ERP, JIT, Robotics",,High,5,98,85,High,Advanced,Medium,$700B,80,10,10,Medium,85,80
+Proterra,Sustainable SCM,200,5.8,7,99,89,"AI, ERP, Blockchain",,High,2,98,92,High,Advanced,Low,$1200B,88,15,3,High,95,90
+Arrival,Vendor Managed Inventory,100,4,10,93,93,"ERP, AI, Blockchain",,High,2,98,88,High,Advanced,Medium,$800B,85,10,8,High,90,85
+BYD,Just-In-Time,150,4,12,91,88,"ERP, AI, Blockchain",,High,3,99,88,High,Advanced,Low,$700B,85,11,10,High,88,85
+Geely,Lean Manufacturing,250,6,7,98,93,"ERP, AI, Blockchain",,High,1,98,90,High,Advanced,High,$1200B,88,12,3,High,95,90
+Changan,Agile SCM,400,4.5,11,90,92,"ERP, AI, Blockchain",,High,4,97,88,High,Advanced,Medium,$400B,85,9,10,High,87,80
+Great Wall Motors,Demand-Driven SCM,200,6.5,9,92,89,"ERP, AI, Blockchain",,High,3,99,88,High,Advanced,Low,$800B,85,12,8,High,88,85
+SAIC Motor,Agile SCM,"20,000",6,2,98,91,"AI, Robotics, Blockchain",,High,1,99,88,High,Advanced,High,"$1,500B",85,20,5,High,90,85
+FAW Group,Agile SCM,500,4.2,15,91,90,"ERP, AI, Robotics",,High,5,97,85,Medium,Advanced,Medium,$800B,80,10,12,Medium,85,85
+Dongfeng Motor,Agile SCM,200,4.5,8,94,90,"ERP, AI, Blockchain",,High,2,98,90,High,Advanced,Medium,$600B,85,12,7,High,90,85
+BAIC Group,Cross-Docking,300,10,10,92,92,"ERP, AI, Blockchain",,High,4,98,85,High,Advanced,Medium,$500B,80,12,8,High,89,85
+Tata Motors,Agile SCM,100,6.2,10,92,94,"ERP, AI, Blockchain",,High,2,98,90,High,Advanced,High,$900B,85,11,8,High,91,85
+Mahindra & Mahindra,Lean Manufacturing,250,4.2,9,93,90,"ERP, AI, Blockchain",,High,2,98,90,High,Advanced,High,$900B,85,11,8,High,91,85
+Hero MotoCorp,Just-In-Time,"20,000",5,7,98,90,"AI, ERP, Blockchain",,High,1,98,92,High,Advanced,High,$1500B,90,12,3,High,95,90
+Bajaj Auto,Agile SCM,150,6,2,98,89,"AI, ERP, Blockchain",,High,1,98,90,High,Advanced,High,$500B,80,12,5,High,90,85
+TVS Motor Company,Demand-Driven SCM,"1,300,000",5,10,92,91,"ERP, AI, Blockchain",,High,2,98,90,High,Advanced,High,$800B,85,10,8,High,90,85
+Piaggio,Vendor Managed Inventory,200,5.2,15,91,90,"ERP, AI, Blockchain",,Medium,5,95,85,Medium,Advanced,Medium,$300B,80,10,10,Medium,85,80
+Suzuki,Vendor Managed Inventory,200,4.2,3,97,91,"AI, Robotics, Blockchain",,High,1,98,90,High,Advanced,High,"$1,200B",85,18,5,High,90,88
+Yamaha,Vendor Managed Inventory,500,4.2,12,91,90,"ERP, AI, Blockchain",,High,3,97,85,High,Advanced,Medium,$800B,85,11,10,High,88,85
+Kawasaki,Lean Manufacturing,150,5.8,10,94,89,"ERP, AI, Blockchain",,High,2,98,88,High,Advanced,High,$500B,85,12,7,High,90,85
+Harley-Davidson,Lean Manufacturing,250,4,11,91,88,"ERP, AI, Blockchain",,High,3,99,88,High,Advanced,Low,$600B,85,11,10,High,88,85
+Indian Motorcycle,Lean Manufacturing,300,10,12,91,87,"ERP, AI, Blockchain",,High,3,99,88,High,Advanced,Low,$700B,85,11,10,High,88,85
+Polaris,Lean Manufacturing,"100,000",4,10,90,88,"ERP, AI, Blockchain",,High,3,98,88,High,Advanced,Low,$700B,85,11,8,High,88,85
+BRP Inc.,Agile SCM,200,6,22,89,85,"ERP, AI, Blockchain",,Medium,5,96,85,Medium,Advanced,Medium,$900B,85,9,15,Medium,85,80
+Zero Motorcycles,Lean Manufacturing,"10,000",5.2,18,90,85,"ERP, AI, Robotics",,High,5,97,85,High,Advanced,Medium,$900B,85,11,10,Medium,85,85
+Energica,Agile SCM,"1,000,000",6,18,88,92,"ERP, JIT, Robotics",,High,5,95,85,High,Advanced,Medium,$700B,80,10,12,Medium,85,80
+Lightning Motorcycles,Lean Manufacturing,200,50,18,87,88,"ERP, AI, Robotics",,Medium,6,95,85,Medium,Advanced,Medium,$500B,80,9,15,Medium,85,80
+Damon Motorcycles,Cross-Docking,300,6.2,10,93,89,"ERP, AI, Blockchain",,High,2,98,88,High,Advanced,Medium,$800B,85,10,8,High,90,85
+Zapp Scooters,Agile SCM,150,4.2,14,90,90,"ERP, AI, Blockchain",,Medium,4,97,85,Medium,Advanced,Medium,$800B,85,9,12,Medium,85,85
+Gogoro,Lean Manufacturing,100,10,8,94,90,"ERP, AI, Blockchain",,High,2,98,90,High,Advanced,Medium,$700B,82,12,7,High,90,85
+Ather Energy,Agile SCM,100,5.2,15,91,88,"ERP, AI, Robotics",,High,5,97,85,Medium,Advanced,Medium,$800B,81,10,12,Medium,85,85
+Ola Electric,Sustainable SCM,300,3.5,4,95,91,"AI, ERP, Blockchain",,High,1,98,88,High,Advanced,High,$300B,85,12,5,High,90,85
+Bounce,Agile SCM,400,8.2,15,95,88,"ERP, AI, Blockchain",,High,10,95,80,High,Advanced,Medium,$1000B,85,8,12,Medium,88,85
+Lime,Lean Manufacturing,400,5.2,12,89,91,"ERP, AI, Robotics",,High,4,97,85,High,Advanced,Medium,$400B,85,10,10,Medium,85,80
+Bird,Agile SCM,300,7,8,94,89,"ERP, AI, Blockchain",,High,2,98,90,High,Advanced,Medium,$600B,85,12,7,High,90,85
+Spin,Demand-Driven SCM,150,5.5,11,90,90,"ERP, AI, Blockchain",,High,4,97,88,High,Advanced,Medium,$400B,85,9,10,High,87,80
+Tier Mobility,Agile SCM,500,6,9,93,90,"ERP, AI, Blockchain",,High,2,97,88,High,Advanced,Medium,$700B,80,10,7,High,90,85
+Voi Technology,Lean Manufacturing,300,6,5,93,91,"ERP, AI, Blockchain",,High,2,98,90,High,Advanced,High,$500B,80,11,5,High,90,85
+Bolt Mobility,Agile SCM,200,10,10,92,87,"ERP, AI, Blockchain",,High,2,98,90,High,Advanced,High,$800B,85,10,8,High,90,85
+Segway-Ninebot,Lean Manufacturing,"20,000",8.3,10,92,93,"ERP, AI, Blockchain",,High,4,98,85,High,Advanced,Medium,$500B,85,12,8,High,89,85
+Unagi Scooters,Agile SCM,500,6,8,94,85,"ERP, AI, Blockchain",,High,2,98,90,High,Advanced,Medium,$700B,82,12,7,High,90,85
+Boosted,Lean Manufacturing,100,5,20,89,92,"ERP, AI, Blockchain",,Medium,5,96,85,Medium,Advanced,Medium,$900B,81,9,12,Medium,85,80
+Acton,Vendor Managed Inventory,200,7.5,7,98,89,"ERP, AI, Blockchain",,High,1,98,90,High,Advanced,High,$1200B,85,12,3,High,95,90
+Swagtron,Efficient Consumer Response,"20,000",6,18,87,89,"ERP, AI, Robotics",,Medium,6,95,85,Medium,Advanced,Medium,$500B,85,9,15,Medium,85,80
+Razor,Sustainable SCM,400,6,9,93,85,"ERP, AI, Blockchain",,High,2,98,90,High,Advanced,High,$900B,85,11,8,High,91,85
+Yadea,Lean Manufacturing,"1,500",4,15,91,85,"ERP, AI, Blockchain",,Medium,5,95,85,Medium,Advanced,Medium,$300B,85,10,10,Medium,85,80
+Niu Technologies,Agile SCM,200,4.2,12,91,88,"ERP, AI, Blockchain",,High,3,99,88,High,Advanced,Low,$700B,85,11,10,High,88,85
+ElectraMeccanica,Lean Manufacturing,500,4.5,10,90,89,"ERP, AI, Blockchain",,High,5,96,85,High,Advanced,Medium,$350B,80,11,8,High,87,85
+Arcimoto,Agile SCM,300,5,12,88,88,"AI, ERP, Blockchain",,Medium,4,97,80,Medium,Advanced,Medium,$400B,80,8,15,Medium,80,78
+Aptera,Demand-Driven SCM,500,4.5,12,89,90,"ERP, AI, Robotics",,High,4,97,85,High,Advanced,Medium,$400B,85,10,10,Medium,85,80
+Sono Motors,Lean Manufacturing,250,4,12,90,91,"ERP, AI, Blockchain",,High,4,97,85,High,Advanced,Medium,$700B,85,9,8,High,88,85
+Lightyear,Agile SCM,300,5,14,90,87,"ERP, AI, Blockchain",,Medium,4,97,85,Medium,Advanced,Medium,$800B,82,9,12,Medium,85,85
+Fisker,Vendor Managed Inventory,250,5.8,10,92,89,"ERP, AI, Blockchain",,High,2,97,85,High,Advanced,Medium,$800B,81,11,8,High,88,85
+Karma Automotive,Vendor Managed Inventory,"10,000",5.5,10,94,90,"ERP, AI, Blockchain",,High,2,98,88,High,Advanced,High,$500B,85,12,7,High,90,85
+Lotus Cars,Agile SCM,100,4,14,88,88,"ERP, AI, Robotics",,High,5,97,85,Medium,Advanced,Medium,$500B,85,10,10,Medium,85,80
+TVR,Agile SCM,"75,000",7.7,8,94,89,"ERP, AI, Blockchain",,High,2,98,85,High,Advanced,Medium,$800B,85,10,5,High,90,85
+Pininfarina,Sustainable SCM,"70,000",9,11,91,92,"ERP, AI, Blockchain",,High,3,99,88,High,Advanced,Low,$600B,85,11,10,High,88,85
+Italdesign,Vendor Managed Inventory,100,2,10,90,88,"ERP, AI, Blockchain",,High,3,98,88,High,Advanced,Low,$700B,85,11,8,High,88,85
+Magna International,Just-In-Time,200,1,11,90,89,"ERP, AI, Blockchain",,High,4,97,88,High,Advanced,Medium,$600B,80,10,8,High,88,85
+Continental AG,Vendor Managed Inventory,500,7,10,93,92,"ERP, AI, Blockchain",,High,2,98,88,High,Advanced,Medium,$800B,80,10,8,High,90,85
+Bosch,Lean Manufacturing,300,8,11,90,89,"ERP, AI, Blockchain",,High,4,97,88,High,Advanced,Medium,$400B,85,9,10,High,87,80
+Denso,Lean Manufacturing,300,5,12,91,85,"ERP, AI, Blockchain",,High,3,99,88,High,Advanced,Low,$700B,85,11,10,High,88,85
+ZF Friedrichshafen,Lean Manufacturing,500,5.8,2,98,88,"AI, Robotics, Blockchain",,High,1,99,88,High,Advanced,High,"$1,500B",82,20,5,High,90,85
+Valeo,Vendor Managed Inventory,400,4,12,91,85,"ERP, AI, Blockchain",,High,3,99,88,High,Advanced,Low,$700B,81,11,10,High,88,85
+Aisin Seiki,Agile SCM,150,4,18,87,90,"ERP, AI, Robotics",,Medium,6,95,85,Medium,Advanced,Medium,$500B,85,9,15,Medium,85,80
+Aptiv,Vendor Managed Inventory,100,6,12,89,90,"ERP, AI, Robotics",,High,4,97,85,High,Advanced,Medium,$400B,85,10,10,Medium,85,80
+Lear Corporation,Agile SCM,200,4.5,18,88,88,"ERP, JIT, Robotics",,High,5,95,85,High,Advanced,Medium,$700B,85,10,12,Medium,85,80
+BorgWarner,Agile SCM,150,6.5,11,91,90,"ERP, AI, Blockchain",,High,3,99,88,High,Advanced,Low,$600B,85,11,10,High,88,85
+Faurecia,Lean Manufacturing,"20,000",6,10,92,90,"ERP, AI, Blockchain",,High,2,98,90,High,Advanced,High,$900B,85,11,8,High,91,85
+Adient,Lean Manufacturing,100,4.2,10,90,85,"ERP, AI, Blockchain",,High,3,98,88,High,Advanced,Low,$700B,80,11,8,High,88,85
+Autoliv,Agile SCM,"1,300,000",4.5,10,92,88,"ERP, AI, Blockchain",,High,2,97,85,High,Advanced,Medium,$800B,80,11,8,High,88,85
+Hyundai Mobis,Lean Manufacturing,200,10,10,92,94,"ERP, AI, Blockchain",,High,2,98,90,High,Advanced,High,$800B,85,10,8,High,90,85
+Schaeffler Group,Vendor Managed Inventory,300,6.2,20,88,91,"ERP, AI, Robotics",,Medium,5,96,85,Medium,Advanced,Medium,$800B,85,10,12,Medium,85,80
+Hella,Lean Manufacturing,100,4.2,18,90,89,"ERP, AI, Robotics",,High,5,97,85,High,Advanced,Medium,$900B,82,11,10,Medium,85,85
+Magna Steyr,Demand-Driven SCM,400,5,7,98,87,"AI, ERP, Blockchain",,High,1,98,92,High,Advanced,High,$1500B,81,12,3,High,95,90
+KUKA,Lean Manufacturing,150,6,10,93,91,"ERP, AI, Blockchain",,High,2,98,88,High,Advanced,Medium,$800B,85,10,8,High,90,85
+Visteon,Sustainable SCM,150,5,12,91,89,"ERP, AI, Blockchain",,High,3,99,88,High,Advanced,Low,$700B,85,11,10,High,88,85
+Yanfeng Automotive Interiors,Lean Manufacturing,100,5.2,22,89,88,"ERP, AI, Blockchain",,Medium,5,96,85,Medium,Advanced,Medium,$900B,85,9,15,Medium,85,80
+JTEKT,Vendor Managed Inventory,300,4.2,10,94,85,"ERP, AI, Blockchain",,High,2,98,88,High,Advanced,High,$500B,85,12,7,High,90,85
+NSK Ltd.,Lean Manufacturing,150,4.2,15,91,89,"ERP, AI, Blockchain",,Medium,5,95,85,Medium,Advanced,Medium,$300B,85,10,10,Medium,85,80
+Knorr-Bremse,Vendor Managed Inventory,500,5.8,11,90,88,"ERP, AI, Blockchain",,High,4,97,88,High,Advanced,Medium,$400B,80,9,10,High,87,80
+Brembo,Agile SCM,400,4,20,88,90,"ERP, AI, Robotics",,Medium,5,96,85,Medium,Advanced,Medium,$800B,80,10,12,Medium,85,80
+Bridgestone,Lean Manufacturing,300,10,12,91,93,"ERP, AI, Blockchain",,High,3,99,88,High,Advanced,Low,$700B,85,11,10,High,88,85
+Michelin,Agile SCM,300,4,12,89,85,"ERP, AI, Robotics",,High,4,97,85,High,Advanced,Medium,$400B,85,10,10,Medium,85,80
+Goodyear,Sustainable SCM,100,6,11,91,90,"ERP, AI, Blockchain",,High,3,99,88,High,Advanced,Low,$600B,82,11,10,High,88,85
+Continental Tire,Lean Manufacturing,300,5.2,7,98,88,"ERP, AI, Blockchain",,High,1,98,90,High,Advanced,High,$1200B,81,12,3,High,95,90
+Pirelli,Agile SCM,300,6,18,88,85,"ERP, JIT, Robotics",,High,5,95,85,High,Advanced,Medium,$700B,85,10,12,Medium,85,80
+Yokohama Rubber,Lean Manufacturing,"10,000",50,12,91,94,"ERP, AI, Blockchain",,High,3,97,85,High,Advanced,Medium,$800B,85,11,10,High,88,85
+Hankook Tire,Vendor Managed Inventory,"20,000",6.2,11,90,91,"ERP, AI, Blockchain",,High,4,97,88,High,Advanced,Medium,$400B,85,9,10,High,87,80
+Cooper Tire & Rubber,Agile SCM,500,4.2,14,90,89,"ERP, JIT, Robotics",,High,5,98,85,High,Advanced,Medium,$700B,85,10,10,Medium,85,80
+Sumitomo Rubber,Sustainable SCM,200,10,7,99,93,"AI, ERP, Blockchain",,High,2,98,92,High,Advanced,Low,$1200B,85,15,3,High,95,90
+Toyo Tires,Vendor Managed Inventory,100,5.2,10,93,88,"ERP, AI, Blockchain",,High,2,98,88,High,Advanced,Medium,$800B,80,10,8,High,90,85
+Apollo Tyres,Just-In-Time,150,3.5,12,91,93,"ERP, AI, Blockchain",,High,3,99,88,High,Advanced,Low,$700B,80,11,10,High,88,85
+Kumho Tire,Lean Manufacturing,250,8.2,7,98,92,"ERP, AI, Blockchain",,High,1,98,90,High,Advanced,High,$1200B,85,12,3,High,95,90
+Nexen Tire,Agile SCM,400,5.2,11,90,89,"ERP, AI, Blockchain",,High,4,97,88,High,Advanced,Medium,$400B,85,9,10,High,87,80
+Nokian Tyres,Demand-Driven SCM,200,7,9,92,91,"ERP, AI, Blockchain",,High,3,99,88,High,Advanced,Low,$800B,82,12,8,High,88,85
+Giti Tire,Agile SCM,"20,000",5.5,2,98,90,"AI, Robotics, Blockchain",,High,1,99,88,High,Advanced,High,"$1,500B",81,20,5,High,90,85
+Linglong Tire,Agile SCM,500,6,15,91,90,"ERP, AI, Robotics",,High,5,97,85,Medium,Advanced,Medium,$800B,85,10,12,Medium,85,85
+Sailun Tire,Agile SCM,200,6,8,94,92,"ERP, AI, Blockchain",,High,2,98,90,High,Advanced,Medium,$600B,85,12,7,High,90,85
+Triangle Tire,Cross-Docking,300,10,10,92,94,"ERP, AI, Blockchain",,High,4,98,85,High,Advanced,Medium,$500B,85,12,8,High,89,85
+Cheng Shin Rubber,Agile SCM,100,8.3,10,92,90,"ERP, AI, Blockchain",,High,2,98,90,High,Advanced,High,$900B,85,11,8,High,91,85
+ZC Rubber,Lean Manufacturing,250,6,9,93,90,"ERP, AI, Blockchain",,High,2,98,90,High,Advanced,High,$900B,85,11,8,High,91,85
+Guizhou Tyre,Just-In-Time,"20,000",5,7,98,89,"AI, ERP, Blockchain",,High,1,98,92,High,Advanced,High,$1500B,80,12,3,High,95,90
+JK Tyre & Industries,Agile SCM,150,7.5,2,98,91,"AI, ERP, Blockchain",,High,1,98,90,High,Advanced,High,$500B,80,12,5,High,90,85
+MRF Tyres,Demand-Driven SCM,"1,300,000",6,10,92,90,"ERP, AI, Blockchain",,High,2,98,90,High,Advanced,High,$800B,85,10,8,High,90,85
+CEAT,Vendor Managed Inventory,200,6,15,91,91,"ERP, AI, Blockchain",,Medium,5,95,85,Medium,Advanced,Medium,$300B,85,10,10,Medium,85,80
+Balkrishna Industries,Vendor Managed Inventory,200,4,3,97,90,"AI, Robotics, Blockchain",,High,1,98,90,High,Advanced,High,"$1,200B",82,18,5,High,90,88
+ATG (Alliance Tire Group),Vendor Managed Inventory,500,4.2,12,91,89,"ERP, AI, Blockchain",,High,3,97,85,High,Advanced,Medium,$800B,81,11,10,High,88,85
+Titan International,Lean Manufacturing,150,4.5,10,94,88,"ERP, AI, Blockchain",,High,2,98,88,High,Advanced,High,$500B,85,12,7,High,90,85
+Trelleborg,Lean Manufacturing,250,5,11,91,87,"ERP, AI, Blockchain",,High,3,99,88,High,Advanced,Low,$600B,85,11,10,High,88,85
+Camso,Lean Manufacturing,300,4.5,12,91,88,"ERP, AI, Blockchain",,High,3,99,88,High,Advanced,Low,$700B,85,11,10,High,88,85
+Carlstar Group,Lean Manufacturing,"100,000",4,10,90,85,"ERP, AI, Blockchain",,High,3,98,88,High,Advanced,Low,$700B,85,11,8,High,88,85
+Kenda Tires,Agile SCM,200,5,22,89,85,"ERP, AI, Blockchain",,Medium,5,96,85,Medium,Advanced,Medium,$900B,85,9,15,Medium,85,80
+Maxxis,Lean Manufacturing,"10,000",5.8,18,90,92,"ERP, AI, Robotics",,High,5,97,85,High,Advanced,Medium,$900B,80,11,10,Medium,85,85
+Federal Corporation,Lean Manufacturing,"1,000,000",5.5,18,88,88,"ERP, JIT, Robotics",,High,5,95,85,High,Advanced,Medium,$700B,80,10,12,Medium,85,80
+Nankang Rubber Tire,Agile SCM,200,4,18,87,89,"ERP, AI, Robotics",,Medium,6,95,85,Medium,Advanced,Medium,$500B,85,9,15,Medium,85,80
+Delinte,Sustainable SCM,300,7.7,10,93,90,"ERP, AI, Blockchain",,High,2,98,88,High,Advanced,Medium,$800B,85,10,8,High,90,85
+Toyama,Agile SCM,150,9,14,90,90,"ERP, AI, Blockchain",,Medium,4,97,85,Medium,Advanced,Medium,$800B,82,9,12,Medium,85,85
+Lexani,Lean Manufacturing,100,2,8,94,88,"ERP, AI, Blockchain",,High,2,98,90,High,Advanced,Medium,$700B,81,12,7,High,90,85
+Riken,Agile SCM,100,1,15,91,91,"ERP, AI, Robotics",,High,5,97,85,Medium,Advanced,Medium,$800B,85,10,12,Medium,85,85
+Roadstone,Demand-Driven SCM,300,7,4,95,88,"AI, ERP, Blockchain",,High,1,98,88,High,Advanced,High,$300B,85,12,5,High,90,85
+Arisun,Agile SCM,400,8,15,95,91,"ERP, AI, Blockchain",,High,10,95,80,High,Advanced,Medium,$1000B,85,8,12,Medium,88,85
+Greenball,Lean Manufacturing,400,5,12,89,89,"ERP, AI, Robotics",,High,4,97,85,High,Advanced,Medium,$400B,85,10,10,Medium,85,80
+Doublestar,Agile SCM,300,5.8,8,94,90,"ERP, AI, Blockchain",,High,2,98,90,High,Advanced,Medium,$600B,85,12,7,High,90,85
+Aelous,Lean Manufacturing,150,4,11,90,90,"ERP, AI, Blockchain",,High,4,97,88,High,Advanced,Medium,$400B,80,9,10,High,87,80
+Double Coin,Agile SCM,500,4,9,93,91,"ERP, AI, Blockchain",,High,2,97,88,High,Advanced,Medium,$700B,80,10,7,High,90,85
+Blue Diamond,Lean Manufacturing,1200,6,5,93,87,"ERP, AI, Blockchain",,High,2,98,90,High,Advanced,High,$500B,85,11,5,High,90,85
+Bridgestone,Vendor Managed Inventory,359,4.5,10,92,93,"ERP, AI, Blockchain",,High,2,98,90,High,Advanced,High,$800B,85,10,8,High,90,85
+Michelin,Efficient Consumer Response,459,6.5,10,92,85,"ERP, AI, Blockchain",,High,4,98,85,High,Advanced,Medium,$500B,82,12,8,High,89,85
+Goodyear,Sustainable SCM,876,6,8,94,92,"ERP, AI, Blockchain",,High,2,98,90,High,Advanced,Medium,$700B,81,12,7,High,90,85
+Continental,Lean Manufacturing,655,4.2,20,89,89,"ERP, AI, Blockchain",,Medium,5,96,85,Medium,Advanced,Medium,$900B,85,9,12,Medium,85,80
+Pirelli,Agile SCM,4444,4.5,7,98,89,"ERP, AI, Blockchain",,High,1,98,90,High,Advanced,High,$1200B,85,12,3,High,95,90
+Yokohama,Lean Manufacturing,433,10,18,87,85,"ERP, AI, Robotics",,Medium,6,95,85,Medium,Advanced,Medium,$500B,85,9,15,Medium,85,80
+Hankook,Agile SCM,12000,6.2,9,93,85,"ERP, AI, Blockchain",,High,2,98,90,High,Advanced,High,$900B,85,11,8,High,91,85
+Toyo,Demand-Driven SCM,300,4.2,15,91,88,"ERP, AI, Blockchain",,Medium,5,95,85,Medium,Advanced,Medium,$300B,85,10,10,Medium,85,80
+Cooper,Lean Manufacturing,200,5,12,91,89,"ERP, AI, Blockchain",,High,3,99,88,High,Advanced,Low,$700B,80,11,10,High,88,85
+Kumho,Agile SCM,"20,000",6,10,90,88,"ERP, AI, Blockchain",,High,5,96,85,High,Advanced,Medium,$350B,80,11,8,High,87,85
+General Tire,Vendor Managed Inventory,500,5,12,88,90,"AI, ERP, Blockchain",,Medium,4,97,80,Medium,Advanced,Medium,$400B,85,8,15,Medium,80,78
+Uniroyal,Vendor Managed Inventory,100,5.2,12,89,91,"ERP, AI, Robotics",,High,4,97,85,High,Advanced,Medium,$400B,85,10,10,Medium,85,80
+BFGoodrich,Agile SCM,200,4.2,12,90,87,"ERP, AI, Blockchain",,High,4,97,85,High,Advanced,Medium,$700B,82,9,8,High,88,85
+Firestone,Agile SCM,"20,000",4.2,14,90,89,"ERP, AI, Blockchain",,Medium,4,97,85,Medium,Advanced,Medium,$800B,81,9,12,Medium,85,85
+Dunlop,Sustainable SCM,400,5.8,10,92,90,"ERP, AI, Blockchain",,High,2,97,85,High,Advanced,Medium,$800B,85,11,8,High,88,85
+Falken,Vendor Managed Inventory,"1,500",4,10,94,88,"ERP, AI, Blockchain",,High,2,98,88,High,Advanced,High,$500B,85,12,7,High,90,85
+Sumitomo,Just-In-Time,200,10,14,88,89,"ERP, AI, Robotics",,High,5,97,85,Medium,Advanced,Medium,$500B,85,10,10,Medium,85,80
+Giti,Vendor Managed Inventory,500,4,8,94,92,"ERP, AI, Blockchain",,High,2,98,85,High,Advanced,Medium,$800B,85,10,5,High,90,85
+Linglong,Lean Manufacturing,300,6,11,91,88,"ERP, AI, Blockchain",,High,3,99,88,High,Advanced,Low,$600B,85,11,10,High,88,85
+Sailun,Lean Manufacturing,500,5.2,10,90,89,"ERP, AI, Blockchain",,High,3,98,88,High,Advanced,Low,$700B,80,11,8,High,88,85
+Triangle,Lean Manufacturing,250,6,11,90,92,"ERP, AI, Blockchain",,High,4,97,88,High,Advanced,Medium,$600B,80,10,8,High,88,85
+Westlake,Vendor Managed Inventory,300,50,10,93,89,"ERP, AI, Blockchain",,High,2,98,88,High,Advanced,Medium,$800B,85,10,8,High,90,85
+Goodride,Agile SCM,250,6.2,11,90,85,"ERP, AI, Blockchain",,High,4,97,88,High,Advanced,Medium,$400B,85,9,10,High,87,80
+Nexen,Vendor Managed Inventory,"10,000",4.2,12,91,88,"ERP, AI, Blockchain",,High,3,99,88,High,Advanced,Low,$700B,82,11,10,High,88,85
+Nitto,Agile SCM,100,10,2,98,85,"AI, Robotics, Blockchain",,High,1,99,88,High,Advanced,High,"$1,500B",81,20,5,High,90,85
+Mickey Thompson,Agile SCM,"75,000",5.2,12,91,90,"ERP, AI, Blockchain",,High,3,99,88,High,Advanced,Low,$700B,85,11,10,High,88,85
+Dick Cepek,Lean Manufacturing,"70,000",3.5,18,87,90,"ERP, AI, Robotics",,Medium,6,95,85,Medium,Advanced,Medium,$500B,85,9,15,Medium,85,80
+Interco,Lean Manufacturing,100,8.2,12,89,88,"ERP, AI, Robotics",,High,4,97,85,High,Advanced,Medium,$400B,85,10,10,Medium,85,80
+TBC Brands,Agile SCM,200,5.2,18,88,90,"ERP, JIT, Robotics",,High,5,95,85,High,Advanced,Medium,$700B,85,10,12,Medium,85,80
+Multi-Mile,Lean Manufacturing,500,7,11,91,90,"ERP, AI, Blockchain",,High,3,99,88,High,Advanced,Low,$600B,85,11,10,High,88,85
+Vanderbilt,Vendor Managed Inventory,300,5.5,10,92,85,"ERP, AI, Blockchain",,High,2,98,90,High,Advanced,High,$900B,80,11,8,High,91,85
+Delta,Lean Manufacturing,300,6,10,90,88,"ERP, AI, Blockchain",,High,3,98,88,High,Advanced,Low,$700B,80,11,8,High,88,85
+American Omni Trading,Demand-Driven SCM,500,6,10,92,94,"ERP, AI, Blockchain",,High,2,97,85,High,Advanced,Medium,$800B,85,11,8,High,88,85
+Gladiator,Lean Manufacturing,400,10,10,92,91,"ERP, AI, Blockchain",,High,2,98,90,High,Advanced,High,$800B,85,10,8,High,90,85
+Ironman,Sustainable SCM,150,8.3,20,88,89,"ERP, AI, Robotics",,Medium,5,96,85,Medium,Advanced,Medium,$800B,82,10,12,Medium,85,80
+O'Reilly Auto Parts,Lean Manufacturing,100,6,18,90,87,"ERP, AI, Robotics",,High,5,97,85,High,Advanced,Medium,$900B,81,11,10,Medium,85,85
+AutoZone,Vendor Managed Inventory,200,5,7,98,91,"AI, ERP, Blockchain",,High,1,98,92,High,Advanced,High,$1500B,85,12,3,High,95,90
+Advance Auto Parts,Lean Manufacturing,150,7.5,10,93,89,"ERP, AI, Blockchain",,High,2,98,88,High,Advanced,Medium,$800B,85,10,8,High,90,85
+NAPA Auto Parts,Vendor Managed Inventory,"20,000",6,12,91,88,"ERP, AI, Blockchain",,High,3,99,88,High,Advanced,Low,$700B,85,11,10,High,88,85
+Pep Boys,Agile SCM,100,6,22,89,85,"ERP, AI, Blockchain",,Medium,5,96,85,Medium,Advanced,Medium,$900B,85,9,15,Medium,85,80
+Carquest,Lean Manufacturing,"1,300,000",4,10,94,89,"ERP, AI, Blockchain",,High,2,98,88,High,Advanced,High,$500B,85,12,7,High,90,85
+Meineke,Agile SCM,200,4.2,15,91,88,"ERP, AI, Blockchain",,Medium,5,95,85,Medium,Advanced,Medium,$300B,80,10,10,Medium,85,80
+Midas,Sustainable SCM,300,4.5,11,90,90,"ERP, AI, Blockchain",,High,4,97,88,High,Advanced,Medium,$400B,80,9,10,High,87,80
+Firestone Complete Auto Care,Lean Manufacturing,100,5,20,88,93,"ERP, AI, Robotics",,Medium,5,96,85,Medium,Advanced,Medium,$800B,85,10,12,Medium,85,80
+Goodyear Auto Service,Agile SCM,400,4.5,12,91,85,"ERP, AI, Blockchain",,High,3,99,88,High,Advanced,Low,$700B,85,11,10,High,88,85
+Jiffy Lube,Lean Manufacturing,150,4,12,89,90,"ERP, AI, Robotics",,High,4,97,85,High,Advanced,Medium,$400B,82,10,10,Medium,85,80
+Valvoline Instant Oil Change,Vendor Managed Inventory,150,5,11,91,88,"ERP, AI, Blockchain",,High,3,99,88,High,Advanced,Low,$600B,81,11,10,High,88,85
+Monro Auto Service and Tire Centers,Agile SCM,100,5.8,7,98,85,"ERP, AI, Blockchain",,High,1,98,90,High,Advanced,High,$1200B,85,12,3,High,95,90
+Big O Tires,Sustainable SCM,300,5.5,18,88,94,"ERP, JIT, Robotics",,High,5,95,85,High,Advanced,Medium,$700B,85,10,12,Medium,85,80
+Les Schwab Tire Centers,Vendor Managed Inventory,150,4,12,91,91,"ERP, AI, Blockchain",,High,3,97,85,High,Advanced,Medium,$800B,85,11,10,High,88,85
+Discount Tire,Just-In-Time,500,7.7,11,90,89,"ERP, AI, Blockchain",,High,4,97,88,High,Advanced,Medium,$400B,85,9,10,High,87,80
+Tire Kingdom,Lean Manufacturing,400,9,14,90,93,"ERP, JIT, Robotics",,High,5,98,85,High,Advanced,Medium,$700B,85,10,10,Medium,85,80
+NTB - National Tire & Battery,Agile SCM,300,2,7,99,88,"AI, ERP, Blockchain",,High,2,98,92,High,Advanced,Low,$1200B,80,15,3,High,95,90
+America's Tire,Demand-Driven SCM,300,1,10,93,93,"ERP, AI, Blockchain",,High,2,98,88,High,Advanced,Medium,$800B,80,10,8,High,90,85
+Mavis Discount Tire,Agile SCM,100,7,12,91,92,"ERP, AI, Blockchain",,High,3,99,88,High,Advanced,Low,$700B,85,11,10,High,88,85
+Tuffy Tire & Auto Service,Agile SCM,300,8,7,98,89,"ERP, AI, Blockchain",,High,1,98,90,High,Advanced,High,$1200B,85,12,3,High,95,90
+Precision Tune Auto Care,Agile SCM,300,7,11,90,91,"ERP, AI, Blockchain",,High,4,97,88,High,Advanced,Medium,$400B,82,9,10,High,87,80
+Mr. Tire Auto Service Centers,Cross-Docking,"10,000",5.2,9,92,90,"ERP, AI, Blockchain",,High,3,99,88,High,Advanced,Low,$800B,81,12,8,High,88,85
+Hibdon Tires Plus,Agile SCM,"20,000",7.5,2,98,90,"AI, Robotics, Blockchain",,High,1,99,88,High,Advanced,High,"$1,500B",85,20,5,High,90,85
+Tire Warehouse,Lean Manufacturing,500,10.5,15,91,92,"ERP, AI, Robotics",,High,5,97,85,Medium,Advanced,Medium,$800B,85,10,12,Medium,85,85
+Town Fair Tire,Just-In-Time,200,5.8,8,94,94,"ERP, AI, Blockchain",,High,2,98,90,High,Advanced,Medium,$600B,85,12,7,High,90,85
+Tire Barn Warehouse,Agile SCM,100,7,10,92,90,"ERP, AI, Blockchain",,High,4,98,85,High,Advanced,Medium,$500B,85,12,8,High,89,85
+Tires Plus,Demand-Driven SCM,150,5.2,10,92,90,"ERP, AI, Blockchain",,High,2,98,90,High,Advanced,High,$900B,85,11,8,High,91,85
+Tire Discounters,Vendor Managed Inventory,250,6,9,93,89,"ERP, AI, Blockchain",,High,2,98,90,High,Advanced,High,$900B,80,11,8,High,91,85
+AAA Car Care,Vendor Managed Inventory,400,7.2,7,98,91,"AI, ERP, Blockchain",,High,1,98,92,High,Advanced,High,$1500B,80,12,3,High,95,90
+Big Brand Tire & Service,Vendor Managed Inventory,200,6,2,98,90,"AI, ERP, Blockchain",,High,1,98,90,High,Advanced,High,$500B,85,12,5,High,90,85
+Dunn Tire,Lean Manufacturing,"20,000",5.5,10,92,91,"ERP, AI, Blockchain",,High,2,98,90,High,Advanced,High,$800B,85,10,8,High,90,85
+Belle Tire,Lean Manufacturing,500,7,15,91,90,"ERP, AI, Blockchain",,Medium,5,95,85,Medium,Advanced,Medium,$300B,82,10,10,Medium,85,80
+Sullivan Tire and Auto Service,Lean Manufacturing,200,4.5,3,97,89,"AI, Robotics, Blockchain",,High,1,98,90,High,Advanced,High,"$1,200B",81,18,5,High,90,88
+Bruce's Tire,Lean Manufacturing,300,10,12,91,88,"ERP, AI, Blockchain",,High,3,97,85,High,Advanced,Medium,$800B,82,11,10,High,88,85
+Plaza Tire Service,Agile SCM,100,5,10,94,87,"ERP, AI, Blockchain",,High,2,98,88,High,Advanced,High,$500B,81,12,7,High,90,85
+Fleet Farm,Lean Manufacturing,250,6,11,91,88,"ERP, AI, Blockchain",,High,3,99,88,High,Advanced,Low,$600B,85,11,10,High,88,85
+Costco Tire Center,Agile SCM,"20,000",5,12,91,85,"ERP, AI, Blockchain",,High,3,99,88,High,Advanced,Low,$700B,85,11,10,High,88,85
+Sam's Club Tire & Battery Center,Lean Manufacturing,150,4.2,10,90,85,"ERP, AI, Blockchain",,High,3,98,88,High,Advanced,Low,$700B,85,11,8,High,88,85
+Sears Auto Center,Cross-Docking,"1,300,000",6.5,22,89,92,"ERP, AI, Blockchain",,Medium,5,96,85,Medium,Advanced,Medium,$900B,85,9,15,Medium,85,80
+Walmart Auto Care Centers,Agile SCM,200,7.5,18,90,88,"ERP, AI, Robotics",,High,5,97,85,High,Advanced,Medium,$900B,85,11,10,Medium,85,85
+Pep Boys,Lean Manufacturing,200,5.8,18,88,89,"ERP, JIT, Robotics",,High,5,95,85,High,Advanced,Medium,$700B,80,10,12,Medium,85,80
+O'Reilly Auto Parts,Agile SCM,500,5,18,87,90,"ERP, AI, Robotics",,Medium,6,95,85,Medium,Advanced,Medium,$500B,80,9,15,Medium,85,80
+AutoZone,Sustainable SCM,150,5.5,10,93,90,"ERP, AI, Blockchain",,High,2,98,88,High,Advanced,Medium,$800B,85,10,8,High,90,85
+Advance Auto Parts,Agile SCM,250,6.5,14,90,88,"ERP, AI, Blockchain",,Medium,4,97,85,Medium,Advanced,Medium,$800B,85,9,12,Medium,85,85
+NAPA Auto Parts,Lean Manufacturing,300,6,8,94,91,"ERP, AI, Blockchain",,High,2,98,90,High,Advanced,Medium,$700B,82,12,7,High,90,85
+Jiffy Lube,Agile SCM,"100,000",5,15,91,88,"ERP, AI, Robotics",,High,5,97,85,Medium,Advanced,Medium,$800B,81,10,12,Medium,85,85
+Valvoline Instant Oil Change,Demand-Driven SCM,200,5.8,4,95,91,"AI, ERP, Blockchain",,High,1,98,88,High,Advanced,High,$300B,85,12,5,High,90,85
+Meineke,Agile SCM,"10,000",4,15,95,89,"ERP, AI, Blockchain",,High,10,95,80,High,Advanced,Medium,$1000B,85,8,12,Medium,88,85
+Firestone Complete Auto Care,Lean Manufacturing,"1,000,000",4.5,12,89,90,"ERP, AI, Robotics",,High,4,97,85,High,Advanced,Medium,$400B,85,10,10,Medium,85,80
+Goodyear Auto Service,Agile SCM,200,5.5,8,94,90,"ERP, AI, Blockchain",,High,2,98,90,High,Advanced,Medium,$600B,85,12,7,High,90,85
+Midas,Lean Manufacturing,300,5.8,11,90,91,"ERP, AI, Blockchain",,High,4,97,88,High,Advanced,Medium,$400B,85,9,10,High,87,80
+Big O Tires,Agile SCM,150,5.2,9,93,87,"ERP, AI, Blockchain",,High,2,97,88,High,Advanced,Medium,$700B,80,10,7,High,90,85
+Les Schwab Tire Centers,Lean Manufacturing,100,4.2,5,93,93,"ERP, AI, Blockchain",,High,2,98,90,High,Advanced,High,$500B,80,11,5,High,90,85
+Discount Tire,Vendor Managed Inventory,100,8.2,10,92,85,"ERP, AI, Blockchain",,High,2,98,90,High,Advanced,High,$800B,85,10,8,High,90,85
+Tire Kingdom,Efficient Consumer Response,300,4.2,10,92,92,"ERP, AI, Blockchain",,High,4,98,85,High,Advanced,Medium,$500B,85,12,8,High,89,85
+NTB - National Tire & Battery,Sustainable SCM,400,5,8,94,89,"ERP, AI, Blockchain",,High,2,98,90,High,Advanced,Medium,$700B,82,12,7,High,90,85
+America's Tire,Lean Manufacturing,400,5.8,20,89,89,"ERP, AI, Blockchain",,Medium,5,96,85,Medium,Advanced,Medium,$900B,81,9,12,Medium,85,80
+Mavis Discount Tire,Agile SCM,300,4,7,98,85,"ERP, AI, Blockchain",,High,1,98,90,High,Advanced,High,$1200B,85,12,3,High,95,90
+Tuffy Tire & Auto Service,Lean Manufacturing,150,4,18,87,85,"ERP, AI, Robotics",,Medium,6,95,85,Medium,Advanced,Medium,$500B,85,9,15,Medium,85,80
+Precision Tune Auto Care,Agile SCM,500,6,9,93,88,"ERP, AI, Blockchain",,High,2,98,90,High,Advanced,High,$900B,85,11,8,High,91,85
+Mr. Tire Auto Service Centers,Demand-Driven SCM,300,4.5,15,91,89,"ERP, AI, Blockchain",,Medium,5,95,85,Medium,Advanced,Medium,$300B,85,10,10,Medium,85,80
+Hibdon Tires Plus,Lean Manufacturing,200,6.5,12,91,88,"ERP, AI, Blockchain",,High,3,99,88,High,Advanced,Low,$700B,85,11,10,High,88,85
+Tire Warehouse,Agile SCM,"20,000",6,10,90,90,"ERP, AI, Blockchain",,High,5,96,85,High,Advanced,Medium,$350B,80,11,8,High,87,85
+Town Fair Tire,Vendor Managed Inventory,500,4.2,12,88,91,"AI, ERP, Blockchain",,Medium,4,97,80,Medium,Advanced,Medium,$400B,80,8,15,Medium,80,78
+Tire Barn Warehouse,Vendor Managed Inventory,100,4.5,12,89,87,"ERP, AI, Robotics",,High,4,97,85,High,Advanced,Medium,$400B,85,10,10,Medium,85,80
+Tires Plus,Agile SCM,200,10,12,90,89,"ERP, AI, Blockchain",,High,4,97,85,High,Advanced,Medium,$700B,85,9,8,High,88,85
+Tire Discounters,Agile SCM,"20,000",6.2,14,90,90,"ERP, AI, Blockchain",,Medium,4,97,85,Medium,Advanced,Medium,$800B,82,9,12,Medium,85,85
+AAA Car Care,Sustainable SCM,400,4.2,10,92,88,"ERP, AI, Blockchain",,High,2,97,85,High,Advanced,Medium,$800B,81,11,8,High,88,85
+Big Brand Tire & Service,Vendor Managed Inventory,"1,500",5,10,94,89,"ERP, AI, Blockchain",,High,2,98,88,High,Advanced,High,$500B,85,12,7,High,90,85
+Dunn Tire,Just-In-Time,200,6,14,88,92,"ERP, AI, Robotics",,High,5,97,85,Medium,Advanced,Medium,$500B,85,10,10,Medium,85,80
+Belle Tire,Vendor Managed Inventory,500,5,8,94,88,"ERP, AI, Blockchain",,High,2,98,85,High,Advanced,Medium,$800B,85,10,5,High,90,85
+Sullivan Tire and Auto Service,Lean Manufacturing,300,5.2,11,91,89,"ERP, AI, Blockchain",,High,3,99,88,High,Advanced,Low,$600B,85,11,10,High,88,85
+Bruce's Tire,Lean Manufacturing,500,4.2,10,90,92,"ERP, AI, Blockchain",,High,3,98,88,High,Advanced,Low,$700B,85,11,8,High,88,85
+Plaza Tire Service,Lean Manufacturing,250,4.2,11,90,89,"ERP, AI, Blockchain",,High,4,97,88,High,Advanced,Medium,$600B,80,10,8,High,88,85
+Fleet Farm,Vendor Managed Inventory,300,5.8,10,93,85,"ERP, AI, Blockchain",,High,2,98,88,High,Advanced,Medium,$800B,80,10,8,High,90,85
+Costco Tire Center,Agile SCM,250,4,11,90,88,"ERP, AI, Blockchain",,High,4,97,88,High,Advanced,Medium,$400B,85,9,10,High,87,80
+Sam's Club Tire & Battery Center,Vendor Managed Inventory,"10,000",10,12,91,85,"ERP, AI, Blockchain",,High,3,99,88,High,Advanced,Low,$700B,85,11,10,High,88,85
+Sears Auto Center,Agile SCM,100,4,2,98,90,"AI, Robotics, Blockchain",,High,1,99,88,High,Advanced,High,"$1,500B",82,20,5,High,90,85
+Walmart Auto Care Centers,Agile SCM,"75,000",6,12,91,90,"ERP, AI, Blockchain",,High,3,99,88,High,Advanced,Low,$700B,81,11,10,High,88,85
+Pep Boys,Lean Manufacturing,"70,000",5.2,18,87,88,"ERP, AI, Robotics",,Medium,6,95,85,Medium,Advanced,Medium,$500B,82,9,15,Medium,85,80
+O'Reilly Auto Parts,Lean Manufacturing,100,6,12,89,90,"ERP, AI, Robotics",,High,4,97,85,High,Advanced,Medium,$400B,81,10,10,Medium,85,80
+AutoZone,Agile SCM,200,50,18,88,90,"ERP, JIT, Robotics",,High,5,95,85,High,Advanced,Medium,$700B,85,10,12,Medium,85,80
+Advance Auto Parts,Lean Manufacturing,500,6.2,11,91,85,"ERP, AI, Blockchain",,High,3,99,88,High,Advanced,Low,$600B,85,11,10,High,88,85
+NAPA Auto Parts,Vendor Managed Inventory,300,4.2,10,92,88,"ERP, AI, Blockchain",,High,2,98,90,High,Advanced,High,$900B,85,11,8,High,91,85
+Jiffy Lube,Lean Manufacturing,300,10,10,90,94,"ERP, AI, Blockchain",,High,3,98,88,High,Advanced,Low,$700B,85,11,8,High,88,85
+Valvoline Instant Oil Change,Demand-Driven SCM,500,5.2,10,92,91,"ERP, AI, Blockchain",,High,2,97,85,High,Advanced,Medium,$800B,85,11,8,High,88,85
+Meineke,Lean Manufacturing,400,3.5,10,92,89,"ERP, AI, Blockchain",,High,2,98,90,High,Advanced,High,$800B,80,10,8,High,90,85
+Firestone Complete Auto Care,Sustainable SCM,150,8.2,20,88,87,"ERP, AI, Robotics",,Medium,5,96,85,Medium,Advanced,Medium,$800B,80,10,12,Medium,85,80
+Goodyear Auto Service,Lean Manufacturing,100,5.2,18,90,91,"ERP, AI, Robotics",,High,5,97,85,High,Advanced,Medium,$900B,85,11,10,Medium,85,85
+Midas,Vendor Managed Inventory,200,7,7,98,89,"AI, ERP, Blockchain",,High,1,98,92,High,Advanced,High,$1500B,85,12,3,High,95,90
+Big O Tires,Lean Manufacturing,150,5.5,10,93,88,"ERP, AI, Blockchain",,High,2,98,88,High,Advanced,Medium,$800B,82,10,8,High,90,85
+Les Schwab Tire Centers,Vendor Managed Inventory,"20,000",6,12,91,85,"ERP, AI, Blockchain",,High,3,99,88,High,Advanced,Low,$700B,81,11,10,High,88,85
+Discount Tire,Agile SCM,100,6,22,89,89,"ERP, AI, Blockchain",,Medium,5,96,85,Medium,Advanced,Medium,$900B,85,9,15,Medium,85,80
+Tire Kingdom,Lean Manufacturing,"1,300,000",10,10,94,88,"ERP, AI, Blockchain",,High,2,98,88,High,Advanced,High,$500B,85,12,7,High,90,85
+NTB - National Tire & Battery,Agile SCM,200,8.3,15,91,90,"ERP, AI, Blockchain",,Medium,5,95,85,Medium,Advanced,Medium,$300B,85,10,10,Medium,85,80
+America's Tire,Sustainable SCM,300,6,11,90,93,"ERP, AI, Blockchain",,High,4,97,88,High,Advanced,Medium,$400B,85,9,10,High,87,80
+Mavis Discount Tire,Lean Manufacturing,100,5,20,88,85,"ERP, AI, Robotics",,Medium,5,96,85,Medium,Advanced,Medium,$800B,85,10,12,Medium,85,80
+Tuffy Tire & Auto Service,Agile SCM,400,7.5,12,91,90,"ERP, AI, Blockchain",,High,3,99,88,High,Advanced,Low,$700B,80,11,10,High,88,85
+Precision Tune Auto Care,Lean Manufacturing,150,6,12,89,88,"ERP, AI, Robotics",,High,4,97,85,High,Advanced,Medium,$400B,80,10,10,Medium,85,80
+Healthcare Companies (continued):,Vendor Managed Inventory,150,6,11,91,85,"ERP, AI, Blockchain",,High,3,99,88,High,Advanced,Low,$600B,85,11,10,High,88,85
+Mr. Tire Auto Service Centers,Agile SCM,100,4,7,98,94,"ERP, AI, Blockchain",,High,1,98,90,High,Advanced,High,$1200B,85,12,3,High,95,90
+Hibdon Tires Plus,Sustainable SCM,300,4.2,18,88,91,"ERP, JIT, Robotics",,High,5,95,85,High,Advanced,Medium,$700B,82,10,12,Medium,85,80
+Tire Warehouse,Vendor Managed Inventory,150,4.5,12,91,89,"ERP, AI, Blockchain",,High,3,97,85,High,Advanced,Medium,$800B,81,11,10,High,88,85
+Town Fair Tire,Just-In-Time,500,5,11,90,93,"ERP, AI, Blockchain",,High,4,97,88,High,Advanced,Medium,$400B,85,9,10,High,87,80
+Tire Barn Warehouse,Lean Manufacturing,400,4.5,14,90,88,"ERP, JIT, Robotics",,High,5,98,85,High,Advanced,Medium,$700B,85,10,10,Medium,85,80
+Tires Plus,Agile SCM,300,4,7,99,93,"AI, ERP, Blockchain",,High,2,98,92,High,Advanced,Low,$1200B,85,15,3,High,95,90
+Tire Discounters,Demand-Driven SCM,300,5,10,93,92,"ERP, AI, Blockchain",,High,2,98,88,High,Advanced,Medium,$800B,85,10,8,High,90,85
+AAA Car Care,Agile SCM,100,5.8,12,91,89,"ERP, AI, Blockchain",,High,3,99,88,High,Advanced,Low,$700B,85,11,10,High,88,85
+Big Brand Tire & Service,Agile SCM,300,5.5,7,98,91,"ERP, AI, Blockchain",,High,1,98,90,High,Advanced,High,$1200B,80,12,3,High,95,90
+Dunn Tire,Agile SCM,300,10.5,11,90,90,"ERP, AI, Blockchain",,High,4,97,88,High,Advanced,Medium,$400B,80,9,10,High,87,80
+Belle Tire,Cross-Docking,"10,000",5.8,9,92,90,"ERP, AI, Blockchain",,High,3,99,88,High,Advanced,Low,$800B,85,12,8,High,88,85
+Sullivan Tire and Auto Service,Agile SCM,"20,000",7,2,98,92,"AI, Robotics, Blockchain",,High,1,99,88,High,Advanced,High,"$1,500B",85,20,5,High,90,85
+Bruce's Tire,Lean Manufacturing,500,5.2,15,91,94,"ERP, AI, Robotics",,High,5,97,85,Medium,Advanced,Medium,$800B,82,10,12,Medium,85,85
+Plaza Tire Service,Just-In-Time,200,6,8,94,90,"ERP, AI, Blockchain",,High,2,98,90,High,Advanced,Medium,$600B,81,12,7,High,90,85
+Fleet Farm,Agile SCM,100,7.2,10,92,90,"ERP, AI, Blockchain",,High,4,98,85,High,Advanced,Medium,$500B,85,12,8,High,89,85
+Costco Tire Center,Demand-Driven SCM,150,6,10,92,89,"ERP, AI, Blockchain",,High,2,98,90,High,Advanced,High,$900B,85,11,8,High,91,85
+Sam's Club Tire & Battery Center,Vendor Managed Inventory,250,5.5,9,93,91,"ERP, AI, Blockchain",,High,2,98,90,High,Advanced,High,$900B,85,11,8,High,91,85
+Sears Auto Center,Vendor Managed Inventory,400,7,7,98,90,"AI, ERP, Blockchain",,High,1,98,92,High,Advanced,High,$1500B,85,12,3,High,95,90
+Walmart Auto Care Centers,Vendor Managed Inventory,200,4.5,2,98,91,"AI, ERP, Blockchain",,High,1,98,90,High,Advanced,High,$500B,85,12,5,High,90,85
+Pep Boys,Lean Manufacturing,"20,000",10,10,92,90,"ERP, AI, Blockchain",,High,2,98,90,High,Advanced,High,$800B,80,10,8,High,90,85
+O'Reilly Auto Parts,Lean Manufacturing,500,5,15,91,89,"ERP, AI, Blockchain",,Medium,5,95,85,Medium,Advanced,Medium,$300B,80,10,10,Medium,85,80
+AutoZone,Lean Manufacturing,200,6,3,97,88,"AI, Robotics, Blockchain",,High,1,98,90,High,Advanced,High,"$1,200B",85,18,5,High,90,88
+Advance Auto Parts,Lean Manufacturing,300,5,12,91,87,"ERP, AI, Blockchain",,High,3,97,85,High,Advanced,Medium,$800B,85,11,10,High,88,85
+NAPA Auto Parts,Agile SCM,100,4.2,10,94,88,"ERP, AI, Blockchain",,High,2,98,88,High,Advanced,High,$500B,82,12,7,High,90,85
+Jiffy Lube,Lean Manufacturing,250,6.5,11,91,85,"ERP, AI, Blockchain",,High,3,99,88,High,Advanced,Low,$600B,81,11,10,High,88,85
+Valvoline Instant Oil Change,Lean Manufacturing,"20,000",7.5,12,91,85,"ERP, AI, Blockchain",,High,3,99,88,High,Advanced,Low,$700B,82,11,10,High,88,85
+Meineke,Agile SCM,150,5.8,10,90,92,"ERP, AI, Blockchain",,High,3,98,88,High,Advanced,Low,$700B,81,11,8,High,88,85
+Firestone Complete Auto Care,Sustainable SCM,"1,300,000",5,22,89,88,"ERP, AI, Blockchain",,Medium,5,96,85,Medium,Advanced,Medium,$900B,85,9,15,Medium,85,80
+Goodyear Auto Service,Agile SCM,200,5.5,18,90,89,"ERP, AI, Robotics",,High,5,97,85,High,Advanced,Medium,$900B,85,11,10,Medium,85,85
+Midas,Lean Manufacturing,200,6.5,18,88,90,"ERP, JIT, Robotics",,High,5,95,85,High,Advanced,Medium,$700B,85,10,12,Medium,85,80
+Big O Tires,Agile SCM,500,6,18,87,90,"ERP, AI, Robotics",,Medium,6,95,85,Medium,Advanced,Medium,$500B,85,9,15,Medium,85,80
+Les Schwab Tire Centers,Demand-Driven SCM,150,5,10,93,88,"ERP, AI, Blockchain",,High,2,98,88,High,Advanced,Medium,$800B,85,10,8,High,90,85
+Discount Tire,Agile SCM,250,5.8,14,90,91,"ERP, AI, Blockchain",,Medium,4,97,85,Medium,Advanced,Medium,$800B,80,9,12,Medium,85,85
+Tire Kingdom,Lean Manufacturing,300,4,8,94,88,"ERP, AI, Blockchain",,High,2,98,90,High,Advanced,Medium,$700B,80,12,7,High,90,85
+NTB - National Tire & Battery,Agile SCM,"100,000",4.5,15,91,91,"ERP, AI, Robotics",,High,5,97,85,Medium,Advanced,Medium,$800B,85,10,12,Medium,85,85
+America's Tire,Lean Manufacturing,200,5.5,4,95,89,"AI, ERP, Blockchain",,High,1,98,88,High,Advanced,High,$300B,85,12,5,High,90,85
+Mavis Discount Tire,Agile SCM,"10,000",5.8,15,95,90,"ERP, AI, Blockchain",,High,10,95,80,High,Advanced,Medium,$1000B,82,8,12,Medium,88,85
+Tuffy Tire & Auto Service,Lean Manufacturing,"1,000,000",5.2,12,89,90,"ERP, AI, Robotics",,High,4,97,85,High,Advanced,Medium,$400B,81,10,10,Medium,85,80
+Precision Tune Auto Care,Vendor Managed Inventory,200,4.2,8,94,91,"ERP, AI, Blockchain",,High,2,98,90,High,Advanced,Medium,$600B,85,12,7,High,90,85
+Mr. Tire Auto Service Centers,Efficient Consumer Response,300,8.2,11,90,87,"ERP, AI, Blockchain",,High,4,97,88,High,Advanced,Medium,$400B,85,9,10,High,87,80
+Hibdon Tires Plus,Sustainable SCM,150,4.2,9,93,93,"ERP, AI, Blockchain",,High,2,97,88,High,Advanced,Medium,$700B,85,10,7,High,90,85
+Tire Warehouse,Lean Manufacturing,100,5,5,93,85,"ERP, AI, Blockchain",,High,2,98,90,High,Advanced,High,$500B,85,11,5,High,90,85
+Town Fair Tire,Agile SCM,100,5.8,10,92,92,"ERP, AI, Blockchain",,High,2,98,90,High,Advanced,High,$800B,85,10,8,High,90,85
+Tire Barn Warehouse,Lean Manufacturing,300,4,10,92,89,"ERP, AI, Blockchain",,High,4,98,85,High,Advanced,Medium,$500B,80,12,8,High,89,85
+Tires Plus,Agile SCM,400,4,8,94,89,"ERP, AI, Blockchain",,High,2,98,90,High,Advanced,Medium,$700B,80,12,7,High,90,85
+Tire Discounters,Demand-Driven SCM,400,6,20,89,85,"ERP, AI, Blockchain",,Medium,5,96,85,Medium,Advanced,Medium,$900B,85,9,12,Medium,85,80
+AAA Car Care,Lean Manufacturing,300,4.5,7,98,85,"ERP, AI, Blockchain",,High,1,98,90,High,Advanced,High,$1200B,85,12,3,High,95,90
+Big Brand Tire & Service,Agile SCM,150,6.5,18,87,88,"ERP, AI, Robotics",,Medium,6,95,85,Medium,Advanced,Medium,$500B,82,9,15,Medium,85,80
+Dunn Tire,Vendor Managed Inventory,500,6,9,93,89,"ERP, AI, Blockchain",,High,2,98,90,High,Advanced,High,$900B,81,11,8,High,91,85
+Belle Tire,Vendor Managed Inventory,1200,4.2,15,91,88,"ERP, AI, Blockchain",,Medium,5,95,85,Medium,Advanced,Medium,$300B,85,10,10,Medium,85,80
+Sullivan Tire and Auto Service,Agile SCM,359,4.5,12,91,90,"ERP, AI, Blockchain",,High,3,99,88,High,Advanced,Low,$700B,85,11,10,High,88,85
+Bruce's Tire,Agile SCM,459,10,10,90,91,"ERP, AI, Blockchain",,High,5,96,85,High,Advanced,Medium,$350B,85,11,8,High,87,85
+Plaza Tire Service,Sustainable SCM,876,6.2,12,88,87,"AI, ERP, Blockchain",,Medium,4,97,80,Medium,Advanced,Medium,$400B,85,8,15,Medium,80,78
+Fleet Farm,Vendor Managed Inventory,655,4.2,12,89,89,"ERP, AI, Robotics",,High,4,97,85,High,Advanced,Medium,$400B,85,10,10,Medium,85,80
+Costco Tire Center,Just-In-Time,4444,5,12,90,90,"ERP, AI, Blockchain",,High,4,97,85,High,Advanced,Medium,$700B,80,9,8,High,88,85
+Sam's Club Tire & Battery Center,Vendor Managed Inventory,433,6,14,90,88,"ERP, AI, Blockchain",,Medium,4,97,85,Medium,Advanced,Medium,$800B,80,9,12,Medium,85,85
+Sears Auto Center,Lean Manufacturing,12000,5,10,92,89,"ERP, AI, Blockchain",,High,2,97,85,High,Advanced,Medium,$800B,85,11,8,High,88,85
+Walmart Auto Care Centers,Lean Manufacturing,300,5.2,10,94,92,"ERP, AI, Blockchain",,High,2,98,88,High,Advanced,High,$500B,85,12,7,High,90,85
+Pep Boys,Lean Manufacturing,200,4.2,14,88,88,"ERP, AI, Robotics",,High,5,97,85,Medium,Advanced,Medium,$500B,82,10,10,Medium,85,80
+O'Reilly Auto Parts,Vendor Managed Inventory,"20,000",4.2,8,94,89,"ERP, AI, Blockchain",,High,2,98,85,High,Advanced,Medium,$800B,81,10,5,High,90,85
+AutoZone,Agile SCM,500,5.8,11,91,92,"ERP, AI, Blockchain",,High,3,99,88,High,Advanced,Low,$600B,85,11,10,High,88,85
+Advance Auto Parts,Vendor Managed Inventory,100,4,10,90,89,"ERP, AI, Blockchain",,High,3,98,88,High,Advanced,Low,$700B,85,11,8,High,88,85
+NAPA Auto Parts,Agile SCM,200,10,11,90,85,"ERP, AI, Blockchain",,High,4,97,88,High,Advanced,Medium,$600B,85,10,8,High,88,85
+Jiffy Lube,Agile SCM,"20,000",4,10,93,88,"ERP, AI, Blockchain",,High,2,98,88,High,Advanced,Medium,$800B,85,10,8,High,90,85
+Valvoline Instant Oil Change,Lean Manufacturing,400,6,11,90,85,"ERP, AI, Blockchain",,High,4,97,88,High,Advanced,Medium,$400B,85,9,10,High,87,80
+Meineke,Lean Manufacturing,"1,500",5.2,12,91,90,"ERP, AI, Blockchain",,High,3,99,88,High,Advanced,Low,$700B,80,11,10,High,88,85
+Firestone Complete Auto Care,Agile SCM,200,6,2,98,90,"AI, Robotics, Blockchain",,High,1,99,88,High,Advanced,High,"$1,500B",80,20,5,High,90,85
+Goodyear Auto Service,Lean Manufacturing,500,50,12,91,88,"ERP, AI, Blockchain",,High,3,99,88,High,Advanced,Low,$700B,85,11,10,High,88,85
+Midas,Vendor Managed Inventory,300,6.2,18,87,90,"ERP, AI, Robotics",,Medium,6,95,85,Medium,Advanced,Medium,$500B,85,9,15,Medium,85,80
+Big O Tires,Lean Manufacturing,500,4.2,12,89,90,"ERP, AI, Robotics",,High,4,97,85,High,Advanced,Medium,$400B,82,10,10,Medium,85,80
+Les Schwab Tire Centers,Demand-Driven SCM,250,10,18,88,85,"ERP, JIT, Robotics",,High,5,95,85,High,Advanced,Medium,$700B,81,10,12,Medium,85,80
+Discount Tire,Lean Manufacturing,300,5.2,11,91,88,"ERP, AI, Blockchain",,High,3,99,88,High,Advanced,Low,$600B,82,11,10,High,88,85
+Tire Kingdom,Sustainable SCM,250,3.5,10,92,94,"ERP, AI, Blockchain",,High,2,98,90,High,Advanced,High,$900B,81,11,8,High,91,85
+NTB - National Tire & Battery,Lean Manufacturing,"10,000",8.2,10,90,91,"ERP, AI, Blockchain",,High,3,98,88,High,Advanced,Low,$700B,85,11,8,High,88,85
+America's Tire,Vendor Managed Inventory,100,5.2,10,92,89,"ERP, AI, Blockchain",,High,2,97,85,High,Advanced,Medium,$800B,85,11,8,High,88,85
+Mavis Discount Tire,Lean Manufacturing,"75,000",7,10,92,87,"ERP, AI, Blockchain",,High,2,98,90,High,Advanced,High,$800B,85,10,8,High,90,85
+Tuffy Tire & Auto Service,Vendor Managed Inventory,"70,000",5.5,20,88,91,"ERP, AI, Robotics",,Medium,5,96,85,Medium,Advanced,Medium,$800B,85,10,12,Medium,85,80
+Precision Tune Auto Care,Agile SCM,100,6,18,90,89,"ERP, AI, Robotics",,High,5,97,85,High,Advanced,Medium,$900B,85,11,10,Medium,85,85
+Mr. Tire Auto Service Centers,Lean Manufacturing,200,6,7,98,88,"AI, ERP, Blockchain",,High,1,98,92,High,Advanced,High,$1500B,80,12,3,High,95,90
+Hibdon Tires Plus,Agile SCM,500,10,10,93,85,"ERP, AI, Blockchain",,High,2,98,88,High,Advanced,Medium,$800B,80,10,8,High,90,85
+Tire Warehouse,Sustainable SCM,300,8.3,12,91,89,"ERP, AI, Blockchain",,High,3,99,88,High,Advanced,Low,$700B,85,11,10,High,88,85
+Town Fair Tire,Lean Manufacturing,300,6,22,89,88,"ERP, AI, Blockchain",,Medium,5,96,85,Medium,Advanced,Medium,$900B,85,9,15,Medium,85,80
+Tire Barn Warehouse,Agile SCM,500,5,10,94,90,"ERP, AI, Blockchain",,High,2,98,88,High,Advanced,High,$500B,82,12,7,High,90,85
+Tires Plus,Lean Manufacturing,400,7.5,15,91,93,"ERP, AI, Blockchain",,Medium,5,95,85,Medium,Advanced,Medium,$300B,81,10,10,Medium,85,80
+Tire Discounters,Vendor Managed Inventory,150,6,11,90,85,"ERP, AI, Blockchain",,High,4,97,88,High,Advanced,Medium,$400B,85,9,10,High,87,80
+AAA Car Care,Agile SCM,100,6,20,88,90,"ERP, AI, Robotics",,Medium,5,96,85,Medium,Advanced,Medium,$800B,85,10,12,Medium,85,80
+Big Brand Tire & Service,Sustainable SCM,200,4,12,91,88,"ERP, AI, Blockchain",,High,3,99,88,High,Advanced,Low,$700B,85,11,10,High,88,85
+Dunn Tire,Vendor Managed Inventory,150,4.2,12,89,85,"ERP, AI, Robotics",,High,4,97,85,High,Advanced,Medium,$400B,85,10,10,Medium,85,80
+Belle Tire,Just-In-Time,"20,000",4.5,11,91,94,"ERP, AI, Blockchain",,High,3,99,88,High,Advanced,Low,$600B,85,11,10,High,88,85
+Sullivan Tire and Auto Service,Lean Manufacturing,100,5,7,98,91,"ERP, AI, Blockchain",,High,1,98,90,High,Advanced,High,$1200B,80,12,3,High,95,90
+Bruce's Tire,Agile SCM,"1,300,000",4.5,18,88,89,"ERP, JIT, Robotics",,High,5,95,85,High,Advanced,Medium,$700B,80,10,12,Medium,85,80
+Plaza Tire Service,Demand-Driven SCM,200,4,12,91,93,"ERP, AI, Blockchain",,High,3,97,85,High,Advanced,Medium,$800B,85,11,10,High,88,85
+Fleet Farm,Agile SCM,300,5,11,90,88,"ERP, AI, Blockchain",,High,4,97,88,High,Advanced,Medium,$400B,85,9,10,High,87,80
+Costco Tire Center,Agile SCM,100,5.8,14,90,93,"ERP, JIT, Robotics",,High,5,98,85,High,Advanced,Medium,$700B,82,10,10,Medium,85,80
+Sam's Club Tire & Battery Center,Agile SCM,400,5.5,7,99,92,"AI, ERP, Blockchain",,High,2,98,92,High,Advanced,Low,$1200B,81,15,3,High,95,90
+Sears Auto Center,Cross-Docking,150,4,10,93,89,"ERP, AI, Blockchain",,High,2,98,88,High,Advanced,Medium,$800B,85,10,8,High,90,85
+Walmart Auto Care Centers,Agile SCM,150,7.7,12,91,91,"ERP, AI, Blockchain",,High,3,99,88,High,Advanced,Low,$700B,85,11,10,High,88,85
+Pep Boys,Lean Manufacturing,100,9,7,98,90,"ERP, AI, Blockchain",,High,1,98,90,High,Advanced,High,$1200B,85,12,3,High,95,90
+Yara International,Just-In-Time,300,2,11,90,90,"ERP, AI, Blockchain",,High,4,97,88,High,Advanced,Medium,$400B,85,9,10,High,87,80
+Nutrien,Agile SCM,150,1,9,92,92,"ERP, AI, Blockchain",,High,3,99,88,High,Advanced,Low,$800B,85,12,8,High,88,85
+The Mosaic Company,Demand-Driven SCM,500,7,2,98,94,"AI, Robotics, Blockchain",,High,1,99,88,High,Advanced,High,"$1,500B",80,20,5,High,90,85
+"CF Industries Holdings, Inc.",Vendor Managed Inventory,400,8,15,91,90,"ERP, AI, Robotics",,High,5,97,85,Medium,Advanced,Medium,$800B,80,10,12,Medium,85,85
+EuroChem Group,Vendor Managed Inventory,300,5,8,94,90,"ERP, AI, Blockchain",,High,2,98,90,High,Advanced,Medium,$600B,85,12,7,High,90,85
+K+S AG,Vendor Managed Inventory,300,5.8,10,92,89,"ERP, AI, Blockchain",,High,4,98,85,High,Advanced,Medium,$500B,85,12,8,High,89,85
+ICL Group Ltd.,Lean Manufacturing,100,4,10,92,91,"ERP, AI, Blockchain",,High,2,98,90,High,Advanced,High,$900B,82,11,8,High,91,85
+OCI N.V.,Lean Manufacturing,300,4,9,93,90,"ERP, AI, Blockchain",,High,2,98,90,High,Advanced,High,$900B,81,11,8,High,91,85
+Uralkali,Lean Manufacturing,300,6,7,98,91,"AI, ERP, Blockchain",,High,1,98,92,High,Advanced,High,$1500B,85,12,3,High,95,90
+Sinofert Holdings Limited,Lean Manufacturing,"10,000",4.5,2,98,90,"AI, ERP, Blockchain",,High,1,98,90,High,Advanced,High,$500B,85,12,5,High,90,85
+Haifa Group,Agile SCM,"20,000",6.5,10,92,89,"ERP, AI, Blockchain",,High,2,98,90,High,Advanced,High,$800B,85,10,8,High,90,85
+SQM (Sociedad Química y Minera),Lean Manufacturing,500,6,15,91,88,"ERP, AI, Blockchain",,Medium,5,95,85,Medium,Advanced,Medium,$300B,85,10,10,Medium,85,80
+OCP Group,Agile SCM,200,4.2,3,97,87,"AI, Robotics, Blockchain",,High,1,98,90,High,Advanced,High,"$1,200B",85,18,5,High,90,88
+Agrium Inc.,Lean Manufacturing,100,4.5,12,91,88,"ERP, AI, Blockchain",,High,3,97,85,High,Advanced,Medium,$800B,80,11,10,High,88,85
+PotashCorp,Cross-Docking,150,10,10,94,85,"ERP, AI, Blockchain",,High,2,98,88,High,Advanced,High,$500B,80,12,7,High,90,85
+Terra Nitrogen Company,Agile SCM,250,6.2,11,91,85,"ERP, AI, Blockchain",,High,3,99,88,High,Advanced,Low,$600B,85,11,10,High,88,85
+"Koch Fertilizer, LLC",Lean Manufacturing,400,4.2,12,91,92,"ERP, AI, Blockchain",,High,3,99,88,High,Advanced,Low,$700B,85,11,10,High,88,85
+SABIC (Saudi Basic Industries Corporation),Agile SCM,200,5,10,90,88,"ERP, AI, Blockchain",,High,3,98,88,High,Advanced,Low,$700B,82,11,8,High,88,85
+Indian Farmers Fertilizer Cooperative Limited (IFFCO),Sustainable SCM,"20,000",6,22,89,89,"ERP, AI, Blockchain",,Medium,5,96,85,Medium,Advanced,Medium,$900B,81,9,15,Medium,85,80
+Coromandel International,Agile SCM,500,5,18,90,90,"ERP, AI, Robotics",,High,5,97,85,High,Advanced,Medium,$900B,82,11,10,Medium,85,85
+Gujarat State Fertilizers & Chemicals (GSFC),Lean Manufacturing,200,5.2,18,88,90,"ERP, JIT, Robotics",,High,5,95,85,High,Advanced,Medium,$700B,81,10,12,Medium,85,80
+Rashtriya Chemicals & Fertilizers (RCF),Agile SCM,300,4.2,18,87,88,"ERP, AI, Robotics",,Medium,6,95,85,Medium,Advanced,Medium,$500B,85,9,15,Medium,85,80
+Zuari Agro Chemicals Ltd.,Demand-Driven SCM,100,4.2,10,93,91,"ERP, AI, Blockchain",,High,2,98,88,High,Advanced,Medium,$800B,85,10,8,High,90,85
+Deepak Fertilisers and Petrochemicals Corporation Ltd.,Agile SCM,250,5.8,14,90,88,"ERP, AI, Blockchain",,Medium,4,97,85,Medium,Advanced,Medium,$800B,85,9,12,Medium,85,85
+Chambal Fertilisers and Chemicals Ltd.,Lean Manufacturing,"20,000",4,8,94,91,"ERP, AI, Blockchain",,High,2,98,90,High,Advanced,Medium,$700B,85,12,7,High,90,85
+Tata Chemicals Limited,Agile SCM,150,10,15,91,89,"ERP, AI, Robotics",,High,5,97,85,Medium,Advanced,Medium,$800B,85,10,12,Medium,85,85
+Paradeep Phosphates Limited,Lean Manufacturing,"1,300,000",4,4,95,90,"AI, ERP, Blockchain",,High,1,98,88,High,Advanced,High,$300B,80,12,5,High,90,85
+Indorama Fertilizers,Agile SCM,200,6,15,95,90,"ERP, AI, Blockchain",,High,10,95,80,High,Advanced,Medium,$1000B,80,8,12,Medium,88,85
+GrainCorp Limited,Lean Manufacturing,200,5.2,12,89,91,"ERP, AI, Robotics",,High,4,97,85,High,Advanced,Medium,$400B,85,10,10,Medium,85,80
+"Mosaic Fertilizer, LLC",Vendor Managed Inventory,500,6,8,94,87,"ERP, AI, Blockchain",,High,2,98,90,High,Advanced,Medium,$600B,85,12,7,High,90,85
+"Brandt Consolidated, Inc.",Efficient Consumer Response,150,50,11,90,93,"ERP, AI, Blockchain",,High,4,97,88,High,Advanced,Medium,$400B,82,9,10,High,87,80
+"Helena Agri-Enterprises, LLC",Sustainable SCM,250,6.2,9,93,85,"ERP, AI, Blockchain",,High,2,97,88,High,Advanced,Medium,$700B,81,10,7,High,90,85
+Wilbur-Ellis Company,Lean Manufacturing,300,4.2,5,93,92,"ERP, AI, Blockchain",,High,2,98,90,High,Advanced,High,$500B,85,11,5,High,90,85
+"Loveland Products, Inc.",Agile SCM,"100,000",10,10,92,89,"ERP, AI, Blockchain",,High,2,98,90,High,Advanced,High,$800B,85,10,8,High,90,85
+"Growmark, Inc.",Lean Manufacturing,200,5.2,10,92,89,"ERP, AI, Blockchain",,High,4,98,85,High,Advanced,Medium,$500B,85,12,8,High,89,85
+J.R. Simplot Company,Agile SCM,"10,000",3.5,8,94,85,"ERP, AI, Blockchain",,High,2,98,90,High,Advanced,Medium,$700B,85,12,7,High,90,85
+Compass Minerals,Demand-Driven SCM,"1,000,000",8.2,20,89,85,"ERP, AI, Blockchain",,Medium,5,96,85,Medium,Advanced,Medium,$900B,85,9,12,Medium,85,80
+"CF Industries Nitrogen, LLC",Lean Manufacturing,200,5.2,7,98,88,"ERP, AI, Blockchain",,High,1,98,90,High,Advanced,High,$1200B,80,12,3,High,95,90
+Koch Agronomic Services,Agile SCM,300,7,18,87,89,"ERP, AI, Robotics",,Medium,6,95,85,Medium,Advanced,Medium,$500B,80,9,15,Medium,85,80
+Koch Industries,Vendor Managed Inventory,150,5.5,9,93,88,"ERP, AI, Blockchain",,High,2,98,90,High,Advanced,High,$900B,85,11,8,High,91,85
+Koch Ag & Energy Solutions,Vendor Managed Inventory,100,6,15,91,90,"ERP, AI, Blockchain",,Medium,5,95,85,Medium,Advanced,Medium,$300B,85,10,10,Medium,85,80
+Verdesian Life Sciences,Agile SCM,100,6,12,91,91,"ERP, AI, Blockchain",,High,3,99,88,High,Advanced,Low,$700B,82,11,10,High,88,85
+Kugler Company,Agile SCM,300,10,10,90,87,"ERP, AI, Blockchain",,High,5,96,85,High,Advanced,Medium,$350B,81,11,8,High,87,85
+AgroLiquid,Sustainable SCM,400,8.3,12,88,89,"AI, ERP, Blockchain",,Medium,4,97,80,Medium,Advanced,Medium,$400B,85,8,15,Medium,80,78
+Agro-Culture Liquid Fertilizers,Vendor Managed Inventory,400,6,12,89,90,"ERP, AI, Robotics",,High,4,97,85,High,Advanced,Medium,$400B,85,10,10,Medium,85,80
+Agro-K Corporation,Just-In-Time,300,5,12,90,88,"ERP, AI, Blockchain",,High,4,97,85,High,Advanced,Medium,$700B,85,9,8,High,88,85
+American Plant Food Corporation,Vendor Managed Inventory,150,7.5,14,90,89,"ERP, AI, Blockchain",,Medium,4,97,85,Medium,Advanced,Medium,$800B,85,9,12,Medium,85,85
+Helena Chemical Company,Lean Manufacturing,500,6,10,92,92,"ERP, AI, Blockchain",,High,2,97,85,High,Advanced,Medium,$800B,85,11,8,High,88,85
+Agrium Advanced Technologies,Lean Manufacturing,300,6,10,94,88,"ERP, AI, Blockchain",,High,2,98,88,High,Advanced,High,$500B,80,12,7,High,90,85
+Planet Turf,Lean Manufacturing,200,4,14,88,89,"ERP, AI, Robotics",,High,5,97,85,Medium,Advanced,Medium,$500B,80,10,10,Medium,85,80
+Supreme Growers,Vendor Managed Inventory,"20,000",4.2,8,94,92,"ERP, AI, Blockchain",,High,2,98,85,High,Advanced,Medium,$800B,85,10,5,High,90,85
+Southern States Cooperative,Agile SCM,500,4.5,11,91,89,"ERP, AI, Blockchain",,High,3,99,88,High,Advanced,Low,$600B,85,11,10,High,88,85
+Royster-Clark,Vendor Managed Inventory,100,5,10,90,85,"ERP, AI, Blockchain",,High,3,98,88,High,Advanced,Low,$700B,82,11,8,High,88,85
+TIMAC Agro USA,Agile SCM,200,4.5,11,90,88,"ERP, AI, Blockchain",,High,4,97,88,High,Advanced,Medium,$600B,81,10,8,High,88,85
+"Andersons, Inc.",Agile SCM,"20,000",4,10,93,85,"ERP, AI, Blockchain",,High,2,98,88,High,Advanced,Medium,$800B,85,10,8,High,90,85
+Harrell’s LLC,Lean Manufacturing,400,5,11,90,90,"ERP, AI, Blockchain",,High,4,97,88,High,Advanced,Medium,$400B,85,9,10,High,87,80
+WinField United,Lean Manufacturing,"1,500",5.8,12,91,90,"ERP, AI, Blockchain",,High,3,99,88,High,Advanced,Low,$700B,85,11,10,High,88,85
+AgXplore,Agile SCM,200,5.5,2,98,88,"AI, Robotics, Blockchain",,High,1,99,88,High,Advanced,High,"$1,500B",85,20,5,High,90,85
+"Yargus Manufacturing, Inc.",Lean Manufacturing,500,4,12,91,90,"ERP, AI, Blockchain",,High,3,99,88,High,Advanced,Low,$700B,85,11,10,High,88,85
+"Plant Food Company, Inc.",Vendor Managed Inventory,300,7.7,18,87,90,"ERP, AI, Robotics",,Medium,6,95,85,Medium,Advanced,Medium,$500B,80,9,15,Medium,85,80
+Krebbs Fertilizer,Lean Manufacturing,500,5,12,89,85,"ERP, AI, Robotics",,High,4,97,85,High,Advanced,Medium,$400B,80,10,10,Medium,85,80
+Richland Fertilizer Co.,Demand-Driven SCM,250,5.8,18,88,88,"ERP, JIT, Robotics",,High,5,95,85,High,Advanced,Medium,$700B,85,10,12,Medium,85,80
+Martin Resources,Lean Manufacturing,300,4,11,91,94,"ERP, AI, Blockchain",,High,3,99,88,High,Advanced,Low,$600B,85,11,10,High,88,85
+Growmark FS,Sustainable SCM,250,4,10,92,91,"ERP, AI, Blockchain",,High,2,98,90,High,Advanced,High,$900B,82,11,8,High,91,85
+CPS (Crop Production Services),Lean Manufacturing,"10,000",6,10,90,89,"ERP, AI, Blockchain",,High,3,98,88,High,Advanced,Low,$700B,81,11,8,High,88,85
+Horizon Ag-Products,Vendor Managed Inventory,100,4.5,10,92,87,"ERP, AI, Blockchain",,High,2,97,85,High,Advanced,Medium,$800B,82,11,8,High,88,85
+Midwestern BioAg,Lean Manufacturing,"75,000",6.5,10,92,91,"ERP, AI, Blockchain",,High,2,98,90,High,Advanced,High,$800B,81,10,8,High,90,85
+Green Valley Chemical Corp.,Vendor Managed Inventory,"70,000",6,20,88,89,"ERP, AI, Robotics",,Medium,5,96,85,Medium,Advanced,Medium,$800B,85,10,12,Medium,85,80
+"Innvictis Crop Care, LLC",Agile SCM,100,4.2,18,90,88,"ERP, AI, Robotics",,High,5,97,85,High,Advanced,Medium,$900B,85,11,10,Medium,85,85
+XiteBio Technologies Inc.,Lean Manufacturing,200,4.5,7,98,85,"AI, ERP, Blockchain",,High,1,98,92,High,Advanced,High,$1500B,85,12,3,High,95,90
+Anuvia Plant Nutrients,Agile SCM,500,10,10,93,89,"ERP, AI, Blockchain",,High,2,98,88,High,Advanced,Medium,$800B,85,10,8,High,90,85
+"BioWorks, Inc.",Sustainable SCM,300,6.2,12,91,88,"ERP, AI, Blockchain",,High,3,99,88,High,Advanced,Low,$700B,85,11,10,High,88,85
+BioSafe Systems,Lean Manufacturing,300,4.2,22,89,90,"ERP, AI, Blockchain",,Medium,5,96,85,Medium,Advanced,Medium,$900B,80,9,15,Medium,85,80
+Terramera,Agile SCM,500,5,10,94,93,"ERP, AI, Blockchain",,High,2,98,88,High,Advanced,High,$500B,80,12,7,High,90,85
+Interagro (UK) Ltd.,Lean Manufacturing,400,6,15,91,85,"ERP, AI, Blockchain",,Medium,5,95,85,Medium,Advanced,Medium,$300B,85,10,10,Medium,85,80
+Agri-Products,Vendor Managed Inventory,150,5,11,90,90,"ERP, AI, Blockchain",,High,4,97,88,High,Advanced,Medium,$400B,85,9,10,High,87,80
+"Miller Chemical & Fertilizer, LLC",Agile SCM,100,5.2,20,88,88,"ERP, AI, Robotics",,Medium,5,96,85,Medium,Advanced,Medium,$800B,82,10,12,Medium,85,80
+Agricen Sciences,Sustainable SCM,200,4.2,12,91,85,"ERP, AI, Blockchain",,High,3,99,88,High,Advanced,Low,$700B,81,11,10,High,88,85
+AdvanSix,Vendor Managed Inventory,150,4.2,12,89,94,"ERP, AI, Robotics",,High,4,97,85,High,Advanced,Medium,$400B,85,10,10,Medium,85,80
+Koch Chemical Technology Group,Just-In-Time,"20,000",5.8,11,91,91,"ERP, AI, Blockchain",,High,3,99,88,High,Advanced,Low,$600B,85,11,10,High,88,85
+Cameron Chemicals,Lean Manufacturing,100,4,7,98,89,"ERP, AI, Blockchain",,High,1,98,90,High,Advanced,High,$1200B,85,12,3,High,95,90
+"AgriTec International, Inc.",Agile SCM,"1,300,000",10,18,88,93,"ERP, JIT, Robotics",,High,5,95,85,High,Advanced,Medium,$700B,85,10,12,Medium,85,80
+Biolchim S.p.A.,Demand-Driven SCM,200,4,12,91,88,"ERP, AI, Blockchain",,High,3,97,85,High,Advanced,Medium,$800B,85,11,10,High,88,85
+Tradecorp,Agile SCM,300,6,11,90,93,"ERP, AI, Blockchain",,High,4,97,88,High,Advanced,Medium,$400B,80,9,10,High,87,80
+Fertilizer Company of India,Agile SCM,100,5.2,14,90,92,"ERP, JIT, Robotics",,High,5,98,85,High,Advanced,Medium,$700B,80,10,10,Medium,85,80
+Mahadhan,Agile SCM,400,6,7,99,89,"AI, ERP, Blockchain",,High,2,98,92,High,Advanced,Low,$1200B,85,15,3,High,95,90
+Krishna Industrial Corporation,Cross-Docking,150,50,10,93,91,"ERP, AI, Blockchain",,High,2,98,88,High,Advanced,Medium,$800B,85,10,8,High,90,85
+Bhartiya Agro Chemicals,Agile SCM,150,6.2,12,91,90,"ERP, AI, Blockchain",,High,3,99,88,High,Advanced,Low,$700B,82,11,10,High,88,85
+Nagarjuna Fertilizers & Chemicals Limited,Lean Manufacturing,100,4.2,7,98,90,"ERP, AI, Blockchain",,High,1,98,90,High,Advanced,High,$1200B,81,12,3,High,95,90
+Southern Petrochemical Industries Corporation Ltd. (SPIC),Just-In-Time,300,10,11,90,92,"ERP, AI, Blockchain",,High,4,97,88,High,Advanced,Medium,$400B,85,9,10,High,87,80
+Paradeep Phosphates Limited,Agile SCM,150,5.2,9,92,94,"ERP, AI, Blockchain",,High,3,99,88,High,Advanced,Low,$800B,85,12,8,High,88,85
+Mangalore Chemicals & Fertilizers Limited,Demand-Driven SCM,500,3.5,2,98,90,"AI, Robotics, Blockchain",,High,1,99,88,High,Advanced,High,"$1,500B",85,20,5,High,90,85
+Factamfos,Vendor Managed Inventory,400,8.2,15,91,90,"ERP, AI, Robotics",,High,5,97,85,Medium,Advanced,Medium,$800B,85,10,12,Medium,85,85
+Madras Fertilizers Limited,Vendor Managed Inventory,300,5.2,8,94,89,"ERP, AI, Blockchain",,High,2,98,90,High,Advanced,Medium,$600B,85,12,7,High,90,85
+Zuari Global Limited,Vendor Managed Inventory,300,7,10,92,91,"ERP, AI, Blockchain",,High,4,98,85,High,Advanced,Medium,$500B,80,12,8,High,89,85
+Shriram Fertilizers and Chemicals,Lean Manufacturing,100,5.5,10,92,90,"ERP, AI, Blockchain",,High,2,98,90,High,Advanced,High,$900B,80,11,8,High,91,85
+Liberty Phosphates Limited,Lean Manufacturing,300,6,9,93,91,"ERP, AI, Blockchain",,High,2,98,90,High,Advanced,High,$900B,85,11,8,High,91,85
+Rajasthan State Mines and Minerals Limited,Lean Manufacturing,300,6,7,98,90,"AI, ERP, Blockchain",,High,1,98,92,High,Advanced,High,$1500B,85,12,3,High,95,90
+Meghmani Organics Limited,Lean Manufacturing,"10,000",10,2,98,89,"AI, ERP, Blockchain",,High,1,98,90,High,Advanced,High,$500B,82,12,5,High,90,85
+Indofil Industries Limited,Agile SCM,"20,000",8.3,10,92,88,"ERP, AI, Blockchain",,High,2,98,90,High,Advanced,High,$800B,81,10,8,High,90,85
+Vardhaman Fertilizers and Seeds Pvt. Ltd.,Lean Manufacturing,500,6,15,91,87,"ERP, AI, Blockchain",,Medium,5,95,85,Medium,Advanced,Medium,$300B,85,10,10,Medium,85,80
+Excel Crop Care Limited,Lean Manufacturing,200,5,3,97,88,"AI, Robotics, Blockchain",,High,1,98,90,High,Advanced,High,"$1,200B",85,18,5,High,90,88
+Bayer CropScience,Agile SCM,100,7.5,12,91,85,"ERP, AI, Blockchain",,High,3,97,85,High,Advanced,Medium,$800B,85,11,10,High,88,85
+DuPont Pioneer,Sustainable SCM,150,6,10,94,85,"ERP, AI, Blockchain",,High,2,98,88,High,Advanced,High,$500B,85,12,7,High,90,85
+Monsanto Company,Agile SCM,250,6,11,91,92,"ERP, AI, Blockchain",,High,3,99,88,High,Advanced,Low,$600B,85,11,10,High,88,85
+Syngenta AG,Lean Manufacturing,400,4,12,91,88,"ERP, AI, Blockchain",,High,3,99,88,High,Advanced,Low,$700B,80,11,10,High,88,85
+Dow AgroSciences,Agile SCM,200,4.2,10,90,89,"ERP, AI, Blockchain",,High,3,98,88,High,Advanced,Low,$700B,80,11,8,High,88,85
+BASF Agricultural Solutions,Demand-Driven SCM,"20,000",4.5,22,89,90,"ERP, AI, Blockchain",,Medium,5,96,85,Medium,Advanced,Medium,$900B,85,9,15,Medium,85,80
+Bayer AG,Agile SCM,500,5,18,90,90,"ERP, AI, Robotics",,High,5,97,85,High,Advanced,Medium,$900B,85,11,10,Medium,85,85
+Novozymes,Lean Manufacturing,200,4.5,18,88,88,"ERP, JIT, Robotics",,High,5,95,85,High,Advanced,Medium,$700B,82,10,12,Medium,85,80
+Sumitomo Chemical,Agile SCM,300,4,18,87,91,"ERP, AI, Robotics",,Medium,6,95,85,Medium,Advanced,Medium,$500B,81,9,15,Medium,85,80
+Arysta LifeScience,Lean Manufacturing,100,5,10,93,88,"ERP, AI, Blockchain",,High,2,98,88,High,Advanced,Medium,$800B,82,10,8,High,90,85
+FMC Corporation,Agile SCM,250,5.8,14,90,91,"ERP, AI, Blockchain",,Medium,4,97,85,Medium,Advanced,Medium,$800B,81,9,12,Medium,85,85
+ADAMA Agricultural Solutions,Lean Manufacturing,"20,000",5.5,8,94,89,"ERP, AI, Blockchain",,High,2,98,90,High,Advanced,Medium,$700B,85,12,7,High,90,85
+"Nippon Soda Co., Ltd.",Vendor Managed Inventory,150,4,15,91,90,"ERP, AI, Robotics",,High,5,97,85,Medium,Advanced,Medium,$800B,85,10,12,Medium,85,85
+Nufarm Limited,Efficient Consumer Response,"1,300,000",7.7,4,95,90,"AI, ERP, Blockchain",,High,1,98,88,High,Advanced,High,$300B,85,12,5,High,90,85
+ChemChina,Sustainable SCM,200,9,15,95,91,"ERP, AI, Blockchain",,High,10,95,80,High,Advanced,Medium,$1000B,85,8,12,Medium,88,85
+Cheminova A/S,Lean Manufacturing,200,2,12,89,87,"ERP, AI, Robotics",,High,4,97,85,High,Advanced,Medium,$400B,85,10,10,Medium,85,80
+Valent BioSciences,Agile SCM,500,1,8,94,93,"ERP, AI, Blockchain",,High,2,98,90,High,Advanced,Medium,$600B,80,12,7,High,90,85
+United Phosphorus Ltd. (UPL),Lean Manufacturing,150,7,11,90,85,"ERP, AI, Blockchain",,High,4,97,88,High,Advanced,Medium,$400B,80,9,10,High,87,80
+Isagro S.p.A.,Agile SCM,250,8,9,93,92,"ERP, AI, Blockchain",,High,2,97,88,High,Advanced,Medium,$700B,85,10,7,High,90,85
+"Mitsui Chemicals Agro, Inc.",Demand-Driven SCM,300,5,5,93,89,"ERP, AI, Blockchain",,High,2,98,90,High,Advanced,High,$500B,85,11,5,High,90,85
+Certis USA,Lean Manufacturing,"100,000",5.8,10,92,89,"ERP, AI, Blockchain",,High,2,98,90,High,Advanced,High,$800B,82,10,8,High,90,85
+American Vanguard Corporation,Agile SCM,200,4,10,92,85,"ERP, AI, Blockchain",,High,4,98,85,High,Advanced,Medium,$500B,81,12,8,High,89,85
+Rotam CropSciences,Vendor Managed Inventory,"10,000",4,8,94,85,"ERP, AI, Blockchain",,High,2,98,90,High,Advanced,Medium,$700B,85,12,7,High,90,85
+"Albaugh, LLC",Vendor Managed Inventory,"1,000,000",6,20,89,88,"ERP, AI, Blockchain",,Medium,5,96,85,Medium,Advanced,Medium,$900B,85,9,12,Medium,85,80
+Lallemand Plant Care,Agile SCM,200,4.5,7,98,89,"ERP, AI, Blockchain",,High,1,98,90,High,Advanced,High,$1200B,85,12,3,High,95,90
+Arysta LifeScience,Agile SCM,300,6.5,18,87,88,"ERP, AI, Robotics",,Medium,6,95,85,Medium,Advanced,Medium,$500B,85,9,15,Medium,85,80
+"BioWorks, Inc.",Sustainable SCM,150,6,9,93,90,"ERP, AI, Blockchain",,High,2,98,90,High,Advanced,High,$900B,85,11,8,High,91,85
+Marrone Bio Innovations,Vendor Managed Inventory,100,4.2,15,91,91,"ERP, AI, Blockchain",,Medium,5,95,85,Medium,Advanced,Medium,$300B,80,10,10,Medium,85,80
+Koppert Biological Systems,Just-In-Time,100,4.5,12,91,87,"ERP, AI, Blockchain",,High,3,99,88,High,Advanced,Low,$700B,80,11,10,High,88,85
+Symborg,Vendor Managed Inventory,300,10,10,90,89,"ERP, AI, Blockchain",,High,5,96,85,High,Advanced,Medium,$350B,85,11,8,High,87,85
+Verdesian Life Sciences,Lean Manufacturing,400,6.2,12,88,90,"AI, ERP, Blockchain",,Medium,4,97,80,Medium,Advanced,Medium,$400B,85,8,15,Medium,80,78
+Agrinos AS,Lean Manufacturing,400,4.2,12,89,88,"ERP, AI, Robotics",,High,4,97,85,High,Advanced,Medium,$400B,82,10,10,Medium,85,80
+Mycorrhizal Applications,Lean Manufacturing,300,5,12,90,89,"ERP, AI, Blockchain",,High,4,97,85,High,Advanced,Medium,$700B,81,9,8,High,88,85
+Premier Tech,Vendor Managed Inventory,150,6,14,90,92,"ERP, AI, Blockchain",,Medium,4,97,85,Medium,Advanced,Medium,$800B,85,9,12,Medium,85,85
+Inocucor Technologies Inc.,Agile SCM,500,5,10,92,88,"ERP, AI, Blockchain",,High,2,97,85,High,Advanced,Medium,$800B,85,11,8,High,88,85
+Rizobacter Argentina S.A.,Vendor Managed Inventory,1200,5.2,10,94,89,"ERP, AI, Blockchain",,High,2,98,88,High,Advanced,High,$500B,85,12,7,High,90,85
+Acadian Seaplants Limited,Agile SCM,359,4.2,14,88,92,"ERP, AI, Robotics",,High,5,97,85,Medium,Advanced,Medium,$500B,85,10,10,Medium,85,80
+Lallemand Plant Care,Agile SCM,459,4.2,8,94,89,"ERP, AI, Blockchain",,High,2,98,85,High,Advanced,Medium,$800B,85,10,5,High,90,85
+Italpollina,Lean Manufacturing,876,5.8,11,91,85,"ERP, AI, Blockchain",,High,3,99,88,High,Advanced,Low,$600B,80,11,10,High,88,85
+Symborg,Lean Manufacturing,655,4,10,90,88,"ERP, AI, Blockchain",,High,3,98,88,High,Advanced,Low,$700B,80,11,8,High,88,85
+Agricen,Agile SCM,4444,10,11,90,85,"ERP, AI, Blockchain",,High,4,97,88,High,Advanced,Medium,$600B,85,10,8,High,88,85
+Stoller USA Inc.,Lean Manufacturing,433,4,10,93,90,"ERP, AI, Blockchain",,High,2,98,88,High,Advanced,Medium,$800B,85,10,8,High,90,85
+Timac Agro USA,Vendor Managed Inventory,12000,6,11,90,90,"ERP, AI, Blockchain",,High,4,97,88,High,Advanced,Medium,$400B,82,9,10,High,87,80
+Andermatt Biocontrol,Lean Manufacturing,300,5.2,12,91,88,"ERP, AI, Blockchain",,High,3,99,88,High,Advanced,Low,$700B,81,11,10,High,88,85
+Stockton Group,Demand-Driven SCM,200,6,2,98,90,"AI, Robotics, Blockchain",,High,1,99,88,High,Advanced,High,"$1,500B",85,20,5,High,90,85
+Sostram Corporation,Lean Manufacturing,"20,000",50,12,91,90,"ERP, AI, Blockchain",,High,3,99,88,High,Advanced,Low,$700B,85,11,10,High,88,85
+"Terramera, Inc.",Sustainable SCM,500,6.2,18,87,85,"ERP, AI, Robotics",,Medium,6,95,85,Medium,Advanced,Medium,$500B,85,9,15,Medium,85,80
+Inocucor Technologies Inc.,Lean Manufacturing,100,4.2,12,89,88,"ERP, AI, Robotics",,High,4,97,85,High,Advanced,Medium,$400B,85,10,10,Medium,85,80
+Novozymes BioAg,Vendor Managed Inventory,200,10,18,88,94,"ERP, JIT, Robotics",,High,5,95,85,High,Advanced,Medium,$700B,85,10,12,Medium,85,80
+AgBiome Innovations,Lean Manufacturing,"20,000",5.2,11,91,91,"ERP, AI, Blockchain",,High,3,99,88,High,Advanced,Low,$600B,80,11,10,High,88,85
+Marrone Bio Innovations,Vendor Managed Inventory,400,3.5,10,92,89,"ERP, AI, Blockchain",,High,2,98,90,High,Advanced,High,$900B,80,11,8,High,91,85
+Indigo Agriculture,Agile SCM,"1,500",8.2,10,90,87,"ERP, AI, Blockchain",,High,3,98,88,High,Advanced,Low,$700B,85,11,8,High,88,85
+Pivot Bio,Lean Manufacturing,200,5.2,10,92,91,"ERP, AI, Blockchain",,High,2,97,85,High,Advanced,Medium,$800B,85,11,8,High,88,85
+Kula Bio,Agile SCM,500,7,10,92,89,"ERP, AI, Blockchain",,High,2,98,90,High,Advanced,High,$800B,82,10,8,High,90,85
+Holganix,Sustainable SCM,300,5.5,20,88,88,"ERP, AI, Robotics",,Medium,5,96,85,Medium,Advanced,Medium,$800B,81,10,12,Medium,85,80
+Cool Planet,Lean Manufacturing,500,6,18,90,85,"ERP, AI, Robotics",,High,5,97,85,High,Advanced,Medium,$900B,82,11,10,Medium,85,85
+"Actagro, LLC",Agile SCM,250,6,7,98,89,"AI, ERP, Blockchain",,High,1,98,92,High,Advanced,High,$1500B,81,12,3,High,95,90
+AgroLiquid,Lean Manufacturing,300,10,10,93,88,"ERP, AI, Blockchain",,High,2,98,88,High,Advanced,Medium,$800B,85,10,8,High,90,85
+Agro-K Corporation,Vendor Managed Inventory,250,8.3,12,91,90,"ERP, AI, Blockchain",,High,3,99,88,High,Advanced,Low,$700B,85,11,10,High,88,85
+American Plant Food Corporation,Agile SCM,"10,000",6,22,89,93,"ERP, AI, Blockchain",,Medium,5,96,85,Medium,Advanced,Medium,$900B,85,9,15,Medium,85,80
+Helena Chemical Company,Sustainable SCM,100,5,10,94,85,"ERP, AI, Blockchain",,High,2,98,88,High,Advanced,High,$500B,85,12,7,High,90,85
+Agrium Advanced Technologies,Vendor Managed Inventory,"75,000",7.5,15,91,90,"ERP, AI, Blockchain",,Medium,5,95,85,Medium,Advanced,Medium,$300B,85,10,10,Medium,85,80
+Supreme Growers,Just-In-Time,"70,000",6,11,90,88,"ERP, AI, Blockchain",,High,4,97,88,High,Advanced,Medium,$400B,80,9,10,High,87,80
+Southern States Cooperative,Lean Manufacturing,100,6,20,88,85,"ERP, AI, Robotics",,Medium,5,96,85,Medium,Advanced,Medium,$800B,80,10,12,Medium,85,80
+Royster-Clark,Agile SCM,200,4,12,91,94,"ERP, AI, Blockchain",,High,3,99,88,High,Advanced,Low,$700B,85,11,10,High,88,85
+TIMAC Agro USA,Demand-Driven SCM,500,4.2,12,89,91,"ERP, AI, Robotics",,High,4,97,85,High,Advanced,Medium,$400B,85,10,10,Medium,85,80
+"Andersons, Inc.",Agile SCM,300,4.5,11,91,89,"ERP, AI, Blockchain",,High,3,99,88,High,Advanced,Low,$600B,82,11,10,High,88,85
+Harrell’s LLC,Agile SCM,300,5,7,98,93,"ERP, AI, Blockchain",,High,1,98,90,High,Advanced,High,$1200B,81,12,3,High,95,90
+WinField United,Agile SCM,500,4.5,18,88,88,"ERP, JIT, Robotics",,High,5,95,85,High,Advanced,Medium,$700B,85,10,12,Medium,85,80
+AgXplore,Cross-Docking,400,4,12,91,93,"ERP, AI, Blockchain",,High,3,97,85,High,Advanced,Medium,$800B,85,11,10,High,88,85
+"Yargus Manufacturing, Inc.",Agile SCM,150,5,11,90,92,"ERP, AI, Blockchain",,High,4,97,88,High,Advanced,Medium,$400B,85,9,10,High,87,80
+"Plant Food Company, Inc.",Lean Manufacturing,100,5.8,14,90,89,"ERP, JIT, Robotics",,High,5,98,85,High,Advanced,Medium,$700B,85,10,10,Medium,85,80
+Krebbs Fertilizer,Just-In-Time,200,5.5,7,99,91,"AI, ERP, Blockchain",,High,2,98,92,High,Advanced,Low,$1200B,85,15,3,High,95,90
+Richland Fertilizer Co.,Agile SCM,150,4,10,93,90,"ERP, AI, Blockchain",,High,2,98,88,High,Advanced,Medium,$800B,80,10,8,High,90,85
+Martin Resources,Demand-Driven SCM,"20,000",7.7,12,91,90,"ERP, AI, Blockchain",,High,3,99,88,High,Advanced,Low,$700B,80,11,10,High,88,85
+Growmark FS,Vendor Managed Inventory,100,9,7,98,92,"ERP, AI, Blockchain",,High,1,98,90,High,Advanced,High,$1200B,85,12,3,High,95,90
+CPS (Crop Production Services),Vendor Managed Inventory,"1,300,000",2,11,90,94,"ERP, AI, Blockchain",,High,4,97,88,High,Advanced,Medium,$400B,85,9,10,High,87,80
+Horizon Ag-Products,Vendor Managed Inventory,200,1,9,92,90,"ERP, AI, Blockchain",,High,3,99,88,High,Advanced,Low,$800B,82,12,8,High,88,85
+Midwestern BioAg,Lean Manufacturing,300,7,2,98,90,"AI, Robotics, Blockchain",,High,1,99,88,High,Advanced,High,"$1,500B",81,20,5,High,90,85
+Green Valley Chemical Corp.,Lean Manufacturing,100,8,15,91,89,"ERP, AI, Robotics",,High,5,97,85,Medium,Advanced,Medium,$800B,85,10,12,Medium,85,85
+"Innvictis Crop Care, LLC",Lean Manufacturing,400,5,8,94,91,"ERP, AI, Blockchain",,High,2,98,90,High,Advanced,Medium,$600B,85,12,7,High,90,85
+XiteBio Technologies Inc.,Lean Manufacturing,150,5.8,10,92,90,"ERP, AI, Blockchain",,High,4,98,85,High,Advanced,Medium,$500B,85,12,8,High,89,85
+Anuvia Plant Nutrients,Agile SCM,150,4,10,92,91,"ERP, AI, Blockchain",,High,2,98,90,High,Advanced,High,$900B,85,11,8,High,91,85
+"BioWorks, Inc.",Lean Manufacturing,100,4,9,93,90,"ERP, AI, Blockchain",,High,2,98,90,High,Advanced,High,$900B,85,11,8,High,91,85
+BioSafe Systems,Agile SCM,300,6,7,98,89,"AI, ERP, Blockchain",,High,1,98,92,High,Advanced,High,$1500B,80,12,3,High,95,90
+Terramera,Lean Manufacturing,150,4.5,2,98,88,"AI, ERP, Blockchain",,High,1,98,90,High,Advanced,High,$500B,80,12,5,High,90,85
+Interagro (UK) Ltd.,Cross-Docking,500,6.5,10,92,87,"ERP, AI, Blockchain",,High,2,98,90,High,Advanced,High,$800B,85,10,8,High,90,85
+Agri-Products,Agile SCM,400,6,15,91,88,"ERP, AI, Blockchain",,Medium,5,95,85,Medium,Advanced,Medium,$300B,85,10,10,Medium,85,80
+"Miller Chemical & Fertilizer, LLC",Lean Manufacturing,300,4.2,3,97,85,"AI, Robotics, Blockchain",,High,1,98,90,High,Advanced,High,"$1,200B",82,18,5,High,90,88
+Agricen Sciences,Agile SCM,300,4.5,12,91,85,"ERP, AI, Blockchain",,High,3,97,85,High,Advanced,Medium,$800B,81,11,10,High,88,85
+AdvanSix,Sustainable SCM,100,10,10,94,92,"ERP, AI, Blockchain",,High,2,98,88,High,Advanced,High,$500B,85,12,7,High,90,85
+Koch Chemical Technology Group,Agile SCM,300,6.2,11,91,88,"ERP, AI, Blockchain",,High,3,99,88,High,Advanced,Low,$600B,85,11,10,High,88,85
+Cameron Chemicals,Lean Manufacturing,300,4.2,12,91,89,"ERP, AI, Blockchain",,High,3,99,88,High,Advanced,Low,$700B,85,11,10,High,88,85
+"AgriTec International, Inc.",Agile SCM,"10,000",5,10,90,90,"ERP, AI, Blockchain",,High,3,98,88,High,Advanced,Low,$700B,85,11,8,High,88,85
+Biolchim S.p.A.,Demand-Driven SCM,"20,000",6,22,89,90,"ERP, AI, Blockchain",,Medium,5,96,85,Medium,Advanced,Medium,$900B,85,9,15,Medium,85,80
+Tradecorp,Agile SCM,500,5,18,90,88,"ERP, AI, Robotics",,High,5,97,85,High,Advanced,Medium,$900B,80,11,10,Medium,85,85
+Fertilizer Company of India,Lean Manufacturing,200,5.2,18,88,91,"ERP, JIT, Robotics",,High,5,95,85,High,Advanced,Medium,$700B,80,10,12,Medium,85,80
+Mahadhan,Agile SCM,100,4.2,18,87,88,"ERP, AI, Robotics",,Medium,6,95,85,Medium,Advanced,Medium,$500B,85,9,15,Medium,85,80
+ArcelorMittal,Lean Manufacturing,150,4.2,10,93,91,"ERP, AI, Blockchain",,High,2,98,88,High,Advanced,Medium,$800B,85,10,8,High,90,85
+Nippon Steel Corporation,Agile SCM,250,5.8,14,90,89,"ERP, AI, Blockchain",,Medium,4,97,85,Medium,Advanced,Medium,$800B,82,9,12,Medium,85,85
+China Baowu Steel Group,Lean Manufacturing,400,4,8,94,90,"ERP, AI, Blockchain",,High,2,98,90,High,Advanced,Medium,$700B,81,12,7,High,90,85
+HBIS Group,Vendor Managed Inventory,200,10,15,91,90,"ERP, AI, Robotics",,High,5,97,85,Medium,Advanced,Medium,$800B,82,10,12,Medium,85,85
+POSCO,Efficient Consumer Response,"20,000",4,4,95,91,"AI, ERP, Blockchain",,High,1,98,88,High,Advanced,High,$300B,81,12,5,High,90,85
+Shagang Group,Sustainable SCM,500,6,15,95,87,"ERP, AI, Blockchain",,High,10,95,80,High,Advanced,Medium,$1000B,85,8,12,Medium,88,85
+Ansteel Group Corporation Limited,Lean Manufacturing,200,5.2,12,89,93,"ERP, AI, Robotics",,High,4,97,85,High,Advanced,Medium,$400B,85,10,10,Medium,85,80
+JFE Steel Corporation,Agile SCM,300,6,8,94,85,"ERP, AI, Blockchain",,High,2,98,90,High,Advanced,Medium,$600B,85,12,7,High,90,85
+Tata Steel,Lean Manufacturing,100,50,11,90,92,"ERP, AI, Blockchain",,High,4,97,88,High,Advanced,Medium,$400B,85,9,10,High,87,80
+Nucor Corporation,Agile SCM,250,6.2,9,93,89,"ERP, AI, Blockchain",,High,2,97,88,High,Advanced,Medium,$700B,85,10,7,High,90,85
+Hyundai Steel,Demand-Driven SCM,"20,000",4.2,5,93,89,"ERP, AI, Blockchain",,High,2,98,90,High,Advanced,High,$500B,80,11,5,High,90,85
+Thyssenkrupp,Lean Manufacturing,150,10,10,92,85,"ERP, AI, Blockchain",,High,2,98,90,High,Advanced,High,$800B,80,10,8,High,90,85
+Gerdau,Agile SCM,"1,300,000",5.2,10,92,85,"ERP, AI, Blockchain",,High,4,98,85,High,Advanced,Medium,$500B,85,12,8,High,89,85
+JSW Steel,Vendor Managed Inventory,200,3.5,8,94,88,"ERP, AI, Blockchain",,High,2,98,90,High,Advanced,Medium,$700B,85,12,7,High,90,85
+Shougang Group,Vendor Managed Inventory,200,8.2,20,89,89,"ERP, AI, Blockchain",,Medium,5,96,85,Medium,Advanced,Medium,$900B,82,9,12,Medium,85,80
+United States Steel Corporation,Agile SCM,500,5.2,7,98,88,"ERP, AI, Blockchain",,High,1,98,90,High,Advanced,High,$1200B,81,12,3,High,95,90
+Maanshan Iron and Steel Company (Masteel),Agile SCM,150,7,18,87,90,"ERP, AI, Robotics",,Medium,6,95,85,Medium,Advanced,Medium,$500B,85,9,15,Medium,85,80
+Evraz,Sustainable SCM,250,5.5,9,93,91,"ERP, AI, Blockchain",,High,2,98,90,High,Advanced,High,$900B,85,11,8,High,91,85
+Riva Group,Vendor Managed Inventory,300,6,15,91,87,"ERP, AI, Blockchain",,Medium,5,95,85,Medium,Advanced,Medium,$300B,85,10,10,Medium,85,80
+Severstal,Just-In-Time,"100,000",6,12,91,89,"ERP, AI, Blockchain",,High,3,99,88,High,Advanced,Low,$700B,85,11,10,High,88,85
+Benxi Steel Group,Vendor Managed Inventory,200,10,10,90,90,"ERP, AI, Blockchain",,High,5,96,85,High,Advanced,Medium,$350B,85,11,8,High,87,85
+China Steel Corporation (CSC),Lean Manufacturing,"10,000",8.3,12,88,88,"AI, ERP, Blockchain",,Medium,4,97,80,Medium,Advanced,Medium,$400B,80,8,15,Medium,80,78
+SAIL (Steel Authority of India Limited),Lean Manufacturing,"1,000,000",6,12,89,89,"ERP, AI, Robotics",,High,4,97,85,High,Advanced,Medium,$400B,80,10,10,Medium,85,80
+Rizhao Steel,Lean Manufacturing,200,5,12,90,92,"ERP, AI, Blockchain",,High,4,97,85,High,Advanced,Medium,$700B,85,9,8,High,88,85
+Valin Group,Vendor Managed Inventory,300,7.5,14,90,88,"ERP, AI, Blockchain",,Medium,4,97,85,Medium,Advanced,Medium,$800B,85,9,12,Medium,85,85
+Magnitogorsk Iron and Steel Works (MMK),Agile SCM,150,6,10,92,89,"ERP, AI, Blockchain",,High,2,97,85,High,Advanced,Medium,$800B,82,11,8,High,88,85
+NLMK Group,Vendor Managed Inventory,100,6,10,94,92,"ERP, AI, Blockchain",,High,2,98,88,High,Advanced,High,$500B,81,12,7,High,90,85
+Novolipetsk Steel (NLMK),Agile SCM,100,4,14,88,89,"ERP, AI, Robotics",,High,5,97,85,Medium,Advanced,Medium,$500B,85,10,10,Medium,85,80
+Essar Steel,Agile SCM,300,4.2,8,94,85,"ERP, AI, Blockchain",,High,2,98,85,High,Advanced,Medium,$800B,85,10,5,High,90,85
+Baotou Iron and Steel Group (Baogang Group),Lean Manufacturing,400,4.5,11,91,88,"ERP, AI, Blockchain",,High,3,99,88,High,Advanced,Low,$600B,85,11,10,High,88,85
+Metalloinvest,Lean Manufacturing,400,5,10,90,85,"ERP, AI, Blockchain",,High,3,98,88,High,Advanced,Low,$700B,85,11,8,High,88,85
+Liberty Steel Group,Agile SCM,300,4.5,11,90,90,"ERP, AI, Blockchain",,High,4,97,88,High,Advanced,Medium,$600B,85,10,8,High,88,85
+Outokumpu,Lean Manufacturing,150,4,10,93,90,"ERP, AI, Blockchain",,High,2,98,88,High,Advanced,Medium,$800B,80,10,8,High,90,85
+Acerinox,Vendor Managed Inventory,500,5,11,90,88,"ERP, AI, Blockchain",,High,4,97,88,High,Advanced,Medium,$400B,80,9,10,High,87,80
+Aperam,Lean Manufacturing,300,5.8,12,91,90,"ERP, AI, Blockchain",,High,3,99,88,High,Advanced,Low,$700B,85,11,10,High,88,85
+Allegheny Technologies Incorporated (ATI),Demand-Driven SCM,200,5.5,2,98,90,"AI, Robotics, Blockchain",,High,1,99,88,High,Advanced,High,"$1,500B",85,20,5,High,90,85
+BlueScope Steel,Lean Manufacturing,"20,000",4,12,91,85,"ERP, AI, Blockchain",,High,3,99,88,High,Advanced,Low,$700B,82,11,10,High,88,85
+SSAB (Swedish Steel),Sustainable SCM,500,7.7,18,87,88,"ERP, AI, Robotics",,Medium,6,95,85,Medium,Advanced,Medium,$500B,81,9,15,Medium,85,80
+Sahaviriya Steel Industries,Lean Manufacturing,100,9,12,89,94,"ERP, AI, Robotics",,High,4,97,85,High,Advanced,Medium,$400B,85,10,10,Medium,85,80
+Voestalpine AG,Vendor Managed Inventory,200,2,18,88,91,"ERP, JIT, Robotics",,High,5,95,85,High,Advanced,Medium,$700B,85,10,12,Medium,85,80
+Usinas Siderúrgicas de Minas Gerais (Usiminas),Lean Manufacturing,"20,000",1,11,91,89,"ERP, AI, Blockchain",,High,3,99,88,High,Advanced,Low,$600B,85,11,10,High,88,85
+AK Steel Holding,Vendor Managed Inventory,400,7,10,92,87,"ERP, AI, Blockchain",,High,2,98,90,High,Advanced,High,$900B,85,11,8,High,91,85
+"Steel Dynamics, Inc.",Agile SCM,"1,500",8,10,90,91,"ERP, AI, Blockchain",,High,3,98,88,High,Advanced,Low,$700B,85,11,8,High,88,85
+Commercial Metals Company (CMC),Lean Manufacturing,200,7,10,92,89,"ERP, AI, Blockchain",,High,2,97,85,High,Advanced,Medium,$800B,80,11,8,High,88,85
+Nisshin Steel,Agile SCM,500,5.2,10,92,88,"ERP, AI, Blockchain",,High,2,98,90,High,Advanced,High,$800B,80,10,8,High,90,85
+Dongkuk Steel Mill,Sustainable SCM,300,7.5,20,88,85,"ERP, AI, Robotics",,Medium,5,96,85,Medium,Advanced,Medium,$800B,85,10,12,Medium,85,80
+Companhia Siderúrgica Nacional (CSN),Lean Manufacturing,500,10.5,18,90,89,"ERP, AI, Robotics",,High,5,97,85,High,Advanced,Medium,$900B,85,11,10,Medium,85,85
+HBIS Tangsteel,Agile SCM,250,5.8,7,98,88,"AI, ERP, Blockchain",,High,1,98,92,High,Advanced,High,$1500B,82,12,3,High,95,90
+Nippon Steel Nisshin,Lean Manufacturing,300,7,10,93,90,"ERP, AI, Blockchain",,High,2,98,88,High,Advanced,Medium,$800B,81,10,8,High,90,85
+ThyssenKrupp Steel Europe,Vendor Managed Inventory,250,5.2,12,91,93,"ERP, AI, Blockchain",,High,3,99,88,High,Advanced,Low,$700B,82,11,10,High,88,85
+"KOBE Steel, Ltd.",Agile SCM,"10,000",6,22,89,85,"ERP, AI, Blockchain",,Medium,5,96,85,Medium,Advanced,Medium,$900B,81,9,15,Medium,85,80
+Aichi Steel Corporation,Sustainable SCM,100,7.2,10,94,90,"ERP, AI, Blockchain",,High,2,98,88,High,Advanced,High,$500B,85,12,7,High,90,85
+Jindal Steel and Power Limited,Vendor Managed Inventory,"75,000",6,15,91,88,"ERP, AI, Blockchain",,Medium,5,95,85,Medium,Advanced,Medium,$300B,85,10,10,Medium,85,80
+Zenith Steel Group,Just-In-Time,"70,000",5.5,11,90,85,"ERP, AI, Blockchain",,High,4,97,88,High,Advanced,Medium,$400B,85,9,10,High,87,80
+TimkenSteel Corporation,Lean Manufacturing,100,7,20,88,94,"ERP, AI, Robotics",,Medium,5,96,85,Medium,Advanced,Medium,$800B,85,10,12,Medium,85,80
+Feralpi Group,Agile SCM,200,4.5,12,91,91,"ERP, AI, Blockchain",,High,3,99,88,High,Advanced,Low,$700B,85,11,10,High,88,85
+Voestalpine Texas LLC,Demand-Driven SCM,500,10,12,89,89,"ERP, AI, Robotics",,High,4,97,85,High,Advanced,Medium,$400B,80,10,10,Medium,85,80
+Baosteel Group,Agile SCM,300,5,11,91,93,"ERP, AI, Blockchain",,High,3,99,88,High,Advanced,Low,$600B,80,11,10,High,88,85
+Tata Steel Europe,Agile SCM,300,6,7,98,88,"ERP, AI, Blockchain",,High,1,98,90,High,Advanced,High,$1200B,85,12,3,High,95,90
+Wuhan Iron and Steel Corporation (WISCO),Agile SCM,500,5,18,88,93,"ERP, JIT, Robotics",,High,5,95,85,High,Advanced,Medium,$700B,85,10,12,Medium,85,80
+Metinvest,Cross-Docking,400,4.2,12,91,92,"ERP, AI, Blockchain",,High,3,97,85,High,Advanced,Medium,$800B,82,11,10,High,88,85
+Arrium,Agile SCM,150,6.5,11,90,89,"ERP, AI, Blockchain",,High,4,97,88,High,Advanced,Medium,$400B,81,9,10,High,87,80
+British Steel Limited,Lean Manufacturing,100,7.5,14,90,91,"ERP, JIT, Robotics",,High,5,98,85,High,Advanced,Medium,$700B,85,10,10,Medium,85,80
+Kloeckner Metals Corporation,Just-In-Time,200,5.8,7,99,90,"AI, ERP, Blockchain",,High,2,98,92,High,Advanced,Low,$1200B,85,15,3,High,95,90
+Vallourec,Agile SCM,150,5,10,93,90,"ERP, AI, Blockchain",,High,2,98,88,High,Advanced,Medium,$800B,85,10,8,High,90,85
+SSINA (Specialty Steel Industry of North America),Demand-Driven SCM,"20,000",5.5,12,91,92,"ERP, AI, Blockchain",,High,3,99,88,High,Advanced,Low,$700B,85,11,10,High,88,85
+O'Neal Steel,Vendor Managed Inventory,100,6.5,7,98,94,"ERP, AI, Blockchain",,High,1,98,90,High,Advanced,High,$1200B,85,12,3,High,95,90
+Reliance Steel & Aluminum Co.,Vendor Managed Inventory,"1,300,000",6,11,90,90,"ERP, AI, Blockchain",,High,4,97,88,High,Advanced,Medium,$400B,80,9,10,High,87,80
+"Leeco Steel, LLC",Vendor Managed Inventory,200,5,9,92,90,"ERP, AI, Blockchain",,High,3,99,88,High,Advanced,Low,$800B,80,12,8,High,88,85
+"Samuel, Son & Co., Limited",Lean Manufacturing,300,5.8,2,98,89,"AI, Robotics, Blockchain",,High,1,99,88,High,Advanced,High,"$1,500B",85,20,5,High,90,85
+Russel Metals Inc.,Lean Manufacturing,100,4,15,91,91,"ERP, AI, Robotics",,High,5,97,85,Medium,Advanced,Medium,$800B,85,10,12,Medium,85,85
+"thyssenkrupp Materials NA, Inc.",Lean Manufacturing,400,4.5,8,94,90,"ERP, AI, Blockchain",,High,2,98,90,High,Advanced,Medium,$600B,82,12,7,High,90,85
+AM Castle & Co.,Lean Manufacturing,150,5.5,10,92,91,"ERP, AI, Blockchain",,High,4,98,85,High,Advanced,Medium,$500B,81,12,8,High,89,85
+Ryerson Holding Corporation,Agile SCM,150,5.8,10,92,90,"ERP, AI, Blockchain",,High,2,98,90,High,Advanced,High,$900B,85,11,8,High,91,85
+Steel Warehouse Company LLC,Lean Manufacturing,100,5.2,9,93,89,"ERP, AI, Blockchain",,High,2,98,90,High,Advanced,High,$900B,85,11,8,High,91,85
+Alro Steel Corporation,Lean Manufacturing,300,4.2,7,98,88,"AI, ERP, Blockchain",,High,1,98,92,High,Advanced,High,$1500B,85,12,3,High,95,90
+"Olympic Steel, Inc.",Agile SCM,150,8.2,2,98,87,"AI, ERP, Blockchain",,High,1,98,90,High,Advanced,High,$500B,85,12,5,High,90,85
+Kloeckner Metals UK,Sustainable SCM,500,4.2,10,92,88,"ERP, AI, Blockchain",,High,2,98,90,High,Advanced,High,$800B,85,10,8,High,90,85
+Barrett Steel Limited,Agile SCM,400,5,15,91,85,"ERP, AI, Blockchain",,Medium,5,95,85,Medium,Advanced,Medium,$300B,80,10,10,Medium,85,80
+Celsa Group,Lean Manufacturing,300,5.8,3,97,85,"AI, Robotics, Blockchain",,High,1,98,90,High,Advanced,High,"$1,200B",80,18,5,High,90,88
+Grupo Simec,Agile SCM,300,4,12,91,92,"ERP, AI, Blockchain",,High,3,97,85,High,Advanced,Medium,$800B,85,11,10,High,88,85
+Jiangsu Shagang Group,Demand-Driven SCM,100,4,10,94,88,"ERP, AI, Blockchain",,High,2,98,88,High,Advanced,High,$500B,85,12,7,High,90,85
+Steel Authority of India Limited (SAIL),Agile SCM,300,6,11,91,89,"ERP, AI, Blockchain",,High,3,99,88,High,Advanced,Low,$600B,82,11,10,High,88,85
+Mechel,Lean Manufacturing,300,4.5,12,91,90,"ERP, AI, Blockchain",,High,3,99,88,High,Advanced,Low,$700B,81,11,10,High,88,85
+Tata Steel India,Agile SCM,"10,000",6.5,10,90,90,"ERP, AI, Blockchain",,High,3,98,88,High,Advanced,Low,$700B,85,11,8,High,88,85
+Guangdong Shaogang Group,Lean Manufacturing,"20,000",6,22,89,88,"ERP, AI, Blockchain",,Medium,5,96,85,Medium,Advanced,Medium,$900B,85,9,15,Medium,85,80
+Shaanxi Steel,Agile SCM,500,4.2,18,90,91,"ERP, AI, Robotics",,High,5,97,85,High,Advanced,Medium,$900B,85,11,10,Medium,85,85
+Panzhihua Iron and Steel,Lean Manufacturing,200,4.5,18,88,88,"ERP, JIT, Robotics",,High,5,95,85,High,Advanced,Medium,$700B,85,10,12,Medium,85,80
+Capital Steel Group (Shougang),Vendor Managed Inventory,100,10,18,87,91,"ERP, AI, Robotics",,Medium,6,95,85,Medium,Advanced,Medium,$500B,85,9,15,Medium,85,80
+"Jiuquan Iron and Steel (Group) Co., Ltd.",Efficient Consumer Response,150,6.2,10,93,89,"ERP, AI, Blockchain",,High,2,98,88,High,Advanced,Medium,$800B,80,10,8,High,90,85
+CITIC Pacific Special Steel Group,Sustainable SCM,250,4.2,14,90,90,"ERP, AI, Blockchain",,Medium,4,97,85,Medium,Advanced,Medium,$800B,80,9,12,Medium,85,85
+Valbruna Stainless Steel,Lean Manufacturing,400,5,8,94,90,"ERP, AI, Blockchain",,High,2,98,90,High,Advanced,Medium,$700B,85,12,7,High,90,85
+Carpenter Technology Corporation,Agile SCM,200,6,15,91,91,"ERP, AI, Robotics",,High,5,97,85,Medium,Advanced,Medium,$800B,85,10,12,Medium,85,85
+Erdemir Group,Lean Manufacturing,"20,000",5,4,95,87,"AI, ERP, Blockchain",,High,1,98,88,High,Advanced,High,$300B,82,12,5,High,90,85
+Esfahan Steel Company,Agile SCM,500,5.2,15,95,93,"ERP, AI, Blockchain",,High,10,95,80,High,Advanced,Medium,$1000B,81,8,12,Medium,88,85
+Wuhan Iron & Steel Group Corporation,Demand-Driven SCM,200,4.2,12,89,85,"ERP, AI, Robotics",,High,4,97,85,High,Advanced,Medium,$400B,82,10,10,Medium,85,80
+Essar Group,Lean Manufacturing,300,4.2,8,94,92,"ERP, AI, Blockchain",,High,2,98,90,High,Advanced,Medium,$600B,81,12,7,High,90,85
+Jindal Stainless,Agile SCM,100,5.8,11,90,89,"ERP, AI, Blockchain",,High,4,97,88,High,Advanced,Medium,$400B,85,9,10,High,87,80
+Gerdau S.A.,Vendor Managed Inventory,250,4,9,93,89,"ERP, AI, Blockchain",,High,2,97,88,High,Advanced,Medium,$700B,85,10,7,High,90,85
+Companhia Siderúrgica do Pecém (CSP),Vendor Managed Inventory,"20,000",10,5,93,85,"ERP, AI, Blockchain",,High,2,98,90,High,Advanced,High,$500B,85,11,5,High,90,85
+Guangxi Liuzhou Iron and Steel Group,Agile SCM,150,4,10,92,85,"ERP, AI, Blockchain",,High,2,98,90,High,Advanced,High,$800B,85,10,8,High,90,85
+Zenith Iron & Steel Group,Agile SCM,"1,300,000",6,10,92,88,"ERP, AI, Blockchain",,High,4,98,85,High,Advanced,Medium,$500B,85,12,8,High,89,85
+Hebei Iron & Steel Group,Sustainable SCM,200,5.2,8,94,89,"ERP, AI, Blockchain",,High,2,98,90,High,Advanced,Medium,$700B,80,12,7,High,90,85
+TimkenSteel Corporation,Vendor Managed Inventory,200,6,20,89,88,"ERP, AI, Blockchain",,Medium,5,96,85,Medium,Advanced,Medium,$900B,80,9,12,Medium,85,80
+Long Products Canada,Just-In-Time,500,50,7,98,90,"ERP, AI, Blockchain",,High,1,98,90,High,Advanced,High,$1200B,85,12,3,High,95,90
+Qingdao Iron and Steel Group,Vendor Managed Inventory,150,6.2,18,87,91,"ERP, AI, Robotics",,Medium,6,95,85,Medium,Advanced,Medium,$500B,85,9,15,Medium,85,80
+Jiangyin Xingcheng Special Steel,Lean Manufacturing,250,4.2,9,93,87,"ERP, AI, Blockchain",,High,2,98,90,High,Advanced,High,$900B,82,11,8,High,91,85
+Ternium,Lean Manufacturing,300,10,15,91,89,"ERP, AI, Blockchain",,Medium,5,95,85,Medium,Advanced,Medium,$300B,81,10,10,Medium,85,80
+"Shanxi Taigang Stainless Steel Co., Ltd.",Lean Manufacturing,"100,000",5.2,12,91,90,"ERP, AI, Blockchain",,High,3,99,88,High,Advanced,Low,$700B,85,11,10,High,88,85
+Walsin Lihwa Corporation,Vendor Managed Inventory,200,3.5,10,90,88,"ERP, AI, Blockchain",,High,5,96,85,High,Advanced,Medium,$350B,85,11,8,High,87,85
+"TISCO (Taiyuan Iron and Steel Co., Ltd.)",Agile SCM,"10,000",8.2,12,88,89,"AI, ERP, Blockchain",,Medium,4,97,80,Medium,Advanced,Medium,$400B,85,8,15,Medium,80,78
+"Anyang Iron & Steel Group Co., Ltd.",Vendor Managed Inventory,"1,000,000",5.2,12,89,92,"ERP, AI, Robotics",,High,4,97,85,High,Advanced,Medium,$400B,85,10,10,Medium,85,80
+"Lingyuan Iron and Steel Co., Ltd.",Agile SCM,200,7,12,90,88,"ERP, AI, Blockchain",,High,4,97,85,High,Advanced,Medium,$700B,85,9,8,High,88,85
+"Gansu Jiu Steel Group Hongxing Iron & Steel Co., Ltd.",Agile SCM,300,5.5,14,90,89,"ERP, AI, Blockchain",,Medium,4,97,85,Medium,Advanced,Medium,$800B,80,9,12,Medium,85,85
+"Shandong Iron and Steel Group Co., Ltd.",Lean Manufacturing,150,6,10,92,92,"ERP, AI, Blockchain",,High,2,97,85,High,Advanced,Medium,$800B,80,11,8,High,88,85
+"Inner Mongolia Baotou Steel Union Co., Ltd.",Lean Manufacturing,100,6,10,94,89,"ERP, AI, Blockchain",,High,2,98,88,High,Advanced,High,$500B,85,12,7,High,90,85
+Hebei Jingye Group,Agile SCM,100,10,14,88,85,"ERP, AI, Robotics",,High,5,97,85,Medium,Advanced,Medium,$500B,85,10,10,Medium,85,80
+Xinxing Ductile Iron Pipes,Lean Manufacturing,300,8.3,8,94,88,"ERP, AI, Blockchain",,High,2,98,85,High,Advanced,Medium,$800B,82,10,5,High,90,85
+Shagang Group,Vendor Managed Inventory,400,6,11,91,85,"ERP, AI, Blockchain",,High,3,99,88,High,Advanced,Low,$600B,81,11,10,High,88,85
+HBIS Handan Iron & Steel Group,Lean Manufacturing,400,5,10,90,90,"ERP, AI, Blockchain",,High,3,98,88,High,Advanced,Low,$700B,85,11,8,High,88,85
+"Beitai Iron & Steel Group Co., Ltd.",Demand-Driven SCM,300,7.5,11,90,90,"ERP, AI, Blockchain",,High,4,97,88,High,Advanced,Medium,$600B,85,10,8,High,88,85
+Xiwang Special Steel,Lean Manufacturing,150,6,10,93,88,"ERP, AI, Blockchain",,High,2,98,88,High,Advanced,Medium,$800B,85,10,8,High,90,85
+Benxi Iron and Steel Group,Sustainable SCM,500,6,11,90,90,"ERP, AI, Blockchain",,High,4,97,88,High,Advanced,Medium,$400B,85,9,10,High,87,80
+Zenith Iron & Steel Group,Lean Manufacturing,1200,4,12,91,90,"ERP, AI, Blockchain",,High,3,99,88,High,Advanced,Low,$700B,85,11,10,High,88,85
+Hangzhou Iron and Steel Group Company,Vendor Managed Inventory,359,4.2,2,98,85,"AI, Robotics, Blockchain",,High,1,99,88,High,Advanced,High,"$1,500B",80,20,5,High,90,85
+Gerdau Long Steel North America,Lean Manufacturing,459,4.5,12,91,88,"ERP, AI, Blockchain",,High,3,99,88,High,Advanced,Low,$700B,80,11,10,High,88,85
+"Steel Dynamics, Inc.",Vendor Managed Inventory,876,5,18,87,94,"ERP, AI, Robotics",,Medium,6,95,85,Medium,Advanced,Medium,$500B,85,9,15,Medium,85,80
+NLMK Indiana,Agile SCM,655,4.5,12,89,91,"ERP, AI, Robotics",,High,4,97,85,High,Advanced,Medium,$400B,85,10,10,Medium,85,80
+AK Steel,Lean Manufacturing,4444,4,18,88,89,"ERP, JIT, Robotics",,High,5,95,85,High,Advanced,Medium,$700B,82,10,12,Medium,85,80
+Commercial Metals Company,Agile SCM,433,5,11,91,87,"ERP, AI, Blockchain",,High,3,99,88,High,Advanced,Low,$600B,81,11,10,High,88,85
+Sidenor,Sustainable SCM,12000,5.8,10,92,91,"ERP, AI, Blockchain",,High,2,98,90,High,Advanced,High,$900B,85,11,8,High,91,85
+Ovako,Lean Manufacturing,300,5.5,10,90,89,"ERP, AI, Blockchain",,High,3,98,88,High,Advanced,Low,$700B,85,11,8,High,88,85
+ArcelorMittal Dofasco,Agile SCM,200,10.5,10,92,88,"ERP, AI, Blockchain",,High,2,97,85,High,Advanced,Medium,$800B,85,11,8,High,88,85
+Nippon Steel Corporation,Lean Manufacturing,"20,000",5.8,10,92,85,"ERP, AI, Blockchain",,High,2,98,90,High,Advanced,High,$800B,85,10,8,High,90,85
+Hyundai Steel Company,Vendor Managed Inventory,500,7,20,88,89,"ERP, AI, Robotics",,Medium,5,96,85,Medium,Advanced,Medium,$800B,85,10,12,Medium,85,80
+POSCO (Pohang Iron and Steel Company),Agile SCM,100,5.2,18,90,88,"ERP, AI, Robotics",,High,5,97,85,High,Advanced,Medium,$900B,80,11,10,Medium,85,85
+Jiangsu Yonggang Group,Sustainable SCM,200,6,7,98,90,"AI, ERP, Blockchain",,High,1,98,92,High,Advanced,High,$1500B,80,12,3,High,95,90
+"JFE Holdings, Inc.",Vendor Managed Inventory,"20,000",7.2,10,93,93,"ERP, AI, Blockchain",,High,2,98,88,High,Advanced,Medium,$800B,85,10,8,High,90,85
+"Nanjing Iron & Steel United Co., Ltd.",Just-In-Time,400,6,12,91,85,"ERP, AI, Blockchain",,High,3,99,88,High,Advanced,Low,$700B,85,11,10,High,88,85
+"Guangdong Shaogang Songshan Co., Ltd.",Lean Manufacturing,"1,500",5.5,22,89,90,"ERP, AI, Blockchain",,Medium,5,96,85,Medium,Advanced,Medium,$900B,82,9,15,Medium,85,80
+China Steel Corporation,Agile SCM,200,7,10,94,88,"ERP, AI, Blockchain",,High,2,98,88,High,Advanced,High,$500B,81,12,7,High,90,85
+Tata Steel BSL,Demand-Driven SCM,500,4.5,15,91,85,"ERP, AI, Blockchain",,Medium,5,95,85,Medium,Advanced,Medium,$300B,82,10,10,Medium,85,80
+HBIS Group Tangshan Iron and Steel Company,Agile SCM,300,10,11,90,94,"ERP, AI, Blockchain",,High,4,97,88,High,Advanced,Medium,$400B,81,9,10,High,87,80
+Chongqing Iron & Steel Company,Agile SCM,500,5,20,88,91,"ERP, AI, Robotics",,Medium,5,96,85,Medium,Advanced,Medium,$800B,85,10,12,Medium,85,80
+Taiyuan Iron & Steel (Group) Co. Ltd.,Agile SCM,250,6,12,91,89,"ERP, AI, Blockchain",,High,3,99,88,High,Advanced,Low,$700B,85,11,10,High,88,85
+Benxi Beiying Iron & Steel (Group) Co. Ltd.,Cross-Docking,300,5,12,89,93,"ERP, AI, Robotics",,High,4,97,85,High,Advanced,Medium,$400B,85,10,10,Medium,85,80
+Ansteel Group Corporation,Agile SCM,250,4.2,11,91,88,"ERP, AI, Blockchain",,High,3,99,88,High,Advanced,Low,$600B,85,11,10,High,88,85
+Maanshan Iron & Steel Company Limited,Lean Manufacturing,"10,000",6.5,7,98,93,"ERP, AI, Blockchain",,High,1,98,90,High,Advanced,High,$1200B,85,12,3,High,95,90
+Tianjin Iron and Steel Group,Just-In-Time,100,7.5,18,88,92,"ERP, JIT, Robotics",,High,5,95,85,High,Advanced,Medium,$700B,80,10,12,Medium,85,80
+Sanming Iron & Steel,Agile SCM,"75,000",5.8,12,91,89,"ERP, AI, Blockchain",,High,3,97,85,High,Advanced,Medium,$800B,80,11,10,High,88,85
+"Xining Special Steel Co., Ltd.",Demand-Driven SCM,"70,000",5,11,90,91,"ERP, AI, Blockchain",,High,4,97,88,High,Advanced,Medium,$400B,85,9,10,High,87,80
+Angang Steel Company Limited,Vendor Managed Inventory,100,5.5,14,90,90,"ERP, JIT, Robotics",,High,5,98,85,High,Advanced,Medium,$700B,85,10,10,Medium,85,80
+"Baosteel Resources Co., Ltd.",Vendor Managed Inventory,200,6.5,7,99,90,"AI, ERP, Blockchain",,High,2,98,92,High,Advanced,Low,$1200B,82,15,3,High,95,90
+Ruukki,Vendor Managed Inventory,500,6,10,93,92,"ERP, AI, Blockchain",,High,2,98,88,High,Advanced,Medium,$800B,81,10,8,High,90,85
+"Baoji Titanium Industry Co., Ltd.",Lean Manufacturing,300,5,12,91,94,"ERP, AI, Blockchain",,High,3,99,88,High,Advanced,Low,$700B,85,11,10,High,88,85
+"Shandong Iron & Steel Xinheng Special Steel Co., Ltd.",Lean Manufacturing,300,5.8,7,98,90,"ERP, AI, Blockchain",,High,1,98,90,High,Advanced,High,$1200B,85,12,3,High,95,90
+Ezz Steel,Lean Manufacturing,500,4,11,90,90,"ERP, AI, Blockchain",,High,4,97,88,High,Advanced,Medium,$400B,85,9,10,High,87,80
+G Steel Public Company Limited,Lean Manufacturing,400,4.5,9,92,89,"ERP, AI, Blockchain",,High,3,99,88,High,Advanced,Low,$800B,85,12,8,High,88,85
+PT Krakatau Steel,Agile SCM,150,5.5,2,98,91,"AI, Robotics, Blockchain",,High,1,99,88,High,Advanced,High,"$1,500B",85,20,5,High,90,85
+Union Iron & Steel Company LLC,Lean Manufacturing,100,5.8,15,91,90,"ERP, AI, Robotics",,High,5,97,85,Medium,Advanced,Medium,$800B,80,10,12,Medium,85,85
+Kuwait Steel,Agile SCM,200,5.2,8,94,91,"ERP, AI, Blockchain",,High,2,98,90,High,Advanced,Medium,$600B,80,12,7,High,90,85
+Qasco (Qatar Steel),Lean Manufacturing,150,4.2,10,92,90,"ERP, AI, Blockchain",,High,4,98,85,High,Advanced,Medium,$500B,85,12,8,High,89,85
+Emirates Steel Industries (ESI),Cross-Docking,"20,000",8.2,10,92,89,"ERP, AI, Blockchain",,High,2,98,90,High,Advanced,High,$900B,85,11,8,High,91,85
+Al Ghurair Iron & Steel LLC,Agile SCM,100,4.2,9,93,88,"ERP, AI, Blockchain",,High,2,98,90,High,Advanced,High,$900B,82,11,8,High,91,85
+Dragon Steel Corporation,Lean Manufacturing,"1,300,000",5,7,98,87,"AI, ERP, Blockchain",,High,1,98,92,High,Advanced,High,$1500B,81,12,3,High,95,90
+NatSteel Holdings Pte Ltd,Agile SCM,200,5.8,2,98,88,"AI, ERP, Blockchain",,High,1,98,90,High,Advanced,High,$500B,85,12,5,High,90,85
+"Acerinox, S.A.",Sustainable SCM,300,4,10,92,85,"ERP, AI, Blockchain",,High,2,98,90,High,Advanced,High,$800B,85,10,8,High,90,85
+Aperam South America,Agile SCM,100,4,15,91,85,"ERP, AI, Blockchain",,Medium,5,95,85,Medium,Advanced,Medium,$300B,85,10,10,Medium,85,80
+Laminados Industriales S.A.,Lean Manufacturing,400,6,3,97,92,"AI, Robotics, Blockchain",,High,1,98,90,High,Advanced,High,"$1,200B",85,18,5,High,90,88
+Tenaris,Agile SCM,150,4.5,12,91,88,"ERP, AI, Blockchain",,High,3,97,85,High,Advanced,Medium,$800B,85,11,10,High,88,85
+Sidenor Aceros Especiales,Demand-Driven SCM,150,6.5,10,94,89,"ERP, AI, Blockchain",,High,2,98,88,High,Advanced,High,$500B,80,12,7,High,90,85
+Sandvik Materials Technology,Agile SCM,100,6,11,91,90,"ERP, AI, Blockchain",,High,3,99,88,High,Advanced,Low,$600B,80,11,10,High,88,85
+Carpenter Technology Corporation,Lean Manufacturing,300,4.2,12,91,90,"ERP, AI, Blockchain",,High,3,99,88,High,Advanced,Low,$700B,85,11,10,High,88,85
+"Universal Stainless & Alloy Products, Inc.",Agile SCM,150,4.5,10,90,88,"ERP, AI, Blockchain",,High,3,98,88,High,Advanced,Low,$700B,85,11,8,High,88,85
+Thyssenkrupp VDM GmbH,Lean Manufacturing,500,10,22,89,91,"ERP, AI, Blockchain",,Medium,5,96,85,Medium,Advanced,Medium,$900B,82,9,15,Medium,85,80
+Thyssenkrupp Stainless USA,Agile SCM,400,6.2,18,90,88,"ERP, AI, Robotics",,High,5,97,85,High,Advanced,Medium,$900B,81,11,10,Medium,85,85
+North American Stainless (NAS),Lean Manufacturing,300,4.2,18,88,91,"ERP, JIT, Robotics",,High,5,95,85,High,Advanced,Medium,$700B,85,10,12,Medium,85,80
+Outokumpu Stainless,Vendor Managed Inventory,300,5,18,87,89,"ERP, AI, Robotics",,Medium,6,95,85,Medium,Advanced,Medium,$500B,85,9,15,Medium,85,80
+Allegheny Technologies Incorporated,Efficient Consumer Response,100,6,10,93,90,"ERP, AI, Blockchain",,High,2,98,88,High,Advanced,Medium,$800B,85,10,8,High,90,85
+Jindal Stainless Limited,Sustainable SCM,300,5,14,90,90,"ERP, AI, Blockchain",,Medium,4,97,85,Medium,Advanced,Medium,$800B,85,9,12,Medium,85,85
+Mexinox,Lean Manufacturing,300,5.2,8,94,91,"ERP, AI, Blockchain",,High,2,98,90,High,Advanced,Medium,$700B,85,12,7,High,90,85
+Columbus Stainless,Agile SCM,"10,000",4.2,15,91,87,"ERP, AI, Robotics",,High,5,97,85,Medium,Advanced,Medium,$800B,80,10,12,Medium,85,85
+Ambica Steels Limited,Lean Manufacturing,"20,000",4.2,4,95,93,"AI, ERP, Blockchain",,High,1,98,88,High,Advanced,High,$300B,80,12,5,High,90,85
+Sandvik AB,Agile SCM,500,5.8,15,95,85,"ERP, AI, Blockchain",,High,10,95,80,High,Advanced,Medium,$1000B,85,8,12,Medium,88,85
+"Daido Steel Co., Ltd.",Demand-Driven SCM,200,4,12,89,92,"ERP, AI, Robotics",,High,4,97,85,High,Advanced,Medium,$400B,85,10,10,Medium,85,80
+Aichi Steel Corporation,Lean Manufacturing,100,10,8,94,89,"ERP, AI, Blockchain",,High,2,98,90,High,Advanced,Medium,$600B,82,12,7,High,90,85
+"Sanyo Special Steel Co., Ltd.",Agile SCM,150,4,11,90,89,"ERP, AI, Blockchain",,High,4,97,88,High,Advanced,Medium,$400B,81,9,10,High,87,80
+"Nippon Yakin Kogyo Co., Ltd.",Vendor Managed Inventory,250,6,9,93,85,"ERP, AI, Blockchain",,High,2,97,88,High,Advanced,Medium,$700B,85,10,7,High,90,85
+"Sumitomo Electric Industries, Ltd.",Vendor Managed Inventory,400,5.2,5,93,85,"ERP, AI, Blockchain",,High,2,98,90,High,Advanced,High,$500B,85,11,5,High,90,85
+"Mitsubishi Steel Mfg. Co., Ltd.",Agile SCM,200,6,10,92,88,"ERP, AI, Blockchain",,High,2,98,90,High,Advanced,High,$800B,85,10,8,High,90,85
+"Hitachi Metals, Ltd.",Agile SCM,"20,000",50,10,92,89,"ERP, AI, Blockchain",,High,4,98,85,High,Advanced,Medium,$500B,85,12,8,High,89,85
+"Nippon Koshuha Steel Co., Ltd.",Sustainable SCM,500,6.2,8,94,88,"ERP, AI, Blockchain",,High,2,98,90,High,Advanced,Medium,$700B,85,12,7,High,90,85
+"The Japan Steel Works, Ltd.",Vendor Managed Inventory,200,4.2,20,89,90,"ERP, AI, Blockchain",,Medium,5,96,85,Medium,Advanced,Medium,$900B,80,9,12,Medium,85,80
+"Tokyo Steel Manufacturing Co., Ltd.",Just-In-Time,300,10,7,98,91,"ERP, AI, Blockchain",,High,1,98,90,High,Advanced,High,$1200B,80,12,3,High,95,90
+"Kobe Steel, Ltd.",Vendor Managed Inventory,100,5.2,18,87,87,"ERP, AI, Robotics",,Medium,6,95,85,Medium,Advanced,Medium,$500B,85,9,15,Medium,85,80
+JFE Steel Corporation,Lean Manufacturing,250,3.5,9,93,89,"ERP, AI, Blockchain",,High,2,98,90,High,Advanced,High,$900B,85,11,8,High,91,85
+"Nisshin Steel Co., Ltd.",Lean Manufacturing,"20,000",8.2,15,91,90,"ERP, AI, Blockchain",,Medium,5,95,85,Medium,Advanced,Medium,$300B,82,10,10,Medium,85,80
+NSSMC,Lean Manufacturing,150,5.2,12,91,88,"ERP, AI, Blockchain",,High,3,99,88,High,Advanced,Low,$700B,81,11,10,High,88,85
+Vallourec & Mannesmann Tubes,Vendor Managed Inventory,"1,300,000",7,10,90,89,"ERP, AI, Blockchain",,High,5,96,85,High,Advanced,Medium,$350B,85,11,8,High,87,85
+Tubacex,Agile SCM,200,5.5,12,88,92,"AI, ERP, Blockchain",,Medium,4,97,80,Medium,Advanced,Medium,$400B,85,8,15,Medium,80,78
+

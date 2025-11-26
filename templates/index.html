@@ -1,0 +1,77 @@
+{% extends "base.html" %}
+{% block content %}
+
+<div class="hero">
+    <h1 class="hero-title">Apple Supply Chain<br>Intelligence Platform</h1>
+    <p class="hero-subtitle">Real-time Enterprise Performance • Risk • Resilience • Sustainability</p>
+</div>
+
+<div class="grid-3">
+    <div class="card">
+        <h3>On-Time Delivery Rate</h3>
+        <p class="big-number">{{ kpis.avg_fulfillment }}%</p>
+        <small>Global average across 999 companies</small>
+    </div>
+    <div class="card">
+        <h3>Avg Lead Time</h3>
+        <p class="big-number">{{ kpis.avg_lead_time }}<small> days</small></p>
+        <small>Supplier → Customer</small>
+    </div>
+    <div class="card">
+        <h3>Supply Chain Risk</h3>
+        <p class="big-number">{{ kpis.avg_risk }}%</p>
+        <small>Lower is better</small>
+    </div>
+    <div class="card">
+        <h3>Resilience Score</h3>
+        <p class="big-number">{{ kpis.avg_resilience | round(1) }}</p>
+        <small>Out of 100</small>
+    </div>
+    <div class="card">
+        <h3>Customer Satisfaction</h3>
+        <p class="big-number">{{ kpis.avg_satisfaction }}%</p>
+        <small>Industry benchmark</small>
+    </div>
+    <div class="card">
+        <h3>Technology Adoption</h3>
+        <p class="big-number">{{ kpis.avg_tech_adoption | int }}/100</p>
+        <small>AI, Blockchain, IoT maturity</small>
+    </div>
+</div>
+
+<div class="chart-container">
+    <canvas id="performanceChart"></canvas>
+</div>
+
+<script>
+    document.addEventListener('DOMContentLoaded', () => {
+        fetch('/api/predict_performance')
+            .then(r => r.json())
+            .then(data => {
+                new Chart(document.getElementById('performanceChart'), {
+                    type: 'line',
+                    data: {
+                        labels: data.dates,
+                        datasets: [{
+                            label: '30-Day Fulfillment Forecast (%)',
+                            data: data.forecast,
+                            borderColor: '#0071e3',
+                            backgroundColor: 'rgba(0,113,227,0.1)',
+                            tension: 0.4,
+                            fill: true,
+                            pointBackgroundColor: '#0071e3'
+                        }]
+                    },
+                    options: {
+                        responsive: true,
+                        plugins: {
+                            title: { display: true, text: 'Supply Chain Performance Forecast', font: { size: 18 } }
+                        },
+                        scales: { y: { min: 80, max: 100 } }
+                    }
+                });
+            });
+    });
+</script>
+
+{% endblock %}

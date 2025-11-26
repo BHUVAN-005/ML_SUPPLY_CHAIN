@@ -1,0 +1,186 @@
+{% extends "base.html" %}
+{% block content %}
+
+<div class="hero">
+  <h1 class="hero-title">Supplier & Partner<br>Intelligence</h1>
+  <p class="hero-subtitle">Real-time risk scoring • Performance benchmarking • Strategic insights</p>
+</div>
+
+<!-- Top KPI Cards -->
+<div class="grid-3">
+  <div class="card">
+    <h3>Avg Supplier Risk</h3>
+    <p class="big-number">{{ kpis.avg_risk }}%</p>
+    <small>Across 999 companies</small>
+  </div>
+  <div class="card">
+    <h3>Avg Lead Time</h3>
+    <p class="big-number">{{ kpis.avg_lead_time }}<small> days</small></p>
+    <small>Order to delivery</small>
+  </div>
+  <div class="card">
+    <h3>Technology Adoption</h3>
+    <p class="big-number">{{ kpis.avg_tech_adoption | int }}/100</p>
+    <small>AI • Blockchain • IoT</small>
+  </div>
+</div>
+
+<!-- Risk Distribution Chart -->
+<div class="chart-container">
+  <canvas id="riskChart"></canvas>
+</div>
+
+<!-- Top Performers & High Risk -->
+<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 30px; margin-top: 40px;">
+  <!-- Top Performers -->
+  <div class="chart-container">
+    <h2 style="text-align: center; margin-bottom: 20px; color: #1d1d1f;">Top Performers</h2>
+    <canvas id="topPerformersChart"></canvas>
+  </div>
+
+  <!-- High Risk Suppliers -->
+  <div class="chart-container">
+    <h2 style="text-align: center; margin-bottom: 20px; color: #1d1d1f;">High Risk Alert</span></h2>
+    <canvas id="highRiskChart"></canvas>
+  </div>
+</div>
+
+<!-- Interactive Table -->
+<div class="chart-container" style="margin-top: 50px; overflow-x: auto;">
+  <h2 style="margin-bottom: 20px; color: #1d1d1f;">All Suppliers & Partners</h2>
+  <input type="text" id="searchInput" placeholder="Search company..." style="width: 100%; padding: 12px; margin-bottom: 20px; border: 1px solid #d2d2d7; border-radius: 12px; font-size: 16px;">
+
+  <table id="suppliersTable" style="width: 100%; border-collapse: collapse; font-size: 15px;">
+    <thead style="background: #f5f5f7;">
+      <tr>
+        <th style="padding: 14px; text-align: left;">Company</th>
+        <th style="padding: 14px; text-align: left;">Risk %</th>
+        <th style="padding: 14px; text-align: left;">Lead Time</th>
+        <th style="padding: 14px; text-align: left;">Fulfillment</th>
+        <th style="padding: 14px; text-align: left;">Satisfaction</th>
+        <th style="padding: 14px; text-align: left;">Agility</th>
+        <th style="padding: 14px; text-align: left;">Tech Level</th>
+      </tr>
+    </thead>
+    <tbody id="tableBody">
+      <!-- Filled by JS -->
+    </tbody>
+  </table>
+</div>
+
+<!-- Chart.js + Table Script -->
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+<script>
+document.addEventListener('DOMContentLoaded', () => {
+  // 1. Risk Distribution
+  fetch('/api/supplier_risk_distribution')
+    .then(r => r.json())
+    .then(data => {
+      new Chart(document.getElementById('riskChart'), {
+        type: 'doughnut',
+        data: {
+          labels: ['Low Risk', 'Medium Risk', 'High Risk'],
+          datasets: [{
+            data: data.counts,
+            backgroundColor: ['#34c759', '#ff9f0a', '#ff453a'],
+            borderWidth: 0
+          }]
+        },
+        options: {
+          responsive: true,
+          plugins: {
+            title: { display: true, text: 'Supply Chain Risk Distribution', font: { size: 18, weight: '600' } },
+            legend: { position: 'bottom' }
+          }
+        }
+      });
+    });
+
+  // 2. Top Performers
+  fetch('/api/top_performers')
+    .then(r => r.json())
+    .then(data => {
+      new Chart(document.getElementById('topPerformersChart'), {
+        type: 'bar',
+        data: {
+          labels: data.names,
+          datasets: [{
+            label: 'Resilience Score',
+            data: data.scores,
+            backgroundColor: '#0071e3',
+            borderRadius: 8
+          }]
+        },
+        options: {
+          responsive: true,
+          plugins: {
+            title: { display: false },
+            legend: { display: false }
+          },
+          scales: { y: { min: 60, max: 100 } }
+        }
+      });
+    });
+
+  // 3. High Risk
+  fetch('/api/high_risk')
+    .then(r => r.json())
+    .then(data => {
+      new Chart(document.getElementById('highRiskChart'), {
+        type: 'bar',
+        data: {
+          labels: data.names,
+          datasets: [{
+            label: 'Risk %',
+            data: data.risks,
+            backgroundColor: '#ff453a',
+            borderRadius: 8
+          }]
+        },
+        options: {
+          responsive: true,
+          plugins: {
+            title: { display: false },
+            legend: { display: false }
+          },
+          scales: { y: { min: 50, max: 100 } }
+        }
+      });
+    });
+
+  // 4. Full Table + Search
+  fetch('/api/all_suppliers')
+    .then(r => r.json())
+    .then(companies => {
+      const tbody = document.getElementById('tableBody');
+      const search = document.getElementById('searchInput');
+
+      function renderTable(data) {
+        tbody.innerHTML = '';
+        data.forEach(c => {
+          const row = document.createElement('tr');
+          row.style.background = c.risk > 70 ? 'rgba(255,69,58,0.05)' : '';
+          row.innerHTML = `
+            <td style="padding: 14px;">${c.name}</td>
+            <td style="padding: 14px; color: ${c.risk > 70 ? '#ff453a' : c.risk > 50 ? '#ff9f0a' : '#34c759'}; font-weight: 600;">${c.risk}%</td>
+            <td style="padding: 14px;">${c.lead_time} days</td>
+            <td style="padding: 14px;">${c.fulfillment}%</td>
+            <td style="padding: 14px;">${c.satisfaction}%</td>
+            <td style="padding: 14px;">${c.agility}</td>
+            <td style="padding: 14px;">${c.tech}</td>
+          `;
+          tbody.appendChild(row);
+        });
+      }
+
+      renderTable(companies);
+      search.addEventListener('input', (e) => {
+        const term = e.target.value.toLowerCase();
+        const filtered = companies.filter(c => c.name.toLowerCase().includes(term));
+        renderTable(filtered);
+      });
+    });
+});
+</script>
+
+{% endblock %}
